@@ -59,25 +59,23 @@ def extract_text_from_url(url):
 
     return text
 
-def extract_text_from_url(url):
+import camelot
+
+def read_table(pdf_path):
     uuid4 = uuid.uuid4()
     temp_filename = "temp" + str(uuid4)
-    content_type = download_file(url, temp_filename)
+    content_type = download_file(pdf_path, temp_filename)
 
     if "application/pdf" in content_type:
         temp_filename += ".pdf"
         os.rename("temp" + str(uuid4), temp_filename)
-        text = extract_text(temp_filename)
-    elif "text/plain" in content_type:
-        temp_filename += ".txt"
-        os.rename("temp" + str(uuid4), temp_filename)
-        with open(temp_filename, "r", encoding="utf-8") as f:
-            text = f.read()
-    else:
-        os.remove("temp" + str(uuid4))
-        raise ValueError("Unsupported file type")
+        # Trích xuất bảng từ file PDF
+        tables = camelot.read_pdf(temp_filename, pages='all')
+
+        # Chuyển bảng đầu tiên sang Markdown
+        markdown_table = tables[0].df.to_markdown(index=False)
 
     # Xóa file tạm thời sau khi xử lý
     os.remove(temp_filename)
-
-    return text
+    
+    return markdown_table   
