@@ -2,16 +2,16 @@ from docx import Document
 import pandas as pd
 
 # Đường dẫn tới file .docx
-file_path = r'Quy trình TTDN_SV.docx'
+file_path = r'QuyDinh.docx'
 
 # Mở file .docx
 doc = Document(file_path)
 
 # Mở file markdown để ghi
-with open('Textfile/Quy trình TTDN_SV.txt', 'w', encoding='utf-8') as f:
+with open('Clean_data/QuyDinhDRL.txt', 'w', encoding='utf-8') as f:
     for element in doc.element.body:
         if element.tag.endswith('p'):  # Nếu phần tử là đoạn văn
-            paragraph = element.text.strip()
+            paragraph = element.text
             if paragraph:  # Ghi chỉ nếu đoạn văn không rỗng
                 f.write(paragraph + '\n\n')  # Giữ khoảng cách giữa các đoạn văn
 
@@ -20,7 +20,7 @@ with open('Textfile/Quy trình TTDN_SV.txt', 'w', encoding='utf-8') as f:
             f.write("### Table:\n\n")
 
             # Lấy bảng tương ứng từ doc.tables
-            table = doc.tables[0]  # Giả sử bạn muốn lấy bảng đầu tiên
+            table = doc.tables[1]  # Giả sử bạn muốn lấy bảng đầu tiên
 
             # Chuyển đổi bảng thành DataFrame
             data = []
@@ -34,5 +34,4 @@ with open('Textfile/Quy trình TTDN_SV.txt', 'w', encoding='utf-8') as f:
             # Ghi DataFrame ở định dạng Markdown
             f.write(df.to_markdown(index=False))  # Sử dụng showindex=False
             f.write("\n\n" + "-" * 50 + "\n")  # Phân cách giữa các bảng
-
 print("Đã ghi nội dung vào 'output.md'.")
