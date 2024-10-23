@@ -2,26 +2,27 @@ from docx import Document
 import pandas as pd
 
 # Đường dẫn tới file .docx
-file_path = r'QuyDinh.docx'
+file_path = r'QuyDinh'
 
 # Mở file .docx
 doc = Document(file_path)
 
 # Mở file markdown để ghi
-with open('Clean_data/QuyDinhDRL.txt', 'w', encoding='utf-8') as f:
+with open('Clean_data/QuyDinhDRL111.txt', 'w', encoding='utf-8') as f:
+    cnt = 0
     for element in doc.element.body:
         if element.tag.endswith('p'):  # Nếu phần tử là đoạn văn
             paragraph = element.text
-            if paragraph:  # Ghi chỉ nếu đoạn văn không rỗng
-                f.write(paragraph + '\n\n')  # Giữ khoảng cách giữa các đoạn văn
+            if paragraph:  
+                f.write(paragraph + '\n\n')  
 
         elif element.tag.endswith('tbl'):  # Nếu phần tử là bảng
             # Ghi tiêu đề bảng
             f.write("### Table:\n\n")
 
             # Lấy bảng tương ứng từ doc.tables
-            table = doc.tables[1]  # Giả sử bạn muốn lấy bảng đầu tiên
-
+            table = doc.tables[cnt]  
+            cnt += 1 
             # Chuyển đổi bảng thành DataFrame
             data = []
             for row in table.rows:
@@ -32,6 +33,6 @@ with open('Clean_data/QuyDinhDRL.txt', 'w', encoding='utf-8') as f:
             df = pd.DataFrame(data)
 
             # Ghi DataFrame ở định dạng Markdown
-            f.write(df.to_markdown(index=False))  # Sử dụng showindex=False
-            f.write("\n\n" + "-" * 50 + "\n")  # Phân cách giữa các bảng
+            f.write(df.to_markdown(index=False))  
+            f.write("\n\n" + "-" * 50 + "\n")  
 print("Đã ghi nội dung vào 'output.md'.")
