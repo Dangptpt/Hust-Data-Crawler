@@ -2,7 +2,6 @@ Title: Lịch nộp hồ sơ nhập học 28,29,30/8/2024
 I. Hồ sơ nhập học gồm có:
 1) Phiếu kê khai thông tin sinh viên in ra từ hệ thống kê khai thông tin online: 01 bản có cam kết của gia đình và xác nhận của UBND xã/ phương nơi gia đình sinh viên cư trú. Bạn thực hiện kê khai tại đây 
 https://nhaphoc.hust.edu.vn/
-https://nhaphoc.hust.edu.vn/
 2) Giấy chứng nhận kết quả thi tốt nghiệp THPT 2024: Bản gốc
 3) Bản sao giấy khai sinh: 01 bản sao có công chứng
 4) Học bạ THPT: Bản gốc
@@ -156,69 +155,59 @@ Thứ 2 đến thứ 6: 8h00 – 21h00
 Thứ 7 và Chủ nhật: 8h00 – 16h00.
 Các phòng còn lại phục vụ theo giờ hành chính: sáng 8h00 – 12h00 ; chiều 13h00 – 17h30
 2. Tài nguyên thông tin
-Tài liệu bản in:
+- Tài liệu bản in:
 https://libopac.hust.edu.vn/
- Thư viện có 125.475 đầu sách, tương đương 426.680 cuốn. Bao gồm: Giáo trình, sách tham khảo, báo, tạp chí, luận văn, luận án, sách lịch sử, văn học, kỹ năng sống.v.v..
-Tài nguyên số:
- Thư viện hiện có trang Thư viện số và một số cơ sở dữ liệu điện tử có giá trị như:
+Thư viện có 125.475 đầu sách, tương đương 426.680 cuốn. Bao gồm: Giáo trình, sách tham khảo, báo, tạp chí, luận văn, luận án, sách lịch sử, văn học, kỹ năng sống.v.v..
+- Tài nguyên số:
+Thư viện hiện có trang Thư viện số và một số cơ sở dữ liệu điện tử có giá trị như:
 CSDL Proquest Ebook:
 https://0-ebookcentral-proquest-com.libopac.hust.edu.vn/lib/hustvn-ebooks/home.action
 127 ebook
-CSDL đa ngành Proquest Central
+- CSDL đa ngành Proquest Central
 https://www.proquest.com/index?parentSessionId=gQmVVVX35SKkbD5DhWufkdp02yoSjubECs9EaHZzriA%3D&accountid=39767
-:
- Bao gồm 13.000 tạp chí, 56.000 luận văn, 43.000 hồ sơ doanh nghiệp, 1.000 tài liệu hội nghị và 1.300 bài báo quốc tế.
-CSDL ScienceDirect
+Bao gồm 13.000 tạp chí, 56.000 luận văn, 43.000 hồ sơ doanh nghiệp, 1.000 tài liệu hội nghị và 1.300 bài báo quốc tế.
+- CSDL ScienceDirect
 https://libopac.hust.edu.vn/iii/cas/login?service=https%3A%2F%2Flibopac.hust.edu.vn%3A443%2Fpatroninfo~S1*vie%2F0%2Fredirect%3D%2Fwamvalidate%3Furl%3Dhttps%253A%252F%252F0-www-sciencedirect-com.libopac.hust.edu.vn%253A443%252FIIITICKET&lang=vie&scope=1
-:
- 2.897 tạp chí
-CSDL Sage:
+2.897 tạp chí
+- CSDL Sage:
 https://0-journals-sagepub-com.libopac.hust.edu.vn/
- 962 tạp chí
-CSDL IG
+962 tạp chí
+- CSDL IG
 https://0-portal-igpublish-com.libopac.hust.edu.vn/
-:
 6.000 ebook
-Trang tài nguyên số 
+- Trang tài nguyên số 
 https://dlib.hust.edu.vn/
-https://dlib.hust.edu.vn/
- bao gồm 22.000 tài liệu là luận văn, luận án, bài giảng, học liệu mở.
+bao gồm 22.000 tài liệu là luận văn, luận án, bài giảng, học liệu mở.
 3. Sản phẩm và dịch vụ
 a/ Sản phẩm
 Để nâng cao hiệu quả sử dụng các nguồn tài nguyên thông tin nói trên, thư viện tạo lập một số các sản phẩm thông tin như:
-Thư mục thông báo sách mới
-Thư mục sách chuyên ngành
-Thư mục tài liệu điện tử theo học phần
-Ấn phẩm thông tin tóm tắt
+- Thư mục thông báo sách mới
+- Thư mục sách chuyên ngành
+- Thư mục tài liệu điện tử theo học phần
+-Ấn phẩm thông tin tóm tắt
 b/ Dịch vụ
 Hệ thống phòng phục vụ của thư viện gồm 11 phòng: trong đó có 4 phòng đọc chuyên ngành, 1 phòng Luận văn luận án, 2 phòng mượn tài liệu về nhà và 4 phòng tự học.
 Trong đó, Phòng đọc chuyên ngành là nơi sinh viên đến nghiên cứu, học tập, trao đổi; Ngoài các giáo trình, sách tham khảo, không gian học tập tại thư viện rất rộng rãi, được trang bị điều hòa và hệ thống máy tính có kết nối mạng, wifi.
 Phòng mượn cũng là một địa chỉ mà sinh viên rất quan tâm, tại đây, sinh viên được mượn giáo trình, sách tham khảo về nhà, thời gian mượn lên đến 3 tháng và hoàn toàn miễn phí.
 Bên cạnh đó, Thư viện còn có các dịch vụ như Cung cấp thông tin theo yêu cầu, giải đáp thắc mắc, mượn liên thư viện…nhằm hỗ trợ tối đa cho việc giảng dạy, học tập của cán bộ và sinh viên Đại học.
-4. Hướng dẫn sử dụng Thư viện
-:
+4. Hướng dẫn sử dụng Thư viện:
 Sinh viên xem thêm hướng dẫn sử dụng thư viện tại link:
-https://library.hust.edu.vn/vi/node/54
 https://library.hust.edu.vn/vi/node/54
 
 
 Title: Hồ sơ đăng ký tạm trú
 Sau khi nhập học, nếu sinh viên tạm trú tại ký túc xá hoặc nơi ở mới cần chuẩn bị các giấy tờ sau để làm thủ tục đăng ký tạm trú tại nơi cư trú (quy trình đăng ký tạm trú thực hiện theo hướng dẫn của Công an Xác/ phường nơi sinh viên đăng ký tạm trú):
 1. Bản photocopy Giấy báo trúng tuyển đại học;
-2. Tờ khai thay đổi thông tin cư trú để đăng ký tạm trú tại nơi ở mới (mẫu CT01 ban hành theo Thông tư số 55/2021/TT-BCA, ngày 15/5/2021 lấy 
-TẠI ĐÂY
+2. Tờ khai thay đổi thông tin cư trú để đăng ký tạm trú tại nơi ở mới (mẫu CT01 ban hành theo Thông tư số 55/2021/TT-BCA, ngày 15/5/2021 lấy TẠI ĐÂY
 https://husteduvn-my.sharepoint.com/:w:/g/personal/khai_tranquang_hust_edu_vn1/EfMbM3aLTM1Kisg2DgACgYMB2AgDQGiTnKF1p5AX3elnhw?e=Mx17gK
-);
 3. Bản photocopy Thẻ CCCD hoặc CMND (mang theo bản chính để so sánh);
 4. Ảnh thẻ 3x4: 02 ảnh chụp trên nền xanh, mặc áo sáng mầu có cổ.
 Các bạn đọc thêm cách khai báo thủ tục tạm vắng/tạm trú trên Cổng dịch vụ công Quốc gia:
-Hướng dẫn thủ thục Khai báo tạm vắng
-tại đây;
+- Hướng dẫn thủ thục Khai báo tạm vắng tại đây;
 https://dichvucong.gov.vn/p/home/dvc-tthc-thu-tuc-hanh-chinh-chi-tiet.html?ma_thu_tuc=5252&open_popup=1
-Hướng dẫn thủ tục Khai báo tạm trú 
-tại đây
+- Hướng dẫn thủ tục Khai báo tạm trú tại đây
 https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-nganh-doc.html?ma_thu_tuc=1.004194
- (với sinh viên ở KTX sẽ không cần thực hiện bước này, Ban quản lý KTX sẽ hỗ trợ bạn thủ tục này).
+(với sinh viên ở KTX sẽ không cần thực hiện bước này, Ban quản lý KTX sẽ hỗ trợ bạn thủ tục này).
 
 
 Title: Hướng dẫn thủ tục di chuyển nghĩa vụ quân sự (NVQS)
@@ -227,15 +216,14 @@ Nam sinh viên đang theo học tại ĐHBK Hà Nội thuộc diện được t�
 Không tiếp nhận công dân trong độ tuổi gọi nhập ngũ đến trường nhập học mà không có Hồ sơ NVQS.
 Để hoàn thành thủ tục nhập học và được tạm hoãn nghia vụ quân sự, khi nhập học tại ĐHBK HN sinh viên xin các loại giấy tờ và thực hiện theo hướng dẫn sau:
 Bước 1: Chuẩn bị 2 loại giấy tờ sau (Xem mẫu bên dưới):
-Giấy 1: Giấy Chứng nhận đăng ký nghĩa vụ quân sự (Bản photocopy).
-Giấy 2: Phiếu Giới thiệu di chuyển nghĩa vụ quân sự hoặc Xác nhận đăng ký vắng mặt do Ban chỉ huy quân sự xã (phường, thị trấn) nơi đăng ký hộ khẩu cấp;
+- Giấy 1: Giấy Chứng nhận đăng ký nghĩa vụ quân sự (Bản photocopy).
+- Giấy 2: Phiếu Giới thiệu di chuyển nghĩa vụ quân sự hoặc Xác nhận đăng ký vắng mặt do Ban chỉ huy quân sự xã (phường, thị trấn) nơi đăng ký hộ khẩu cấp;
 Bước 2:
-Kê khai thông tin vào các mục tương ứng trên trang nhaphoc.hust.edu.vn
-Ngày nhập học, Các bạn nộp 
-Phiếu giới thiệu di chuyển nghĩa vụ quân sự
- khi nhập học theo hướng dẫn của Ban CTSV;
-Nhà trường trả giấy xác nhận tiếp nhận Giới thiệu di chuyển nghĩa vụ quân sự thông qua ban cán sự lớp.
-Thông tin tham khảo chi tiết xem tại đây.
+- Kê khai thông tin vào các mục tương ứng trên trang nhaphoc.hust.edu.vn
+- Ngày nhập học, Các bạn nộp 
+- Phiếu giới thiệu di chuyển nghĩa vụ quân sự
+- Khi nhập học theo hướng dẫn của Ban CTSV; Nhà trường trả giấy xác nhận tiếp nhận Giới thiệu di chuyển nghĩa vụ quân sự thông qua ban cán sự lớp.
+Thông tin tham khảo chi tiết xem tại đây
 https://drive.google.com/drive/folders/1N33ANnWQEHiHUGbPXI6lbgbd1X7NLHa2?usp=sharing
 Riêng với các sinh viên đã hoàn thành nghĩa vụ quân sự cần photo công chứng hồ sơ xuất ngũ kẹp vào hồ sơ.
 
@@ -244,41 +232,26 @@ Title: Đăng ký ở ký túc xá và tìm nhà trọ
 Thấu hiểu những khó khăn sinh viên sẽ gặp phải trong quá trình sống xa nhà, các đơn vị phòng ban chức năng của ĐH Bách khoa Hà Nội triển khai nhiều giải pháp để giúp các sinh viên ngoại tỉnh tìm kiếm nới ở phù hợp nhất có thể như:
 Các bạn sinh viên đăng ký ở KTX Bách Khoa và KTX Pháp Vân
 1. Năm học 2024-2025, Nhà trường dành khoảng 1.000 chỗ ở trong KTX cho sinh viên khóa 69 và ưu tiên cho những sinh viên thuộc diện chính sách, sinh viên thuộc hộ nghèo/ cận nghèo, sinh viên nữ và sinh viên ở các tỉnh xa.
-Sinh viên có thể 
-đăng ký trực tuyến
- tại địa chỉ: 
+Sinh viên có thể đăng ký trực tuyến tại địa chỉ: 
 http://ktx.hust.edu.vn
-http://ktx.hust.edu.vn
- hoặc mang theo giấy báo nhập học đến 
-đăng ký trực tiếp
- tại Ban Quản lý Ký túc xá Bách Khoa sau khi có Giấy báo trúng tuyển.
+hoặc mang theo giấy báo nhập học đến đăng ký trực tiếp tại Ban Quản lý Ký túc xá Bách Khoa sau khi có Giấy báo trúng tuyển.
 Địa chỉ liên hệ: Phòng 101 nhà B9 Ký túc xá sinh viên Bách khoa; ĐT: 024.3869.2942.
-Đọc kỹ hướng dẫn đăng ký Ký túc xá BKHN tại đây: 
-https://ktx.hust.edu.vn/huong-dan-dang-ky-phong
+Đọc kỹ hướng dẫn đăng ký Ký túc xá BKHN tại đây:
 https://ktx.hust.edu.vn/huong-dan-dang-ky-phong
 2. Đại học BKHN thường xuyên phối hợp với Ban Quản lý khu nhà ở học sinh, sinh viên Pháp Vân - Tứ Hiệp (KTX Pháp Vân) để bố trí phòng ở cho sinh viên có nhu cầu. KTX Pháp Vân) là nhà ở xã hội dành cho học sinh, sinh viên thuộc các cơ sở đào tạo trên địa bàn thành phố Hà Nội.
 Bạn có thể tìm kiếm thông tin về KTX Pháp Vân tại đây: 
 https://www.facebook.com/groups/616951003253188
-https://www.facebook.com/groups/616951003253188
-.
 Nếu các bạn có nhu cầu ở KTX Pháp Vân các bạn đăng ký mẫu đơn tại đây: 
 https://ctsv.hust.edu.vn/#/viet-giay/19_don_thue_ktx_phap_van
-https://ctsv.hust.edu.vn/#/viet-giay/19_don_thue_ktx_phap_van
- và thực hiện theo hướng dẫn.
-Bên cạnh đó, các bạn sinh viên có thể tìm kiếm Nhà trọ tại:
+và thực hiện theo hướng dẫn.
 3. Để tìm kiếm các nhà trọ các bạn vào group Facebook 
 https://www.facebook.com/groups/774199205937037
-https://www.facebook.com/groups/774199205937037
- mạng lưới các chủ nhà trọ. Đây là kênh thông tin nhà trọ do Hội Sinh viên điều phối. Các bạn có thể tham khảo các thông tin nhà trọ hữu ích tại đây.
+Mạng lưới các chủ nhà trọ. Đây là kênh thông tin nhà trọ do Hội Sinh viên điều phối. Các bạn có thể tham khảo các thông tin nhà trọ hữu ích tại đây.
 4. Các bạn có thể tìm kiếm thông tin Review về nhà trọ từ các anh chị khóa trước trực tiếp trên Ứng dụng iCTSV.
 Hướng dẫn tìm nhà trọ trên Ứng dụng iCTSV
-Tính năng tìm nhà trọ trên ứng dụng iCTSV của ĐH Bách khoa Hà Nội ra đời phần nào giúp các sinh viên giảm bớt nỗi lo về vấn đề tìm nhà trọ. Để tìm nhà trọ trên Ứng iCTSV bạn cài đặt ứng dụng, vào mục 
-Nhà trọ
-, lựa chọn khu vực nhà trọ bạn muốn tìm, Ứng dụng sẽ trả ra danh sách nhà trọ với các thông tin mà các bạn có thể liên hệ trực tiếp với chủ nhà trọ.
+Tính năng tìm nhà trọ trên ứng dụng iCTSV của ĐH Bách khoa Hà Nội ra đời phần nào giúp các sinh viên giảm bớt nỗi lo về vấn đề tìm nhà trọ. Để tìm nhà trọ trên Ứng iCTSV bạn cài đặt ứng dụng, vào mục Nhà trọ, lựa chọn khu vực nhà trọ bạn muốn tìm, Ứng dụng sẽ trả ra danh sách nhà trọ với các thông tin mà các bạn có thể liên hệ trực tiếp với chủ nhà trọ.
 Tham khảo thêm thông tin: 
 https://phunuvietnam.vn/truong-dh-bach-khoa-ha-noi-thiet-ke-ung-dung-tim-nha-tro-cho-sinh-vien-20220924022458837.htm
-https://phunuvietnam.vn/truong-dh-bach-khoa-ha-noi-thiet-ke-ung-dung-tim-nha-tro-cho-sinh-vien-20220924022458837.htm
-Ban CTSV
 
 
 Title: Hướng dẫn khám chữa bệnh tại Trung tâm Y tế của Nhà trường
@@ -287,25 +260,18 @@ Sinh viên cần khám, chữa bệnh hoặc tư vấn về việc khám chữa
 2. CCCD/CMND hoặc Thẻ sinh viên (hoặc giấy tờ hợp lệ)
 3. Sổ khám bệnh (nếu có)
 Quy trình thực hiện việc khám, chữa bệnh như sau:
-Bước 1
-: Đăng ký khám bệnh tại bàn đón tiếp
-Bước 2
-: Đến các phòng khám theo hướng dẫn của bộ phận đón tiếp
-Bước 3
-: Thực hiện xét nghiệm, cận lâm sàng (nếu có)
-Bước 4
-: Trở lại Phòng khám ban đầu (sau khi có kết quả cận lâm sàng)
-Bước 5
-: Đợi Bác sỹ kê đơn thuốc và ra bàn phụ khám làm thủ tục
-Bước 6
-: Đến phòng Dược lĩnh thuốc.
+Bước 1: Đăng ký khám bệnh tại bàn đón tiếp
+Bước 2: Đến các phòng khám theo hướng dẫn của bộ phận đón tiếp
+Bước 3: Thực hiện xét nghiệm, cận lâm sàng (nếu có)
+Bước 4: Trở lại Phòng khám ban đầu (sau khi có kết quả cận lâm sàng)
+Bước 5: Đợi Bác sỹ kê đơn thuốc và ra bàn phụ khám làm thủ tục
+Bước 6: Đến phòng Dược lĩnh thuốc.
 
 
 Title: Thông tin về mua bảo hiểm y tế (bắt buộc) cho sinh viên khóa 69
 Theo quy định của Luật Bảo hiểm Y tế thì mọi sinh viên đều phải có thẻ BHYT, do vậy Nhà trường sẽ tổ chức mua BHYT (bắt buộc) cho những sinh viên khóa 69 chưa có thẻ BHYT như sau:
 Thời gian tham gia bảo hiểm: từ 01/10/2024 đến 31/12/2025 (15 tháng)
-Số tiền phải đóng: 15tháng x 73.710đồng/tháng = 
-1.105.650đồng.
+Số tiền phải đóng: 15 tháng x 73.710 đồng/tháng = 1.105.650 đồng.
 Tất cả sinh viên cần nộp đầy đủ số tiền nói trên. Trường hợp sinh viên thuộc đối tượng không phải mua BHYT (SV diện chế độ chính sách, SV thuộc hộ nghèo, cận nghèo,…) hoặc mua BHYT ít hơn 15 tháng (SV con gia đình bộ đội, công an chỉ được hưởng BHYT theo chế độ thân nhân đến tròn 18 tuổi – tính theo tháng sinh, SV khác có BHYT vẫn còn hạn) tiền thừa mua BHYT sẽ được chuyển vào học phí học năm học 2024-2025.
 Hình thức đóng tiền mua BHYT: Sinh viên nộp tiền mua Bảo hiểm y tế cùng với tiền nhập học đầu khóa.
 Nơi đăng ký khám chữa Bệnh Ban đầu là Trung Tâm y tế Bách Khoa
@@ -313,9 +279,7 @@ Một số lưu ý:
 Thời hạn ghi trên thẻ BHYT là thời gian tham gia BHYT 5 năm liên tục không phải là thời hạn sử dụng thẻ BHYT.
 Các em vào đây kiểm tra thời hạn dùng thẻ BHYT:
 https://baohiemxahoi.gov.vn/tracuu/pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx
-https://baohiemxahoi.gov.vn/tracuu/pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx
 Nếu sinh viên không nhớ số thẻ BHYT đã được cấp gần nhất thì truy cập đường link sau đây để tra cứu Mã số BHXH. Sinh viên có thể kê khai mã số BHXH thay thế cho số thẻ BHYT:
-https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-ho-gia-dinh.aspx
 https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-ho-gia-dinh.aspx
 Các bước tra cứu Mã số BHXH:
 Bước 1: Sinh viên chỉ cần nhập: tỉnh, huyện, xã, họ tên, ngày tháng năm sinh. Các thông tin khác bỏ qua.
@@ -324,15 +288,7 @@ Bước 3: Bấm « tra cứu »
 Hệ thống có thể trả lại rất nhiều kết quả, sinh viên cần đọc kỹ các thông tin khác như địa chỉ, giới tính … để chọn đúng Mã số BHXH của mình.
 Sinh viên cần tư vấn, hỗ trợ về BHYT xin liên hệ với:
 Cô Nghiêm Thị Kim Chi, ĐT: 024.3869.3108;
-Email: 
-Chi.nghiemthikim@hust.edu.vn
-mailto:Chi.nghiemthikim@hust.edu.vn
-
-
-Title: Cấp giấy tờ cho sinh viên (Giấy giới thiệu giấy chứng nhận, giấy vay vốn ngân hàng, giấy làm Thẻ xe buýt ...)
-Sinh viên xem 
-TẠI ĐÂY
-https://sv-ctt.hust.edu.vn/#/so-tay-sv/63/cap-giay-to-cho-sinh-vien-giay-gioi-thieu-giay-chung-nhan-giay-vay-von-ngan-hang-giay-lam-the-xe-buyt
+Email: Chi.nghiemthikim@hust.edu.vn
 
 
 Title: Liên hệ, giải đáp thắc mắc (làm gì? ở đâu?)
@@ -340,15 +296,9 @@ I. Ban Công tác Sinh viên
 1. Thông tin liên hệ:
 Địa chỉ: Phòng 101 – 102 – 103 – 104 -104 nhà C1
 Điện thoại: 024.3869.2896 (Phòng 102 nhà C1); 024.3869.3108 (Phòng 103-104nhà C1)
-Email: 
-ctsv@hust.edu.vn
-mailto:ctsv@hust.edu.vn
-Fanpage: 
-https://www.facebook.com/ctsv.hust.edu.vn
-https://www.facebook.com/ctsv.hust.edu.vn
-Fanpage trao đổi vấn đề cho SV K69:
-https://www.facebook.com/nhaphocbkhnK69
-https://www.facebook.com/nhaphocbkhnK69
+Email: ctsv@hust.edu.vn
+Fanpage: https://www.facebook.com/ctsv.hust.edu.vn
+Fanpage trao đổi vấn đề cho SV K69: https://www.facebook.com/nhaphocbkhnK69
 2. Các thủ tục giải quyết tại Ban Công tác Sinh viên:
 Cấp các loại giấy tờ hành chính sinh viên: Giấy chứng nhận sinh viên, giấy giới thiệu sinh viên, giấy vay vốn ngân hàng, giấy ưu đãi trong giáo dục, giấy làm vé xe buýt tháng,…
 Học bổng: Học bổng khuyến khích học tập, học bổng Trần Đại Nghĩa, học bổng tài trợ, học bổng trao đổi sinh viên, học bổng gắn kết quê hương (hồ sơ, quy trình thủ tục xét cấp học bổng; điều kiện xét cấp học bổng; chi trả học bổng,…).
@@ -368,12 +318,8 @@ II. Ban Đào tạo
 1. Thông tin liên hệ:
 Địa chỉ: Phòng 201 – 202 – 203 – 204 -204 nhà C1
 Điện thoại: 024.3869.2008
-Email: 
-dt@hust.edu.vn
-mailto:dt@hust.edu.vn
-Fanpage: 
-facebook.com/DTDHBKHN
-http://www.facebook.com/DTDHBKHN
+Email: dt@hust.edu.vn
+Fanpage: http://www.facebook.com/DTDHBKHN
 2. Các thủ tục giải quyết tại Ban Đào tạo:
 Đăng ký học tập, rút/ hủy học phần, thời khóa biểu, lịch thi, hoãn thi, thi bù.
 Xử lý học tập: Điểm học phần, học phần tương đương, thay thế GPA, CPA, cảnh báo học tập, chương trình đào tạo.
@@ -389,15 +335,9 @@ III. Ban Tuyển sinh - Hướng nghiệp
 1. Thông tin liên hệ:
 Văn phòng C1B-Tầng 1
 Điện thoại: 024 3863407 - 024 38683408
-Email: 
-tuyensinh@hust.edu.vn
-mailto:tuyensinh@hust.edu.vn
-Website: 
-https://ts.hust.edu.vn/
-https://ts.hust.edu.vn/
-Fanpage: 
-https://www.facebook.com/tsdhbk/
-https://www.facebook.com/tsdhbk/
+Email: tuyensinh@hust.edu.vn
+Website: https://ts.hust.edu.vn/
+Fanpage: https://www.facebook.com/tsdhbk/
 2. Các thủ tục giải quyết tại Ban Tuyển sinh - Hướng nghiệp:
 Thực hiện chiến lược và các giải pháp truyền thông tuyển sinh, tư vấn hướng
 nghiêp; tổ chức, quản lý công tác tuyển sinh, đảm bảo quy mô và chất lượng; hỗ trợ, phối hợp và giám sát các đơn vị chuyên môn trong công tác tuyển sinh, hướng nghiệp; thúc đẩy công tác tuyển sinh quốc tế.
@@ -406,99 +346,45 @@ IV. Các Trường/ Khoa quản ngành
 Tư vấn hỗ trợ sinh viên về chương trình đào tạo; đăng ký học tập; định hướng nghề nghiệp.
 Cấp bảng trích sao kết quả học tập, giấy chứng nhận sinh viên, giấy giới thiệu sinh viên, giấy làm vé xe buýt tháng.
 Tư vấn hỗ trợ về việc xét cấp học bổng, việc làm cho sinh viên.
-Sinh viên tham khảo thông tin của các Trường/ Khoa đào tạo: 
-TẠI ĐÂY
+Sinh viên tham khảo thông tin của các Trường/ Khoa đào tạo TẠI ĐÂY:
 https://www.hust.edu.vn/cac-vien-khoa-dao-tao
 
 
 Title: Bản đồ Đại học Bách khoa Hà Nội
 Đại học Bách khoa Hà Nội có tổng diện tích trên 26 héc ta nằm tiếp giáp với các đường Đại Cồ Việt, Giải Phóng, Trần Đại Nghĩa và Lê Thanh Nghị.
 Bản đồ ĐHBK Hà Nội
-Sinh viên cũng có thể xem bản đồ Đại học BKHN trên hệ thống google map 
-TẠI ĐÂY 
+Sinh viên cũng có thể xem bản đồ Đại học BKHN trên hệ thống google map TẠI ĐÂY 
 https://bom.to/W8x0VQ
 
 
 Title: Hướng dẫn nhận và sử dụng tài khoản Email sinh viên Bách khoa
 Nhà trường đã thực hiện cấp email mới có dạng 
-...
-@sis.hust.edu.vn
+...@sis.hust.edu.vn
  (trên nền dịch vụ của Microsoft) cho toàn bộ sinh viên có giấy báo trúng tuyển đại học.
-Lưu ý: Email của tổ chức và cán bộ của Đại học BKHN có dạng 
-...@hust.edu.vn
- (ví dụ: 
-mailadmin@hust.edu.vn,
-mailto:mailadmin@hust.edu.vn,
-ctsv@hust.edu.vn)
-mailto:ctsv@hust.edu.vn
-. Thông tin từ các mail này là đáng tin cậy.
-https://cla.hust.edu.vn/xmedia/2018/07/microsoft-office-365-1.png
+Lưu ý: Email của tổ chức và cán bộ của Đại học BKHN có dạng ...@hust.edu.vn (ví dụ: mailadmin@hust.edu.vn, ctsv@hust.edu.vn)
+Thông tin từ các mail này là đáng tin cậy.
 Tài khoản Email cho sinh viên Nhà trường cấp sẽ được sử dụng bộ phần mềm Office 365 bản quyền Microsoft
 Tài khoản của bạn bao gồm tên truy cập và mật khẩu đã được gửi vào tài khoản gmail cá nhân cho Tân sinh viên
-Tên tài khoản email mới có dạng: 
-“tên sinh viên”
-.
-“viết tắt họ đệm”
-“mã sinh viên bỏ số 20 ở đầu” @sis.hust.edu.vn.
-Ví dụ: Sinh viên tên là 
-Trần Bách Khoa
- mã sinh viên 20231234 có tên tài khoản hay địa chỉ email là 
-khoa.tb231234@sis.hust.edu.vn
-.
+Tên tài khoản email mới có dạng: “tên sinh viên”.“viết tắt họ đệm”“mã sinh viên bỏ số 20 ở đầu” @sis.hust.edu.vn.
+Ví dụ: Sinh viên tên là Trần Bách Khoa, mã sinh viên 20231234 có tên tài khoản hay địa chỉ email là: khoa.tb231234@sis.hust.edu.vn
 Đăng nhập: 
 Sau khi đã nhận được thông tin tài khoản, truy cập địa chỉ 
 https://outlook.office.com/
-https://outlook.office.com/
-Địa chỉ email sẽ được sử dụng trong toàn bộ thời gian sinh viên học tập tại trường và 
-được sử dụng
- để gửi các thông tin trao đổi cần thiết tới thầy, cô và các đơn vị chức năng trong trường.
+Địa chỉ email sẽ được sử dụng trong toàn bộ thời gian sinh viên học tập tại trường và được sử dụng để gửi các thông tin trao đổi cần thiết tới thầy, cô và các đơn vị chức năng trong trường.
 Bên cạnh việc dùng để sử dụng dịch vụ email, tài khoản email có thể được dùng cho các dịch vụ khác:
-Sử dụng bộ 
-Office 365
- với nhiều phần mềm bản quyền Microsoft;
-Được cấp lưu trữ 
-Onedrive 1TB;
-Truy cập 
-Wifi toàn trường
-;
-Đăng nhập và sử dụng Cổng thông tin sinh viên (
-https://ctt.hust.edu.vn
-https://ctt.hust.edu.vn
-), ứng dụng eHUST, 
-https://qldt.hust.edu.vn,
-https://qldt.hust.edu.vn,
-Đăng nhập và kê khai thông tin nhập học tại trang 
-https://nhaphoc.hust.edu.vn;
-https://nhaphoc.hust.edu.vn
-Đăng nhập và sử dụng Sổ tay công tác sinh viên (website 
-https://ctsv.hust.edu.vn
-https://ctsv.hust.edu.vn
- hoặc ứng dụng di động iCTSV trên Android/iOS);
-Sử dụng 
-MS Teams
- để học tập trực tuyến, họp nhóm lớp... (bạn sử dụng google để tìm các tài liệu tham khảo cách cài đặt và sử dụng MS Teams).;
-Đăng ký 
-thi tiếng Anh nội bộ
- trường.
-Do vậy, các bạn
- cần phải bảo mật tài khoản Email được cấp, 
-không dùng cho để đăng nhập cho các ứng dụng hay website không được liệt kê ở trên.
+- Sử dụng bộ Office 365 với nhiều phần mềm bản quyền Microsoft; Được cấp lưu trữ Onedrive 1TB; Truy cập  Wifi toàn trường; Đăng nhập và sử dụng Cổng thông tin sinh viên (https://ctt.hust.edu.vn), ứng dụng eHUST, Đăng nhập và kê khai thông tin nhập học tại trang https://nhaphoc.hust.edu.vn; Đăng nhập và sử dụng Sổ tay công tác sinh viên (website https://ctsv.hust.edu.vn hoặc ứng dụng di động iCTSV trên Android/iOS);
+- Sử dụng MS Teams để học tập trực tuyến, họp nhóm lớp... (bạn sử dụng google để tìm các tài liệu tham khảo cách cài đặt và sử dụng MS Teams).;
+- Đăng ký thi tiếng Anh nội bộ trường.
+Do vậy, các bạn cần phải bảo mật tài khoản Email được cấp, không dùng cho để đăng nhập cho các ứng dụng hay website không được liệt kê ở trên.
 Nếu bạn quên mật khẩu bạn có thể đăng ký cấp lại tại đây:
 https://ctt.hust.edu.vn/account/resetpassword
-https://ctt.hust.edu.vn/account/resetpassword
 Mọi thông tin thắc mắc về email HUST vui lòng liên hệ:
-Trung tâm 
-Chuyển đổi số
+Trung tâm Chuyển đổi số
 Phòng 905A – Tòa nhà Thư viện Tạ Quang Bửu
-SĐT: 
-024.3868.1643
-tel:+842438681643
-, 
+SĐT: 024.3868.1643,
 024.3868.2203
-tel:+842438682203
 Email: 
 office-bknic@hust.edu.vn
-mailto:office-bknic@hust.edu.vn
 
 
 Title: Hướng dẫn sử dụng Cổng thông tin sinh viên (gồm cả phần dành cho phụ huynh)
@@ -508,67 +394,36 @@ Sinh viên sẽ đăng nhập bằng địa chỉ email được Đại học Ba
 Hướng dẫn truy cập Cổng thông tin sinh viên
 Cổng thông tin sinh viên có địa chỉ tại 
 https://ctt.hust.edu.vn
-https://ctt.hust.edu.vn
-1) Bấm chọn bấm vào mục “
-ĐĂNG NHẬP
-”
+1) Bấm chọn bấm vào mục “ĐĂNG NHẬP”
 2) Tại màn hình đăng nhập cần nhập các thông tin sau:
-Nhập địa chỉ email mà ĐHBK Hà Nội đã cấp cho các em (ví dụ:  
-khoa.tb211234@sis.hust.edu.vn
-), sau đó bấm Next
+Nhập địa chỉ email mà ĐHBK Hà Nội đã cấp cho các em (ví dụ: khoa.tb211234@sis.hust.edu.vn), sau đó bấm Next
 3) Nhập mật khẩu của email đã được cấp.
 Trong quá trình học tập tại trường các em cần thường xuyên theo dõi thông tin trong tài khoản học tập này để kịp thời cập nhật về kết quả học tập, học phí, chương trình đào tạo...
 Hướng dẫn sử dụng tài khoản dành cho phụ huynh
 Quí vị phụ huynh có thể truy cập Cổng thông tin sinh viên để xem tóm tắt kết quả học tập của sinh viên và một số thông tin liên quan. Đây là kênh thông tin quan trọng giúp gia đình có thể nắm bắt được tiến trình học tập của các em và kịp thời có hỗ trợ hoặc liên hệ với nhà trường.
 Cách truy cập:
-1) Truy cập địa chỉ Cổng thông tin sinh viên: 
-https://ctt.hust.edu.vn/
-https://ctt.hust.edu.vn/
-2) Bấm vào mục “
-DÀNH CHO PHỤ HUYNH
-”
+1) Truy cập địa chỉ Cổng thông tin sinh viên: https://ctt.hust.edu.vn/
+2) Bấm vào mục “DÀNH CHO PHỤ HUYNH”
 3) Đăng nhập theo hình hướng dẫn với các thông tin:
-User name:
- Là mã số sinh viên được ĐHBK HN cấp (ví dụ: 202405234)
-Password:
- Là số chứng minh thư hoặc số thẻ căn cước của sinh viên (số đã đăng ký trên hệ thống thi THPT Quốc gia 2024).
+User name: Là mã số sinh viên được ĐHBK HN cấp (ví dụ: 202405234)
+Password: Là số chứng minh thư hoặc số thẻ căn cước của sinh viên (số đã đăng ký trên hệ thống thi THPT Quốc gia 2024).
 Nhập mã xác thực hiển thị trên màn hình
 4) Màn hình sau khi đăng nhập xong:
-Kết quả học tập của sinh viên thể hiện thông qua các mục sau đây (phần 
-THÔNG TIN HỌC TẬP
-):
-Tổng kết học kỳ:
- thể hiện kết quả đang tính tới kỳ nào (ví dụ kỳ 20211: là học kỳ 1 của năm học 2021-2022, tương tự kỳ 20212 là học kỳ 2 năm học 2021-2022).
-Trung bình tích lũy:
- thể hiện điểm học tập trung bình từ khi vào học đến thời điểm đang xem kết quả. Điểm được tính theo thang cao nhất là 4 và được xếp loại học lực như sau:
-Số TC nợ đăng ký:
- thống kê tổng số tín chỉ sinh viên đã đăng ký học nhưng không đạt từ khi vào học. Nếu số tín chỉ không đạt nhiều sinh viên sẽ bị cảnh báo với các mức tương ứng.
-Số TC tích lũy:
- thống kê tổng số tín chỉ sinh viên đã đạt từ khi vào học.
-Trình độ sinh viên:
- sinh viên được xác định thuộc trình độ năm thứ mấy của chương trình đào tạo căn cứ vào số tín chỉ tích lũy (chứ không căn cứ theo số năm học trong trường).
-Mức cảnh báo:
- mức cảnh báo được hệ thống phần mềm tự thiết lập căn cứ theo kết quả học tập, số tín chỉ không đạt trong học kỳ và không đạt tích lũy. Có 3 mức cảnh báo là Mức 1 (M1), Mức 2 (M2) và Mức 3 (M3). Sinh viên bị cảnh báo Mức 3 sẽ không được tiếp tục học tập tại trường. Mức cảnh báo M0 là bình thường.
-Lưu ý
-:
- Quý vị
- phụ huynh nên kiểm tra thông tin thường xuyên
-, đặc biệt vào các thời điểm cuối học kỳ sau khi sinh viên đã thi xong. Quý vị phụ huynh
- có thể liên hệ với 
-N
-hà trường (Ban Đào tạo, Ban Công tác sinh viên) để biết thêm chi tiết (thông tin liên hệ 
-tại đây
+Kết quả học tập của sinh viên thể hiện thông qua các mục sau đây (phần THÔNG TIN HỌC TẬP):
+Tổng kết học kỳ: thể hiện kết quả đang tính tới kỳ nào (ví dụ kỳ 20211: là học kỳ 1 của năm học 2021-2022, tương tự kỳ 20212 là học kỳ 2 năm học 2021-2022).
+Trung bình tích lũy: thể hiện điểm học tập trung bình từ khi vào học đến thời điểm đang xem kết quả. Điểm được tính theo thang cao nhất là 4 và được xếp loại học lực như sau:
+Số TC nợ đăng ký: thống kê tổng số tín chỉ sinh viên đã đăng ký học nhưng không đạt từ khi vào học. Nếu số tín chỉ không đạt nhiều sinh viên sẽ bị cảnh báo với các mức tương ứng.
+Số TC tích lũy: thống kê tổng số tín chỉ sinh viên đã đạt từ khi vào học.
+Trình độ sinh viên: sinh viên được xác định thuộc trình độ năm thứ mấy của chương trình đào tạo căn cứ vào số tín chỉ tích lũy (chứ không căn cứ theo số năm học trong trường).
+Mức cảnh báo: mức cảnh báo được hệ thống phần mềm tự thiết lập căn cứ theo kết quả học tập, số tín chỉ không đạt trong học kỳ và không đạt tích lũy. Có 3 mức cảnh báo là Mức 1 (M1), Mức 2 (M2) và Mức 3 (M3). Sinh viên bị cảnh báo Mức 3 sẽ không được tiếp tục học tập tại trường. Mức cảnh báo M0 là bình thường.
+Lưu ý: Quý vị phụ huynh nên kiểm tra thông tin thường xuyên, đặc biệt vào các thời điểm cuối học kỳ sau khi sinh viên đã thi xong. Quý vị phụ huynh có thể liên hệ với Nhà trường (Ban Đào tạo, Ban Công tác sinh viên) để biết thêm chi tiết thông tin liên hệ tại đây
 https://sv-ctt.hust.edu.vn/#/nhap-hoc/thong-tin/53/lien-he-giai-dap-thac-mac
-).
 
 
 Title: Hướng dẫn sử dụng phần mềm Office 365 và học trực tuyến
 Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và học tập. Ngoài ra Nhà trường cũng đã mua bản quyền sử dụng phần mềm Microsoft Office 365 và cấp cho mỗi cán bộ và sinh viên của Trường 01 tài khoản sử dụng miễn phí.
-Trong giai đoạn còn thực hiện giãn cách xã hội do ảnh hưởng của dịch Covid thì toàn bộ quá trình 
-học tập trực tuyến sẽ dựa trên ứng dụng Microsoft Teams
- của bộ Office 365, do đó 
-sinh viên cần chủ động cài đặt và sử dụng thành thạo phần mềm này
-. 
+Trong giai đoạn còn thực hiện giãn cách xã hội do ảnh hưởng của dịch Covid thì toàn bộ quá trình học tập trực tuyến sẽ dựa trên ứng dụng Microsoft Teams của bộ Office 365, do đó 
+sinh viên cần chủ động cài đặt và sử dụng thành thạo phần mềm này. 
 Để có thể sử dụng hệ thống phần mềm Microsoft Office 365 và mạng wifi của Trường sinh viên cần đọc kỹ bộ tài liệu hướng dẫn đính kèm theo. Tài liệu hướng dẫn tập chung chủ yếu vào các nội dung sau:
 1. Giới thiệu chung về Office 365 và hệ thống Wifi HUST
 2. Hướng dẫn cài đặt Office 365 trên máy tính
@@ -583,14 +438,11 @@ sinh viên cần chủ động cài đặt và sử dụng thành thạo phần 
 5.3 Hướng dẫn sinh viên nộp bài tập trên Microsoft Teams
 5.4 Giới thiệu các phần mềm khác của Office 365
 5.5 Hướng dẫn sử dụng hệ thống học tập B-Learning (trên nền tảng LMS Moodle)
-Chi tiết hướng dẫn xem
-TẠI ĐÂY.
+Chi tiết hướng dẫn xem TẠI ĐÂY.
 https://husteduvn-my.sharepoint.com/:w:/g/personal/khai_tranquang_hust_edu_vn1/EZOoNe2pCgVJnWykRLAFwywB7qwqfyA285SRYIJU3yVVKA?e=rHr43u
 Sinh viên đặc biệt lưu ý 
-ĐỌC KỸ CÁC HƯỚNG DẪN TẠI MỤC 5
- để có thể cài đặt và sử dụng phần mềm MS TEAMS 
-PHỤC VỤ CHO VIỆC HỌC TẬP TRỰC TUYẾN
- trong thời gian còn thực hiện giãn cách xã hội.
+ĐỌC KỸ CÁC HƯỚNG DẪN TẠI MỤC 5 để có thể cài đặt và sử dụng phần mềm MS TEAMS 
+PHỤC VỤ CHO VIỆC HỌC TẬP TRỰC TUYẾN trong thời gian còn thực hiện giãn cách xã hội.
 Trong quá trình thực hiện nếu có khó khăn vướng mắc xin liên hệ với:
 Trung tâm Mạng Thông tin
 Văn phòng: Phòng 922 – Tòa nhà Thư viện Tạ Quang Bửu - Trường ĐHBK Hà Nội
@@ -599,27 +451,16 @@ Số điện thoại hotline LMS/ MS Teams: 0243 868 3188
 Số điện thoại hotline Wifi HUST: 0243 668 1426
 Trang web: 
 https://bknic.hust.edu.vn
-https://bknic.hust.edu.vn/
-/
 Email: 
 office-bknic@hust.edu.vn
-mailto:office-bknic@hust.edu.vn
-
-
-Title: Học bổng
-Sinh viên xem 
-TẠI ĐÂY
-https://sv-ctt.hust.edu.vn/#/so-tay-sv/61/hoc-bong
 
 
 Title: Tài liệu học tập
 Ngoài các tài liệu do giảng viên cung cấp trong quá trình học tập, sinh viên có thể tìm kiếm tài liệu tại:
 I. Thư viện Tạ Quang Bửu: 
 Tra cứu sách giáo trình, tài liệu tham khảo bản in, tài liệu số và các tài nguyên điện tử khác tại: 
-https://library.hust.edu.vn/vi/page-t-m-ki-m 
 https://library.hust.edu.vn/vi/page-t-m-ki-m
 Sử dụng các dịch vụ, sản phẩm thư viện hỗ trợ học tập nghiên cứu: 
-https://library.hust.edu.vn/vi/sanpham_dichvu 
 https://library.hust.edu.vn/vi/sanpham_dichvu
 Tư vấn, giải đáp thông tin qua các kênh: Email: tvtqb@hust.edu.vn , Tel: 024 2215 3287, Fanpage: https://www.facebook.com/TQB.library/
 II. Mua giáo trình tại Nhà xuất bản Bách khoa Hà Nội:
@@ -630,18 +471,15 @@ Website: http://nxbbk.hust.edu.vn
 FB: NXB Bách khoa Hà Nội  
 III. Xem giới thiệu và đặt mua sách online tại địa chỉ sau:
 https://tiki.vn/cua-hang/sach-nha-xuat-ban-bach-khoa-ha-noi
-https://tiki.vn/cua-hang/sach-nha-xuat-ban-bach-khoa-ha-noi
-https://book365.vn/san-sach-in/
 https://book365.vn/san-sach-in/
 
 
 Title: Hướng dẫn làm Thẻ gửi xe và làm vé xe buýt tháng
 I. Làm thẻ gửi xe đạp, xe máy trong khuôn viên trường
 1. Đăng ký làm thẻ gửi xe thường xuyên
-Từ K64 trở đi Nhà trường đã tích hợp thẻ gửi xe trong thẻ sinh viên, do vậy sinh viên có thể đăng ký làm thẻ gửi xe bằng cách: Sinh viên trực tiếp đến TTrung tâm Dịch vụ và hỗ trợ Bách khoa để nạp tiền đăng ký thẻ gửi xe.
+Từ K64 trở đi Nhà trường đã tích hợp thẻ gửi xe trong thẻ sinh viên, do vậy sinh viên có thể đăng ký làm thẻ gửi xe bằng cách: Sinh viên trực tiếp đến Trung tâm Dịch vụ và hỗ trợ Bách khoa để nạp tiền đăng ký thẻ gửi xe.
 Sau khi sinh viên đăng ký làm thẻ gửi xe, Trung tâm Dịch vụ và hỗ trợ Bách khoa sẽ kích hoạt mã gửi xe trên hệ thống và sinh viên bắt đầu sử dụng thẻ sinh viên để gửi xe tại các nhà xe trong khuôn viên trường.
-2. Gửi xe không thường xuyên
-: Các trường hợp không sử dụng vé thường xuyên sẽ trực tiếp trả tiền gửi xe tại Nhà gửi xe
+2. Gửi xe không thường xuyên: Các trường hợp không sử dụng vé thường xuyên sẽ trực tiếp trả tiền gửi xe tại Nhà gửi xe
 3. Mức phí gửi xe: 
 Mức phí gửi xe đạp, xe máy hiện thực hiện theo Quyết định số 44/2017/QĐ-UBND ngày 15/12/2017 của UBND Thành phố Hà Nội áp dụng đối với khu vực trường học. Cụ thể như sau: 
 | 0              | 1                           | 2                       |
@@ -651,8 +489,7 @@ Mức phí gửi xe đạp, xe máy hiện thực hiện theo Quyết định s�
 | Xe máy         | 2.000                       | 3.000                   |
 | Xe đạp sau 18h | 2.000                       | 3.000                   |
 | Xe máy sau 18h | 4.000                       | 4.000                   |
-Địa chỉ Trung tâm Dịch vụ và hỗ trợ Bách khoa
-: Phòng 102 nhà D3-5, ĐT: 024.3623.0523.
+Địa chỉ Trung tâm Dịch vụ và hỗ trợ Bách khoa: Phòng 102 nhà D3-5, ĐT: 024.3623.0523.
 II. Làm vé xe buýt tháng
 1. Các tuyến xe buýt
 Sinh viên có thể đến trường bằng cách sử dụng xe buýt, tùy theo khu vực sinh viên cần đến để lựa chọn các tuyến và điểm dừng xe buýt như sau:
@@ -662,19 +499,10 @@ c) Cổng Trần Đại Nghĩa gồm các tuyến: 26, 31
 d) Khu Ký túc xá gồm các tuyến: 23, 31
 e) Nhà T, Nhà TC và Sân vận động Bách khoa gồm các tuyến: 08, 18, 23, 26, 31
 2. Cách thức làm vé xe buýt tháng
-a) 
-Cách 1
-: Sinh viên tự điền thông tin và dán ảnh vào Đơn đề nghị làm vé xe buýt tháng (theo mẫu lấy 
-TẠI ĐÂY
+a) Cách 1: Sinh viên tự điền thông tin và dán ảnh vào Đơn đề nghị làm vé xe buýt tháng (theo mẫu lấy TẠI ĐÂY
 https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=38014
-) và mang lên Ban Công tác Sinh viên hoặc Văn phòng Viện đào tạo để xin xác nhận sau đó mang đến điểm làm vé xe buýt tháng để làm thẻ.
-b) 
-Cách 2
-: Sinh viên truy cập vào hệ thống cổng thông tin sinh viên 
-qldt.hust.edu.vn 
-hoặc 
-App iCTSV
- để đăng ký cấp giấy làm vé xe buýt tháng và mang theo 02 ảnh 2x3cm khi đến Ban Công tác Sinh viên nhận kết quả (ảnh để dán vào Đơn đề nghị là vé xe buýt tháng) và mang Đơn đề nghị làm vé xe buyết tháng (đã có xác nhận của Ban Công tác Sinh viên) đến điểm làm vé xe buýt tháng để làm vé tháng xe buýt.
+và mang lên Ban Công tác Sinh viên hoặc Văn phòng Viện đào tạo để xin xác nhận sau đó mang đến điểm làm vé xe buýt tháng để làm thẻ.
+b) Cách 2: Sinh viên truy cập vào hệ thống cổng thông tin sinh viên qldt.hust.edu.vn hoặc App iCTSV để đăng ký cấp giấy làm vé xe buýt tháng và mang theo 02 ảnh 2x3cm khi đến Ban Công tác Sinh viên nhận kết quả (ảnh để dán vào Đơn đề nghị là vé xe buýt tháng) và mang Đơn đề nghị làm vé xe buyết tháng (đã có xác nhận của Ban Công tác Sinh viên) đến điểm làm vé xe buýt tháng để làm vé tháng xe buýt.
 3. Địa điểm làm vé xe buýt tháng
 Tại điểm làm vé xe buýt tháng trên Phố Trần Đại Nghĩa (ra khỏi cổng Trần Đại Nghĩa rẽ trái khoảng 300 m) hoặc các điểm làm vé xe buýt khác của Thành phố. Hoặc bạn có thể làm thẻ xe bus ảo bằng cách tải App "Thẻ vé xe bus Hà Nội" theo hướng dẫn dưới đây.
 4. App "Thẻ vé xe bus Hà Nội"
@@ -684,33 +512,22 @@ https://nguyentrungtruc.badinh.hanoi.gov.vn/xem-chi-tiet-tin-tuc/-/asset_publish
 
 
 Title: Kế hoạch học tập năm 2024 - 2025
-Sinh viên xem khung kế hoạch học tập năm học 2024 - 2025: 
-TẠI ĐÂY
+Sinh viên xem khung kế hoạch học tập năm học 2024 - 2025 TẠI ĐÂY
 https://ctt.hust.edu.vn/Upload/Nguyen%20Quoc%20Dat/files/DTDH_Kehoach/2024-2025/Khung%20k%E1%BA%BF%20ho%E1%BA%A1ch%20th%E1%BB%9Di%20gian%20n%C4%83m%20h%E1%BB%8Dc%202024-2025_Final.pdf
 Ý nghĩa của việc lên kế hoạch học tập
 Lập kế hoạch học tập có ý nghĩa rất lớn đối với sinh viên. Cụ thể:
-- Quản lý thời gian hiệu quả:
- Khi nói đến sự thành công trong quá trình học tập của học sinh, điều quan trọng là họ biết sử dụng thời gian hiệu quả và tuân thủ một cách nghiêm túc về thời gian biểu học tập. Một kế hoạch học tập cung cấp cho bạn thời gian để hoàn thành các mục tiêu đã đề ra. Chính vì thế, khi có một nhân tố bất ngờ xuất hiện làm cản trở quá trình học tập cũng không thể làm khó được bạn bởi bạn đã dự trù được khoảng thời gian có thể bị ảnh hưởng trong quá trình học tập của mình. 
-- Hạn chế căng thẳng trong quá trình học tập:
- Kỹ năng lập kế hoạch học tập cũng giúp giảm căng thẳng. Đa số học sinh có lỗi khi đợi đến phút cuối cùng để bắt đầu nhồi nhét cho một kỳ thi. Tuy nhiên, việc nhồi nhét sẽ làm tăng thêm áp lực và căng thẳng, điều mà bạn có thể tránh được nếu bắt đầu chuẩn bị cho kỳ thi sớm. Với một kế hoạch học tập, bạn có thể dễ dàng tiếp thu từng phần tài liệu học tập của mình khi bạn có nhiều thời gian.
-- Bạn có nhiều khả năng thành công hơn:
- Bạn có thể vận dụng những kỹ năng lập kế hoạch khác nhau trong suốt quá trình học tập như: kỹ năng ghi chép, kỹ năng quản lý thời gian, kỹ năng lắng nghe, kỹ năng tập trung để học tập hiệu quả. Đây chính là những kỹ năng và nền tảng cần thiết để bạn có thể tự tin thể hiện mình ở những công việc mới trong tương lai. 
-- Giúp tăng tính tổ chức và kỷ luật trong học tập:
- Khi lập kế hoạch, người học sẽ phải xác định mục tiêu, định hướng cho việc học tập, lên kế hoạch và chia sẻ thời gian hợp lý cho các môn học và các tác vụ học tập. Điều này giúp học sinh, sinh viên và người học nâng cao tính tổ chức, kỷ luật trong học tập.
-- Giúp tăng khả năng hoàn thành tốt các nhiệm vụ học tập:
- Khi đã xác định rõ mục tiêu và lập kế hoạch, người học sẽ dễ dàng quản lý thời gian, tập trung vào các nhiệm vụ học tập quan trọng hơn và hoàn thành chúng đúng thời hạn.
-- Giúp tăng khả năng đạt được kết quả cao hơn:
- Kế hoạch học tập giúp người học tập trung vào những mục tiêu cụ thể, đo lường được tiến độ và kết quả đạt được, từ đó giúp người học đạt được kết quả cao - hơn.
-- Giúp nâng cao kỹ năng học tập:
- Kế hoạch học tập giúp người học tổ chức và lên lịch học tập hiệu quả, từ đó hỗ trợ học sinh, sinh viên và người học nâng cao kỹ năng học tập và tự học.
-- Giúp giảm stress trong học tập:
- Việc lập kế hoạch giúp người học tránh được việc phải chạy đua với thời gian, đồng thời giảm stress và lo lắng trong học tập.
+- Quản lý thời gian hiệu quả: Khi nói đến sự thành công trong quá trình học tập của học sinh, điều quan trọng là họ biết sử dụng thời gian hiệu quả và tuân thủ một cách nghiêm túc về thời gian biểu học tập. Một kế hoạch học tập cung cấp cho bạn thời gian để hoàn thành các mục tiêu đã đề ra. Chính vì thế, khi có một nhân tố bất ngờ xuất hiện làm cản trở quá trình học tập cũng không thể làm khó được bạn bởi bạn đã dự trù được khoảng thời gian có thể bị ảnh hưởng trong quá trình học tập của mình. 
+- Hạn chế căng thẳng trong quá trình học tập: Kỹ năng lập kế hoạch học tập cũng giúp giảm căng thẳng. Đa số học sinh có lỗi khi đợi đến phút cuối cùng để bắt đầu nhồi nhét cho một kỳ thi. Tuy nhiên, việc nhồi nhét sẽ làm tăng thêm áp lực và căng thẳng, điều mà bạn có thể tránh được nếu bắt đầu chuẩn bị cho kỳ thi sớm. Với một kế hoạch học tập, bạn có thể dễ dàng tiếp thu từng phần tài liệu học tập của mình khi bạn có nhiều thời gian.
+- Bạn có nhiều khả năng thành công hơn: Bạn có thể vận dụng những kỹ năng lập kế hoạch khác nhau trong suốt quá trình học tập như: kỹ năng ghi chép, kỹ năng quản lý thời gian, kỹ năng lắng nghe, kỹ năng tập trung để học tập hiệu quả. Đây chính là những kỹ năng và nền tảng cần thiết để bạn có thể tự tin thể hiện mình ở những công việc mới trong tương lai. 
+- Giúp tăng tính tổ chức và kỷ luật trong học tập: Khi lập kế hoạch, người học sẽ phải xác định mục tiêu, định hướng cho việc học tập, lên kế hoạch và chia sẻ thời gian hợp lý cho các môn học và các tác vụ học tập. Điều này giúp học sinh, sinh viên và người học nâng cao tính tổ chức, kỷ luật trong học tập.
+- Giúp tăng khả năng hoàn thành tốt các nhiệm vụ học tập: Khi đã xác định rõ mục tiêu và lập kế hoạch, người học sẽ dễ dàng quản lý thời gian, tập trung vào các nhiệm vụ học tập quan trọng hơn và hoàn thành chúng đúng thời hạn.
+- Giúp tăng khả năng đạt được kết quả cao hơn: Kế hoạch học tập giúp người học tập trung vào những mục tiêu cụ thể, đo lường được tiến độ và kết quả đạt được, từ đó giúp người học đạt được kết quả cao - hơn.
+- Giúp nâng cao kỹ năng học tập: Kế hoạch học tập giúp người học tổ chức và lên lịch học tập hiệu quả, từ đó hỗ trợ học sinh, sinh viên và người học nâng cao kỹ năng học tập và tự học.
+- Giúp giảm stress trong học tập: Việc lập kế hoạch giúp người học tránh được việc phải chạy đua với thời gian, đồng thời giảm stress và lo lắng trong học tập.
 Tóm lại, việc lập kế hoạch học tập giúp người học có kế hoạch cụ thể, tổ chức thời gian hợp lý, tập trung vào những mục tiêu cụ thể, đánh giá được tiến độ và kết quả học tập, giúp nâng cao kỹ năng học tập và đạt được kết quả cao hơn. 
-Bên cạnh đó bạn cũng cần nâng cao ý thức tự giác và áp dụng 
-các phương pháp tự học
+Bên cạnh đó bạn cũng cần nâng cao ý thức tự giác và áp dụng các phương pháp tự học
 https://unica.vn/blog/tu-hoc-la-gi-phuong-phap-tu-hoc-hieu-qua
- hiệu quả tại nhà giúp bạn hoàn thành kế hoạch học tập đạt kết quả tốt.
-Mẫu kế hoạch học tập của sinh viên năm nhất
+hiệu quả tại nhà giúp bạn hoàn thành kế hoạch học tập đạt kết quả tốt.
 Đây là một mẫu kế hoạch học tập của sinh viên năm nhất, tùy thuộc vào ngành học và trường học mà sẽ có những điều chỉnh phù hợp:
 I. Mục tiêu học tập:
 Hoàn thành tốt các môn học trong kỳ học đầu tiên và đạt trung bình điểm số tối thiểu là 2.5/4.0
@@ -736,7 +553,6 @@ Tham gia các nhóm học tập để trao đổi kiến thức và hỗ trợ l
 III. Đánh giá và điều chỉnh kế hoạch:
 Theo dõi tiến độ học tập mỗi tuần và đánh giá kết quả đạt được.
 Điều chỉnh cho phù hợp nhất.
-Nguồn unica.vn
 
 
 Title: Lịch tuần định hướng tân sinh viên K69
@@ -752,73 +568,48 @@ Hướng dẫn sử dụng tài khoản Email và các hệ thống thông tin (
 Giới thiệu hoạt động hỗ trợ, tư vấn học tập và tâm lý cho sinh viên; trao đổi về kỹ năng quản bản thân và khả năng thích ứng với sự thay đổi môi trường học tập và sinh hoạt của tân sinh viên. Hệ thống cố vấn học tập cho sinh viên, công tác tổ chức lớp
 Giải đáp thắc mắc một số vấn đề liên quan.
 II. Lịch sinh hoạt công dân đầu khóa
-Trong đợt sinh hoạt định hướng đầu khóa, mỗi sinh viên K69 chỉ học trực tiếp tại hội trường C2 trong 
-01 buổi (theo lịch phân công)
-, các buổi còn lại học trực tuyến trên nền tảng MS teams, do đó, các bạn lưu ý về thời gian và hình thức tham gia, cụ thể:
+Trong đợt sinh hoạt định hướng đầu khóa, mỗi sinh viên K69 chỉ học trực tiếp tại hội trường C2 trong 01 buổi (theo lịch phân công), các buổi còn lại học trực tuyến trên nền tảng MS teams, do đó, các bạn lưu ý về thời gian và hình thức tham gia, cụ thể:
 Buổi 1: Sáng (8h00 - 11h00), ngày 4/9/2024
 Nội dung:
 Nghe giới thiệu về lịch sử, truyền thống, sứ mệnh, tầm nhìn và giá trị cốt lõi của Đại học BKHN. Trao đổi về vai trò trách nhiệm của SV trong việc gìn giữ hình ảnh và truyền thống của các thế hệ sinh viên Bách Khoa Hà Nội.
 Tham gia hoạt động tại không gian trải nghiệm. 
-Hình thức học: 
-Sinh viên 
-Trường CNTT & TT (ITx)
- học trực tiếp tại hội trường C2
+Hình thức học: Sinh viên Trường CNTT & TT (ITx) học trực tiếp tại hội trường C2
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
-https://bit.ly/SHCD-K69-B1
 https://bit.ly/SHCD-K69-B1
 Buổi 2: Chiều (13h00 - 16h30), ngày 4/9/2024
 Nội dung:
 Nghe phổ biến Quy chế đào tạo (cách thức đánh giá điểm học tập; các ngưỡng cảnh báo học tập và giới hạn học tập khi sinh viên có kết quả học tập không tốt; ngưỡng buộc thôi học khi sinh viên có kết quả yếu, kém); Quy chế công tác sinh viên (Quản lý sinh viên, thủ tục hành chính, chế độ chính sách, khen thưởng, kỷ luật);
 Tham gia hoạt động tại không gian trải nghiệm. 
-Hình thức học: 
-Sinh viên 
-Trường Kinh tế (chương trình EM1, TROY-BA, EM2 , EM4 , EM5 , EM3 , EM-E13 , EM-E14) Khoa Toán – Tin (chương trình MI2, TROY-IT, MI1)
-  học trực tiếp tại hội trường C2.
+Hình thức học: Sinh viên Trường Kinh tế (chương trình EM1, TROY-BA, EM2 , EM4 , EM5 , EM3 , EM-E13 , EM-E14) Khoa Toán – Tin (chương trình MI2, TROY-IT, MI1) học trực tiếp tại hội trường C2.
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
-https://bit.ly/SHCD-K69-B2
 https://bit.ly/SHCD-K69-B2
 Buổi 3: Sáng (8h00 - 11h00), ngày 5/9/2024
 Nội dung: 
 Nghe hướng dẫn phương pháp xây kế hoạch học tập phù hợp; Những điều cần lưu ý khi học đại học; Hướng dẫn sinh viên lựa chọn tham gia các hoạt động ngoại khóa phù hợp với thiên hướng phát triển của bản thân
 Tham gia hoạt động tại không gian trải nghiệm. 
-Hình thức học: 
-Sinh viên 
-Trường Hóa và Khoa học sự sống (chương trình BF-E12, BF-E19, CH-E11, EV2, CH2, BF1, EV1, BF2)
- học trực tiếp tại hội trường C2.
+Hình thức học: Sinh viên Trường Hóa và Khoa học sự sống (chương trình BF-E12, BF-E19, CH-E11, EV2, CH2, BF1, EV1, BF2) học trực tiếp tại hội trường C2.
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
-https://bit.ly/SHCD-K69-B3
 https://bit.ly/SHCD-K69-B3
 Buổi 4: Chiều (13h00 - 16h30), ngày 5/9/2024
 Nội dung: 
 Hướng dẫn sử dụng tài khoản Email và các hệ thống thông tin (MS Office, eHUST, LMS) phục vụ hoạt động học tập. Hướng dẫn khai thác tài liệu và sử dụng dịch vụ thư viện. Hướng dẫn sử dụng các dịch vụ khác trong nhà trường.
 Tham gia hoạt động tại không gian trải nghiệm. 
-Hình thức học: 
-Sinh viên 
-Trường Hóa và Khoa học sự sống (chương trình CH1), Khoa Khoa học và công nghệ giáo dục(chương trình ED3 , ED2), Khoa Ngoại ngữ (chương trình FL2, FL1)
- học trực tiếp tại hội trường C2.
+Hình thức học: Sinh viên Trường Hóa và Khoa học sự sống (chương trình CH1), Khoa Khoa học và công nghệ giáo dục(chương trình ED3 , ED2), Khoa Ngoại ngữ (chương trình FL2, FL1) học trực tiếp tại hội trường C2.
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
-https://bit.ly/SHCD-K69-B4
 https://bit.ly/SHCD-K69-B4
 Buổi 5: Chiều (13h00 - 16h30), ngày 06/9/2024
 Nội dung: 
 Trao đổi về việc làm thêm và những điều cần lưu ý với tân sinh viên; Phổ biến thông tin về tình hình an ninh trật tự, một số vấn đề tân sinh viên cần lưu ý liên quan đến phòng chống tệ nạn xã hội, vi phạm pháp luật, lừa đảo.
 Tham gia hoạt động tại không gian trải nghiệm. 
-Hình thức học: 
-Sinh viên 
-Trường Vật liệu (chương trình MS-E3, MS5, MS3, MS2, TX1, MS1), Khóa Vật lý kỹ thuật (chương trình PH2, PH3, PH1)
- học trực tiếp tại hội trường C2 
+Hình thức học: Sinh viên Trường Vật liệu (chương trình MS-E3, MS5, MS3, MS2, TX1, MS1), Khóa Vật lý kỹ thuật (chương trình PH2, PH3, PH1) học trực tiếp tại hội trường C2 
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
 https://bit.ly/SHCD-K69-B5
 Buổi 6: Sáng (8h00 - 11h00), ngày 14/9/2024
 Nội dung: 
 Giao lưu với một số anh chị sinh viên có thành tích học tập rèn luyện tiêu biểu. Giới thiệu và lộ trình phấn đấu trở thành sinh viên 5 tốt.
 Tham gia hoạt động tại không gian trải nghiệm. 
-Hình thức học: 
-Sinh viên 
-Trường Điện – Điện tử (chương trình ET-E5, ET-LUH, EE-EP, EE-E18, ET-E16, ET-E4, ET-E9, ET2, EE-E8, EE1)
- học trực tiếp tại hội trường C2. 
+Hình thức học: Sinh viên Trường Điện – Điện tử (chương trình ET-E5, ET-LUH, EE-EP, EE-E18, ET-E16, ET-E4, ET-E9, ET2, EE-E8, EE1) học trực tiếp tại hội trường C2. 
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link:
-https://bit.ly/SHCD-K69-B6
 https://bit.ly/SHCD-K69-B6
 Buổi 7: 
 Chiều (13h00 - 16h30), ngày 14/9/2024
@@ -826,11 +617,8 @@ Nội dung:
 Giới thiệu chủ trương, chính sách hỗ trợ sinh viên có điều kiện học tập, sinh sống và làm việc ở nước ngoài sau tốt nghiệp; Chia sẻ về yêu cầu, phương pháp, cơ hội và môi trường nâng cao ngoại ngữ (Tiếng Anh, Tiếng Nhật, Tiếng Đức,...) cho sinh viên.
 Tham gia hoạt động tại không gian trải nghiệm. 
 Hình thức học: 
-Sinh viên 
-Trường Cơ khí (chương trình ME-GU, TE-EP, ME-LUH, TE3, TE-E2, ME-NUT, TE2, ME-E1, TE1, HE1)
- học trực tiếp tại hội trường C2.
+Sinh viên Trường Cơ khí (chương trình ME-GU, TE-EP, ME-LUH, TE3, TE-E2, ME-NUT, TE2, ME-E1, TE1, HE1) học trực tiếp tại hội trường C2.
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
-https://bit.ly/SHCD-K69-B7
 https://bit.ly/SHCD-K69-B7
 Buổi 8: 
 Sáng (8h00 - 11h00), ngày 15/9/2024
@@ -864,7 +652,6 @@ Tham gia hoạt động tại không gian trải nghiệm. 
 Hình thức học: 
 Các sinh viên có nguyện vọng tham gia hoặc tham gia bù buổi SHCD trực tiếp còn thiếu.
 Các sinh viên còn lại học trực tuyến (Online) trên MS Teams theo đường link: 
-https://bit.ly/SHCD-K69-B10
 https://bit.ly/SHCD-K69-B10
 III. Kiểm tra kiến thức hay kiểm tra quy chế.
 Kết thúc học tập định hướng, Nhà trường sẽ tổ chức 
@@ -904,17 +691,13 @@ Có thể bạn sẽ được phân công kiêm nhiệm cùng lúc một vài v�
 Nhưng mặt khác, đây thật sự là một trải nghiệm tuyệt vời hơn bao giờ hết ở thời sinh viên. Nó cho bạn đã trở thành một cá nhân có ích và không thể thiếu của tập thể lớp. Nhờ nó, Bạn có khả năng chịu được áp lực nhiều hơn, biết cách quản lý nhân sự, sắp xếp công việc một cách hợp lý, tạo dựng nhiều mối quan hệ giữa các lớp với nhau và các thầy cô. Ngoài ra chính vì nhiều việc như thế, mà sau này bạn có thể sẽ có nhiều kỷ niệm hơn so với các sinh viên khác. 
 Sau khi xem xét và cân nhắc kỹ lưỡng, nếu bạn cảm thấy mình phù hợp với vị trí cán sự lớp thì ứng cử bản thân bằng cách điền vào form dưới đây.
 https://forms.office.com/r/r1fsF3ms8P
-https://forms.office.com/r/r1fsF3ms8P
 Căn cứ vào thông tin bạn đăng ký Ban CTSV sẽ giới thiệu với Giáo viên Quản lý lớp phân công nhiệm vụ cho bạn.
 
 
 Title: Chi bộ sinh viên và quy trình chuyển sinh hoạt Đảng.
 Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN.
 Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí thư (là cán bộ), 1 Phó bí thư và có 1 đến 3 Chi uỷ viên. Chi bộ Sinh viên có hai mảng hoạt động chính đó là 
-Hoạt động chính trị
- và
- hoạt động ngoại khoá chuyên đề
-. Trong đó:
+Hoạt động chính trị và hoạt động ngoại khoá chuyên đề. Trong đó:
 Hoạt động chính trị: Chi bộ sinh viên họp định kỳ mỗi tháng một lần và phụ trách trực tiếp những công tác liên quan đến Phát triển Đảng, phổ biến và thảo luận về các chủ chương, chính sách, nghị quyết của Chi bộ, Đảng bộ và tổ chức Đảng cấp trên.
 Hoạt động ngoại khoá chuyên đề: Bên cạnh các hoạt động chính trị kể trên, Chi bộ sinh viên còn có các hoạt động ngoại khóa chuyên đề mang đậm màu sắc của đảng viên là sinh viên.
 Hiện nay, Đảng bộ Đại học Bách Khoa có 7 chi bộ sinh viên trong đó Sinh viên thuộc các đơn vị đào tạo gồm:
@@ -973,7 +756,6 @@ Quà tặng dành cho các bạn tân sinh viên K69 là
 https://drive.google.com/file/d/1BlfMFpYjvcyd0d7ndwjEw9DF7KEgT_Z-/view?usp=sharing
 2. Tài liệu tuần định hướng K69
 https://drive.google.com/drive/folders/1125o7WfQNFQubYgCCxeA7GR96XDXSHxh?usp=sharing
-Ban Công tác Sinh viên
 
 
 Title: Các hoạt động chính đầu khoá K69
@@ -1077,7 +859,6 @@ Title: THÔNG BÁO HẬU KIỂM CHỨNG CHỈ NGOẠI NGỮ CHO SINH VIÊN K69
 Nhằm hỗ trợ sinh viên K69 đã có chứng chỉ ngoại ngữ không phải tham dự kỳ thi tiếng Anh đầu vào K69, Trung tâm CLC sẽ tiếp nhận chứng chỉ ngoại ngữ chưa đăng ký làm thủ tục hậu kiểm trên hệ thống của ban Tuyển sinh - Hướng nghiệp.
 Chi tiết các bạn xem tại đây 
 https://clc.hust.edu.vn/thong-bao-hau-kiem-chung-chi-ngoai-ngu-cho-sinh-vien-k69-2/
-https://clc.hust.edu.vn/thong-bao-hau-kiem-chung-chi-ngoai-ngu-cho-sinh-vien-k69-2/
 
 
 Title: Các App hữu dụng đối với sinh viên
@@ -1111,20 +892,14 @@ Các bạn chưa nộp hồ sơ NVQS các bạn nộp bổ sung tối thi
 Trường hợp bạn đã có “Phiếu đăng ký nghĩa vụ quân sự”, các bạn nộp (1) “Phiếu Đăng ký nghĩa vụ quân sự”; kèm với (2) “Giấy giới thiệu di chuyển nghĩa vụ quân sự” hoặc “Giấy xác nhận đăng ký vắng mặt”.
 Trường hợp bạn KHÔNG có “Phiếu đăng ký nghĩa vụ quân sự”, các bạn nộp (1) “Đơn xác nhận không có phiếu nghĩa vụ quân sự”; kèm với (2) “Giấy giới thiệu di chuyển nghĩa vụ quân sự” hoặc “Giấy xác nhận đăng ký vắng mặt”.
 Ghi chú: Đơn xác nhận không còn phiếu nghĩa vụ quân sự cần có các thông tin: 
-Họ tên, Mã số sinh viên, Trường/Khoa, Số CCCD;
-Số phiếu đăng ký nghĩa vụ quân sự, ngày cấp, nơi cấp phiếu đăng ký nghĩa vụ quân sự;
-Lý do không có Phiếu Đăng ký nghĩa vụ quân sự;
-Cam kết thông tin kê khai là sự thật và ký tên.
-Nếu chưa nộp
- "Giấy chứng nhận kết quả thi tốt nghiệp THPT 2024: Bản gốc" các bạn nộp cùng
-. Đối với các giấy tờ khác nếu bạn đã khai online rồi các bạn không cần bổ sung thêm, nếu chưa có yêu cầu.
+Họ tên, Mã số sinh viên, Trường/Khoa, Số CCCD; Số phiếu đăng ký nghĩa vụ quân sự, ngày cấp, nơi cấp phiếu đăng ký nghĩa vụ quân sự; Lý do không có Phiếu Đăng ký nghĩa vụ quân sự; Cam kết thông tin kê khai là sự thật và ký tên.
+Nếu chưa nộp "Giấy chứng nhận kết quả thi tốt nghiệp THPT 2024: Bản gốc" các bạn nộp cùng. Đối với các giấy tờ khác nếu bạn đã khai online rồi các bạn không cần bổ sung thêm, nếu chưa có yêu cầu.
 Thời gian và địa điểm nộp:
 Ngày 5, 6/9 địa điểm: Hội thảo C2
 Ngày 10, 11/9 địa điểm: Phòng 103 - C1
 Từ ngày 16 - 25/9  địa điểm Phòng 103- C1.
 Thời hạn nộp là 16h30 ngày 25/9/24.
-Lưu ý:
- Ghi các thông tin của sinh viên ở mặt sau tờ “Giấy giới thiệu di chuyển nghĩa vụ quân sự” hoặc “Giấy xác nhận đăng ký vắng mặt” bao gồm thông tin:
+Lưu ý: Ghi các thông tin của sinh viên ở mặt sau tờ “Giấy giới thiệu di chuyển nghĩa vụ quân sự” hoặc “Giấy xác nhận đăng ký vắng mặt” bao gồm thông tin:
 (1) Họ tên, (2) Mã số sinh viên, (3)  Lớp, (4)  Trường/Khoa.
 
 
@@ -1254,18 +1029,10 @@ Có thể xử lý thông tin tại mọi địa điểm;
 Dễ dàng chuyển đơn tới các đơn vị liên quan để xin ý kiến;
 Lưu được các minh chứng: sinh viên cần lưu lại các email đã gửi, không xóa để còn làm minh chứng trong trường hợp cần thiết.
 II. Yêu cầu
-1. Sinh viên 
-bắt buộc
- phải dùng email của trường cấp khi gửi đơn và các câu hỏi, thắc mắc liên quan tới học tập. Nếu sinh viên dùng các email khác như Gmail, Yahoo mail…thì không thể xác thực được người gửi nên không đủ thông tin để giải quyết. 
+1. Sinh viên bắt buộc phải dùng email của trường cấp khi gửi đơn và các câu hỏi, thắc mắc liên quan tới học tập. Nếu sinh viên dùng các email khác như Gmail, Yahoo mail…thì không thể xác thực được người gửi nên không đủ thông tin để giải quyết. 
 2. Trong trường hợp cần có đơn thì sinh viên có thể tải đơn theo mẫu trong từng mục tương ứng, sau đó in ra hoặc viết tay lại đơn đều được. Điền các thông tin trong đơn và cần có đủ các mục chữ ký. Lưu ý trong trường hợp không thể xin chữ ký của khoa/viện/trường thì mục đó có thể để trống và Ban Đào tạo sẽ liên hệ với các đơn vị đó sau để xác nhận.
-Cách nộp đơn:
- Sinh viên nộp đơn qua email bằng cách 
-chụp ảnh cả đơn và thẻ sinh viên
- rồi gửi kèm theo email tới người tiếp nhận tương ứng theo bảng dưới đây.
-Lưu ý:
- riêng 
-Đơn xin thôi học rút hồ sơ bắt buộc phải nộp tại Ban Đào tạo
- (202A-C1) tương tự với một vài mẫu đơn khác theo hướng dẫn, không tiếp nhận online.
+Cách nộp đơn: Sinh viên nộp đơn qua email bằng cách chụp ảnh cả đơn và thẻ sinh viên rồi gửi kèm theo email tới người tiếp nhận tương ứng theo bảng dưới đây.
+Lưu ý: riêng Đơn xin thôi học rút hồ sơ bắt buộc phải nộp tại Ban Đào tạo (202A-C1) tương tự với một vài mẫu đơn khác theo hướng dẫn, không tiếp nhận online.
 3. Để có thể dễ dàng phân loại công việc, sinh viên cần soạn tiêu đề email theo cấu trúc sau: 
 [Hạng mục viết tắt] Mã số sinh viên – Họ và tên
 Ví dụ: 
