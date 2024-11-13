@@ -1,5 +1,5 @@
 Đề án tuyển sinh chính thức của Đại học Bách khoa Hà Nội đã được công bố ngày 22/5/2024. Phụ huynh và các em thí sinh có thể xem thông tin chi tiết
-tại đây https://ts.hust.edu.vn/b/thong-tin-chung
+tại đây 
 1. Xét tuyển tài năng:
 Phương thức (a): xét tuyển thẳng học sinh giỏi theo quy định của Bộ Giáo dục và Đào tạo;
 Phương thức (b): xét tuyển dựa trên các chứng chỉ quốc tế SAT, ACT, A-Level, AP và IB;
@@ -14,7 +14,6 @@ Phương thức (a) và (c) chỉ áp dụng đối với thí sinh tốt nghi�
 
 2. Xét tuyển theo kết quả Kỳ thi đánh giá tư duy:
 Đăng ký dự thi tại
-https://tsa.hust.edu.vn
 Bài thi đánh giá tư duy có thời lượng tối đa 150 phút, nội dung gồm các phần:
 Toán: (trắc nghiệm), thời lượng 90 phút;
 Đọc hiểu: (trắc nghiệm), thời lượng 30 phút;
@@ -29,16 +28,13 @@ Phần Tư duy giải quyết vấn đề: Nhằm đo lường cách giải thí
 Đối tượng xét tuyển: Thí sinh tham dự kỳ thi tốt nghiệp THPT năm 2024 do Bộ GDĐT và các Sở GDĐT tổ chức.
 Chỉ tiêu tuyển sinh 2024
 Năm 2024, Trường CNTT&TT tuyển sinh Khóa 69 với chỉ tiêu dự kiến: 1020 sinh viên cho hệ đào tạo chuẩn và hệ đào tạo Elitech. Cụ thể:
-| 0            | 1                                                  | 2                                                  | 3                | 4                     |
-|:-------------|:---------------------------------------------------|:---------------------------------------------------|:-----------------|:----------------------|
-| Mã xét tuyển | Chương trình đào tạo                               | Chương trình đào tạo                               | Chỉ tiêu dự kiến | Tổ hợp xét tuyển      |
-| IT1          | Khoa học Máy tính                                  | Khoa học Máy tính                                  | 300              | (A00, A01) (K00)      |
-| IT2          | Kỹ thuật Máy tính                                  | Kỹ thuật Máy tính                                  | 200              | (A00, A01) (K00)      |
-| IT-E6        | Elitech: Công nghệ Thông tin Việt – Nhật (HEDSPI)  | Elitech: Công nghệ Thông tin Việt – Nhật (HEDSPI)  | 240              | (A00, A01, D28) (K00) |
-| IT-E7        | Elitech: Công nghệ Thông tin toàn cầu (Global ICT) | Elitech: Công nghệ Thông tin toàn cầu (Global ICT) | 100              | (A00, A01) (K00)      |
-| IT-EP        | Elitech: Công nghệ Thông tin Việt – Pháp           | Elitech: Công nghệ Thông tin Việt – Pháp           | 40               | (A00, A01, D29) (K00) |
-| IT-E10       | Elitech: Khoa học Dữ liệu và Trí tuệ Nhân tạo      | Elitech: Khoa học Dữ liệu và Trí tuệ Nhân tạo      | 100              | (A00, A01) (K00)      |
-| IT-E15       | Elitech: An toàn Không gian số (Cyber Security)    | Elitech: An toàn Không gian số (Cyber Security)    | 40               | (A00, A01) (K00)      |
+Mã xét tuyển IT1: Chương trình Khoa học Máy tính, chỉ tiêu 300, tổ hợp xét tuyển (A00, A01) (K00).
+Mã xét tuyển IT2: Chương trình Kỹ thuật Máy tính, chỉ tiêu 200, tổ hợp xét tuyển (A00, A01) (K00).
+Mã xét tuyển IT-E6: Chương trình Elitech: Công nghệ Thông tin Việt – Nhật (HEDSPI), chỉ tiêu 240, tổ hợp xét tuyển (A00, A01, D28) (K00).
+Mã xét tuyển IT-E7: Chương trình Elitech: Công nghệ Thông tin toàn cầu (Global ICT), chỉ tiêu 100, tổ hợp xét tuyển (A00, A01) (K00).
+Mã xét tuyển IT-EP: Chương trình Elitech: Công nghệ Thông tin Việt – Pháp, chỉ tiêu 40, tổ hợp xét tuyển (A00, A01, D29) (K00).
+Mã xét tuyển IT-E10: Chương trình Elitech: Khoa học Dữ liệu và Trí tuệ Nhân tạo, chỉ tiêu 100, tổ hợp xét tuyển (A00, A01) (K00).
+Mã xét tuyển IT-E15: Chương trình Elitech: An toàn Không gian số (Cyber Security), chỉ tiêu 40, tổ hợp xét tuyển (A00, A01) (K00).
 Lưu ý:
 Năm 2024, tất cả các chương trình đều có chỉ tiêu xét tuyển theo kết quả kỳ thi tốt nghiệp THPT
 Các chương trình IT1 và IT2: thuộc hệ đào tạo chuẩn, truyền thống.

@@ -12,7 +12,6 @@ Quy định về các nội dung đánh giá được chi tiết trong Phụ l�
 
 2. Điểm rèn luyện được đánh giá bằng thang điểm 100 và được xếp loại như sau:
 ### Table:
-
 | 0   | 1                      | 2          |
 |:----|:-----------------------|:-----------|
 | TT  | Khung điểm             | Xếp loại   |
@@ -22,7 +21,6 @@ Quy định về các nội dung đánh giá được chi tiết trong Phụ l�
 | 4   | Từ 50 đến dưới 65 điểm | Trung bình |
 | 5   | Từ 35 đến dưới 50 điểm | Yếu        |
 | 6   | Dưới 35 điểm           | Kém        |
-
 --------------------------------------------------
 
 Điều 3. Cách thức và quy trình đánh giá kết quả rèn luyện

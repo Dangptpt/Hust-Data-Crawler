@@ -2,15 +2,10 @@ Giới thiệu chung
 Tên Tiếng Anh: Engineering Practice and Computer Centre
 Địa chỉ: P401-B1, Đại học Bách khoa Hà Nội
 Giám đốc: ThS. Phạm Thanh Liêm
-https://soict.hust.edu.vn/can-bo/ths-pham-thanh-liem.html
 Phó Giám đốc:
-TS. Hoàng Văn Hiệp
-https://soict.hust.edu.vn/can-bo/ts-hoang-van-hiep.htmlTel: (+84)38692205
-Email:
-cc@soict.hust.edu.vn
-mailto:cc@soict.hust.edu.vn
+TS. Hoàng Văn Hiệp (+84)38692205
+Email: cc@soict.hust.edu.vn
 Web:
-http://ttmt.hust.edu.vn
 
 Trung Tâm Máy Tính được thành lập theo quyết định số 76/QĐ – CB ngày 09-02-1980  của Bộ trưởng Bộ đại học và Trung học chuyên nghiệp;
 Tiền thân là phòng máy tính của Khoa Toán Lý, được trang bị các máy tính Minsk 22 và EC 1022 của Liên Xô, vào thời điểm đó đây là máy tính mạnh nhất Miền Bắc;

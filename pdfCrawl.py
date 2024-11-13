@@ -2,8 +2,8 @@ import pdfplumber
 import requests
 # Đường dẫn tới file PDF và file text
 pdf_file_path = "student_handbook.pdf"
-text_file_path = "Textfile/HB_DN.txt"
-url = "https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/EbEKhfFyCe9CvHP86a1I098BVsIOPCj_oUIwYXEZoZx5Vw?e=YUk2dE"
+text_file_path = "Clean_data/QuyDinhSOICT.txt"
+url = "https://soict.hust.edu.vn/wp-content/uploads/So-tay-Sinh-vien-Truong-CNTT-V2.0.pdf"
 response = requests.get(url)
 
 # Lưu file PDF tạm thời

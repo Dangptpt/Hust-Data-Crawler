@@ -1,0 +1,60 @@
+HƯỚNG DẪN THỰC TẬP DOANH NGHIỆP CHO SINH VIÊN TRƯỜNG CNTT&TT
+1. Thực tập doanh nghiệp là gì?
+Thực tập doanh nghiệp (TTDN) bao gồm các học phần như thực tập doanh nghiệp, thực tập kỹ thuật, thực tập công nghiệp, thực tập kỹ sư là các học phần bắt buộc trong các chương trình học của sinh viên Trường CNTT&TT - Đại học Bách Khoa Hà Nội. Các học phần thực tập doanh nghiệp là khởi đầu để sinh viên tiếp cận với môi trường làm việc tại doanh nghiệp, từ đó có các định hướng công việc trong tương lai. Đồng thời doanh nghiệp có thể tiếp cận sớm tới nguồn nhân lực trẻ, tài năng đưa ra định hướng đào tạo và gắn bó lâu dài cùng doanh nghiệp.
+Để đảm bảo chất lượng môn học, sinh viên và doanh nghiệp cần thực hiện theo đúng Quy trình thực tập doanh nghiệp theo quy định của Trường CNTT&TT.
+
+2. Mục tiêu môn học
+Nắm bắt, học tập và tiếp thu kiến thức về các sản phẩm công nghệ tại nơi tập, cách thực vận hành công nghệ trong lĩnh vực CNTT
+Thực hành nâng cao kỹ năng chuyên môn
+Hiểu biết thêm về môi trường làm việc, văn hóa doanh nghiệp, trau dồi kỹ năng mềm khi làm việc trong môi trường doanh nghiệp chuyên nghiệp.
+Nắm bắt được quy trình và mô hình hoạt động của công ty hoạt động trong lĩnh vực Công nghệ thông tin
+
+3. Quy định chung đối với doanh nghiệp
+- Về pháp nhân, pháp lý của doanh nghiệp: Do tính đặc thù của ngành CNTT&TT và để đảm bảo chất lượng đầu ra học phần thực tập cho sinh viên, doanh nghiệp tiếp nhận sinh viên thực tập cần đảm bảo các yêu cầu về mặt pháp lý như sau:
+Doanh nghiệp phải hoạt động trong lĩnh vực Công nghệ Thông tin (có đầy đủ các giấy tờ pháp lý minh chứng đi kèm - minh chứng tối thiểu qua Giấy đăng ký kinh doanh) và có quy mô nhân sự đủ lớn hoạt động trong lĩnh vực công nghệ thông tin.
+Người hướng dẫn phải có bằng Đại học về lĩnh vực Công nghệ Thông tin trở lên (có giấy tờ minh chứng đi kèm).
+Doanh nghiệp hoạt động trong lĩnh vực Công nghệ thông tin ít nhất từ 3 năm trở lên
+- Về nguồn lực tại doanh nghiệp:
+Người hướng dẫn phải có đủ thời gian hướng dẫn, theo dõi và đánh giá sinh viên thực tập.
+Cơ sở vật chất: Doanh nghiệp cần trang bị đầy đủ thiết bị, vị trí tương ứng với số lượng sinh viên sẽ tham gia thực tập
+Doanh nghiệp thực hiện tiếp nhận, quản lý sinh viên tham gia thực tập qua các công cụ như email, điện thoại
+Kỹ thuật, công nghệ: các đề tài thực tập rõ ràng, đúng chuyên ngành.
+
+4. Các hướng dẫn Quy trình Thực tập Doanh nghiệp với Sinh viên
+a. Những hướng dẫn chung:
+Đọc kỹ tài liệu hướng dẫn và tham khảo video về thực tập doanh nghiệp.
+Mọi thắc mắc gửi qua email hoặc hotline của trường.
+b. Kiểm tra nguyện vọng:
+Kiểm tra các nguyện vọng đồ án thực tập chưa được doanh nghiệp xử lý.
+Liên hệ với doanh nghiệp hoặc hủy nguyện vọng nếu cần.
+c. Cập nhật thông tin:
+Theo dõi thông tin từ trường và doanh nghiệp qua các kênh chính thức như website trường, hệ thống đăng ký đồ án, và các group Facebook.
+d. Đăng ký thực tập:
+Thực hiện hai bước đăng ký: (1) đăng ký nguyện vọng qua hệ thống qldt và (2) đăng ký lớp học phần trên hệ thống ctt-sis.
+Các trường hợp đăng ký có thể xảy ra: Được cả (1) và (2), chỉ được (2), hoặc chỉ được (1).
+Theo dõi trạng thái nguyện vọng:
+e. Liên hệ doanh nghiệp nếu trạng thái nguyện vọng "Đang chờ duyệt" lâu hơn 5 ngày hoặc "Đang duyệt hồ sơ" lâu hơn 3 ngày.
+Sinh viên có thể thay đổi hoặc hủy nguyện vọng khi ở trạng thái "Đang chờ duyệt".
+f.Doanh nghiệp xét duyệt nguyện vọng:
+Doanh nghiệp sẽ liên hệ, phỏng vấn và quyết định nhận hoặc từ chối sinh viên thực tập.
+g. Thực tập tại doanh nghiệp:
+Sinh viên thực tập theo kế hoạch, thực hiện các công việc đã cam kết với doanh nghiệp.
+h. Đánh giá thực tập:
+Doanh nghiệp đánh giá kết quả thực tập của sinh viên qua hệ thống cam.soict.ai.
+Sinh viên nộp báo cáo thực tập theo mẫu, đồng thời đánh giá doanh nghiệp trên hệ thống qldt.
+i. Lên điểm học phần:
+Trường thông báo điểm trước khi chính thức lên hệ thống ctt-sis.
+Trường hợp hoàn thành cả đăng ký lớp học phần và nguyện vọng, điểm được công nhận từ doanh nghiệp.
+Nếu không hoàn thành, sinh viên có thể bảo lưu điểm tối đa 2 kỳ tiếp theo.
+
+
+
+
+
+
+
+
+
+
+
+

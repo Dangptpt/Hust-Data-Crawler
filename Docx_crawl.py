@@ -2,13 +2,13 @@ from docx import Document
 import pandas as pd
 
 # Đường dẫn tới file .docx
-file_path = r'QuyDinh'
+file_path = r'Quy-định-CLB-13_4_2020.docx'
 
 # Mở file .docx
 doc = Document(file_path)
 
 # Mở file markdown để ghi
-with open('Clean_data/QuyDinhDRL111.txt', 'w', encoding='utf-8') as f:
+with open("Clean_data/QuyDinhCLB.txt", 'w', encoding='utf-8') as f:
     cnt = 0
     for element in doc.element.body:
         if element.tag.endswith('p'):  # Nếu phần tử là đoạn văn
@@ -35,4 +35,4 @@ with open('Clean_data/QuyDinhDRL111.txt', 'w', encoding='utf-8') as f:
             # Ghi DataFrame ở định dạng Markdown
             f.write(df.to_markdown(index=False))  
             f.write("\n\n" + "-" * 50 + "\n")  
-print("Đã ghi nội dung vào 'output.md'.")
+print("Đã ghi nội dung ")

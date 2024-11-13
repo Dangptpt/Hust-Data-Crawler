@@ -6,7 +6,6 @@ import re
 
     
 def dfs(element, depth=0, output_file=None):
-    buffer = ""
     for child in element.children:
         if child.name == 'table':
             table_html = str(child)
@@ -15,31 +14,44 @@ def dfs(element, depth=0, output_file=None):
             continue
 
         if child.name: 
-            buffer += dfs(child, depth + 1, output_file)  # Đệ quy để duyệt tiếp các thẻ con
+            dfs(child, depth + 1, output_file)  # Đệ quy để duyệt tiếp các thẻ con
         else:
-            text = child.text.strip()
-            if re.match(r'^\d+\.', text):  # Tìm các đề mục dạng 1., 2., ...
-                if buffer:  # Nếu có văn bản trước đó, ghi vào file trước khi tiếp tục
-                    output_file.write(buffer.strip() + '\n\n')
-                buffer = text  # Lưu đề mục mới vào buffer
-            else:
-                buffer += " " + text  # Tích lũy văn bản tiếp theo sau đề mục
+            if child.text !='\n' and child.name != 'i':
+                text = child.text.strip()
+                output_file.write(text + "\n")
+        if child.name == 'a':
+            output_file.write(child['href'])
+    
+# def dfs(element, depth=0):
+#     #print("  " * depth + f"Thẻ: {element.name}")    
+#     for child in element.children:
+#         if child.name == 'table':
+#             table_html = str(child)
+#             df = pd.read_html(table_html)[0]
+#             print(df.to_markdown(index=False))
+#             continue
 
-    return buffer
+#         if child.name: 
+#             dfs(child, depth + 1)
+#         else:
+#             if child.text != '\n':
+#                 print(child.text)
+#         if child.name == 'a':
+#             print(child['href'])
+
+
 
 # URL và yêu cầu truy xuất
-url = "https://soict.hust.edu.vn/thong-tin-tuyen-sinh-2024.html"
+url = 'https://soict.hust.edu.vn/dang-uy-truong.html'
 response = requests.get(url)
 
 if response.status_code == 200:
     soup = BeautifulSoup(response.content, "html.parser")
     title = soup.find('span', class_ = "breadcrumb_last").get_text(strip=True)
     main_text = soup.find("div", class_='entry-content single-page')
+    with open(f'Clean_data/{title}.txt', 'w', encoding='utf-8') as f:
+        dfs(main_text, output_file=f)
 
-    with open(f'Textfile/{title}.txt', 'w', encoding='utf-8') as f:
-        result = dfs(main_text, output_file=f)
-        if result.strip():  # Ghi đoạn văn cuối cùng nếu có
-            f.write(result.strip() + '\n\n')
 
 
 
