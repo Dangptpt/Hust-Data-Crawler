@@ -56,12 +56,9 @@ https://www.facebook.com/ictsv.hust/photos/a.353908892774864/382030623296024/
 Với các Minh chứng liên quan đến kết quả học tập, Ban CTSV sẽ cập nhật theo kết quả điểm do Ban Đào tạo cung cấp, theo nguyên tắc cập nhật ngay khi có kết quả học tập để đảm bảo quyền lợi xét học bổng của các bạn.
 Để được tư vấn kỹ hơn Bạn có thể liên hệ với TỔ HỖ TRỢ TRIỂN KHAI HỆ THỐNG iCTSV tại:
 - Địa chỉ: Phòng 106-D4, ĐHBK Hà Nội
-- Fanpage: 
-https://fb.com/ictsv.hust/
-- Group Facebook: 
-https://fb.com/groups/DiemRenLuyenHUST/
-- Group Yammer: 
-https://bit.ly/Yammer_DrlHust
+- Fanpage: https://fb.com/ictsv.hust/
+- Group Facebook: https://fb.com/groups/DiemRenLuyenHUST/
+- Group Yammer: https://bit.ly/Yammer_DrlHust
 
 Title: Quy định quản lý, hỗ trợ sinh viên nước ngoài học tập tại Đại học Bách khoa Hà Nội
 (Ban hành kèm theo Quyết định số 5777 /QĐ-ĐHBK ngày 18/07/2023 của Giám đốc Đại học Bách khoa Hà Nội)
@@ -72,8 +69,52 @@ Quy định này áp dụng đối với người nước ngoài đến học t�
 a) Lưu học sinh Hiệp định: Là sinh viên nước ngoài được tiếp nhận học tập dài hạn tại ĐHBK Hà Nội theo các Hiệp định, thoả thuận của Chính phủ Việt Nam với các đối tác nước ngoài;
 b) Lưu học sinh ngoài Hiệp định: Là sinh viên nước ngoài được tiếp nhận học tập dài hạn hoặc học tích lũy tín chỉ (từ 1 học kỳ trở lên) tại ĐHBK Hà Nội theo thỏa thuận, hợp đồng đào tạo ký kết giữa ĐHBK Hà Nội với cá nhân sinh viên hoặc các tổ chức, cá nhân gửi đào tạo, tài trợ học bổng cho sinh viên;
 c) Lưu học sinh trao đổi: Là người học nước ngoài đến thực tập, nghiên cứu, trao đổi theo các thỏa thuận, dự án, chương trình hợp tác của ĐHBK Hà Nội hoặc các đơn vị thuộc/trực thuộc ĐHBK Hà Nộ
-Xem chi tiết 
-tại đây
-https://drive.google.com/file/d/1UNfTaZDYb_2mD9MjuhMn2R6qMC_aENG4/view?usp=drive_link
+Xem chi tiết tại đây https://drive.google.com/file/d/1UNfTaZDYb_2mD9MjuhMn2R6qMC_aENG4/view?usp=drive_link
 
 
+Điều 2. Nội dung đánh giá và thang điểm
+1. Xem xét, đánh giá kết quả rèn luyện của sinh viên là đánh giá phẩm chất chính trị, đạo đức, lối sống của từng sinh viên theo các mức điểm đạt được trên các mặt:
+- Ý thức, thái độ học tập và nghiên cứu khoa học;
+- Ý thức và kết quả chấp hành nội quy, quy chế trong Nhà trường;
+- Ý thức và kết quả tham gia các hoạt động chính trị, xã hội, văn hoá, văn nghệ, thể thao, khoa học, hướng nghiệp, phòng chống tệ nạn của lớp, các đoàn thể, tổ chức khác trong và ngoài Nhà Trường;
+- Phẩm chất công dân, trách nhiệm và quan hệ với cộng đồng;
+- Kết quả hoặc các thành tích đặc biệt trong học tập, rèn luyện của sinh viên.
+Quy định về các nội dung đánh giá được chi tiết trong Phụ lục 1.
+
+2. Điểm rèn luyện được đánh giá bằng thang điểm 100 và được xếp loại như sau:
+### Table:
+
+| 0   | 1                      | 2          |
+|:----|:-----------------------|:-----------|
+| TT  | Khung điểm             | Xếp loại   |
+| 1   | Từ 90 đến 100 điểm     | Xuất sắc   |
+| 2   | Từ 80 đến dưới 90 điểm | Tốt        |
+| 3   | Từ 65 đến dưới 80 điểm | Khá        |
+| 4   | Từ 50 đến dưới 65 điểm | Trung bình |
+| 5   | Từ 35 đến dưới 50 điểm | Yếu        |
+| 6   | Dưới 35 điểm           | Kém        |
+
+--------------------------------------------------
+
+Điều 3. Cách thức và quy trình đánh giá kết quả rèn luyện
+Điểm rèn luyện của mỗi sinh viên được tính dựa trên dữ liệu hệ thống quản lý, các minh chứng tham gia hoạt động của sinh viên có giá trị trong kỳ đánh giá và khung điểm đánh giá kết quả rèn luyện do Hội đồng đánh giá rèn luyện sinh viên cấp trường ban hành. Minh chứng tham gia hoạt động của sinh viên do các cán bộ được phân công xác nhận căn cứ trên thông tin sinh viên tham gia hoạt động cung cấp. Các cán bộ phụ trách hoạt động được Viện đào tạo, Đoàn thanh niên, Hội sinh viên và Phòng CTSV phân công dựa trên chức năng nhiệm vụ của đơn vị.
+Hệ thống sổ tay công tác sinh viên trực tuyến (online) là bộ công cụ hỗ trợ việc đánh giá điểm rèn luyện cho sinh viên. Hệ thống sổ tay công tác sinh viên gồm website (được liên kết với Cổng thông tin đào tạo www.ctt-daotao.hust.edu.vn) và ứng dụng di động, hỗ trợ các cá nhân có trách nhiệm: (1) đăng ký và cập nhật thông tin tài khoản; (2) gán quyền thao tác trên hệ thống cho các cá nhân liên quan; (3) công bố hoạt động, tiếp nhận đăng ký tham gia nhóm và hoạt động; (4) cung cấp minh chứng, xác nhận và đánh giá minh chứng tham gia hoạt động; (5) tính và công bố điểm rèn luyện cho sinh viên.
+Quy trình đánh giá kết quả rèn luyện được thực hiện như sau:
+Các đơn vị công bố kế hoạch tổ chức hoạt động cho sinh viên lên hệ thống sổ tay công tác sinh viên online, để sinh viên có thể đăng ký tham gia.
+Sinh viên tham gia hoạt động theo định hướng rèn luyện của bản thân, cung cấp minh chứng tham gia hoạt động lên hệ thống sổ tay CTSV online.
+Cán bộ phụ trách hoạt động cấp và xác nhận minh chứng tham gia hoạt động của sinh viên. 
+Giáo viên quản lớp sinh viên căn cứ vào minh chứng kết quả tham gia hoạt động của sinh viên, được tập hợp trên hệ thống sổ tay CTSV online, để tính điểm theo quy tắc tính điểm rèn luyện được ban hành. 
+Khi thấy có sự sai lệch kết quả rèn luyện, sinh viên thực hiện quyền khiếu nại theo Điều 6. Điểm rèn luyện sẽ được cập nhật lại ngay sau khi có sự điều chỉnh kết quả đánh giá rèn luyện của sinh viên.
+Kết quả điểm rèn luyện của kỳ đánh giá sẽ được chốt và công bố ngay sau thời gian giải quyết khiếu nại và điều chỉnh kết quả kết thúc. 
+
+Điều 4. Thời gian đánh giá
+1. Việc đánh giá kết quả rèn luyện của sinh viên được tiến hành định kỳ theo học kỳ, năm học và toàn khóa học.
+2. Điểm rèn luyện của học kỳ là tổng điểm đạt được của các nội dung đánh giá chi tiết.
+3. Điểm rèn luyện của năm học là trung bình cộng của điểm rèn luyện các học kỳ của năm học đó.
+4. Điểm rèn luyện toàn khóa học là trung bình cộng của điểm rèn luyện các học kỳ của khóa học.
+
+Điều 5. Sử dụng kết quả đánh giá
+1. Kết quả đánh giá rèn luyện của sinh viên được sử dụng trong việc xét duyệt học bổng, xét khen thưởng - kỷ luật, xét thôi học, ngừng học, xét lưu trú ký túc xá.  
+2. Kết quả đánh giá rèn luyện toàn khóa học được ghi chung vào bảng điểm kết quả học tập và lưu trong hồ sơ của người học khi tốt nghiệp ra Trường.
+3. Sinh viên có kết quả rèn luyện xuất sắc được Nhà trường xem xét biểu dương, khen thưởng.
+4. Sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học.

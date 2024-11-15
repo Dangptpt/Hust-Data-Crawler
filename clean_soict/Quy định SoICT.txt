@@ -176,16 +176,11 @@ quản mã ngành đấy để xử lý (ví dụ Trường CNTT&TT chỉ xử l
 các môn có mã ITxxxx).
 
 d. Thực tập Doanh nghiệp
-• Sinh viên cần đọc kỹ hướng dẫn trong quy trình thực tập tại doanh nghiệp cho
-sinh viên SOICT tại đây: https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html.
-• Các câu hỏi phổ biến của sinh viên về hoạt động thực tập doanh nghiệp đã được
-tổng hợp và giải đáp chi tiết tại https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html.
+• Sinh viên cần đọc kỹ hướng dẫn trong quy trình thực tập tại doanh nghiệp cho sinh viên SOICT tại đây: https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html.
+• Các câu hỏi phổ biến của sinh viên về hoạt động thực tập doanh nghiệp đã được tổng hợp và giải đáp chi tiết tại https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html.
 Sinh viên lưu ý đọc trước khi gửi câu hỏi.
-• Các câu hỏi/thắc mắc khác liên quan đến thực tập doanh nghiệp, sinh viên cần
-liên hệ với bộ phận phụ trách thực tập doanh nghiệp theo thông tin ở trên.
+• Các câu hỏi/thắc mắc khác liên quan đến thực tập doanh nghiệp, sinh viên cần liên hệ với bộ phận phụ trách thực tập doanh nghiệp theo thông tin ở trên.
 Sinh viên đăng ký các học phần Thực tập doanh nghiệp lưu ý:
-• Phải đăng ký trên hệ thống https://dk-sis.hust.edu.vn để được tính học phần, nộp
-học phí và bắt buộc phải đăng ký trên cả hệ thống https://qldt.hust.edu.vn/ để
-được nhận thực tập và đánh giá điểm.
+• Phải đăng ký trên hệ thống https://dk-sis.hust.edu.vn để được tính học phần, nộp học phí và bắt buộc phải đăng ký trên cả hệ thống https://qldt.hust.edu.vn/ để được nhận thực tập và đánh giá điểm.
 • Sinh viên phải tuân thủ theo Quy trình Thực tập Doanh nghiệp
 https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html
