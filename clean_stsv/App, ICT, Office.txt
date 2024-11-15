@@ -1,0 +1,88 @@
+Title: Hướng dẫn sử dụng phần mềm Office 365 và học trực tuyến; sử dụng hệ thống email do Trường cấp
+Hiện tại các địa điểm trong khuôn viên giảng đường của Trường Đại học Bách khoa Hà Nội đã được phủ sóng wifi để phục vụ cho việc giảng dạy và học tập. Ngoài ra Nhà trường cũng đã mua bản quyền sử dụng phần mềm Microsoft Office 365 và cấp cho mỗi cán bộ và sinh viên của Trường 01 tài khoản sử dụng miễn phí.
+Trong giai đoạn còn thực hiện giãn cách xã hội do ảnh hưởng của dịch Covid thì toàn bộ quá trình học tập trực tuyến sẽ dựa trên ứng dụng Microsoft Teams của bộ Office 365, do đó sinh viên cần chủ động cài đặt và sử dụng thành thạo phần mềm này. 
+Để có thể sử dụng hệ thống phần mềm Microsoft Office 365 và mạng wifi của Trường sinh viên cần đọc kỹ bộ tài liệu hướng dẫn đính kèm theo. Tài liệu hướng dẫn tập chung chủ yếu vào các nội dung sau:
+1. Giới thiệu chung về Office 365 và hệ thống Wifi HUST
+2. Hướng dẫn cài đặt Office 365 trên máy tính
+3. Hướng dẫn quản lý tài khoản Office 365
+    3.1 Hướng dẫn tự đổi mật khẩu
+    3.2 Hướng dẫn đăng ký mới hoặc reset lại mật khẩu bị mất
+    3.3 Hướng dẫn thiết lập xác thực hai lớp để tăng cường bảo mật tài khoản
+4. Hướng dẫn sử dụng nhanh hệ thống wifi HUST
+5. Hướng dẫn sử dụng các ứng dụng Office 365 và hệ thống LMS
+    5.1 Hướng dẫn sử dụng MS Teams
+    5.2 Hướng dẫn sinh viên làm bài kiểm tra trên Microsoft Teams
+    5.3 Hướng dẫn sinh viên nộp bài tập trên Microsoft Teams
+    5.4 Giới thiệu các phần mềm khác của Office 365
+    5.5 Hướng dẫn sử dụng hệ thống học tập B-Learning (trên nền tảng LMS Moodle)
+Chi tiết hướng dẫn xem TẠI ĐÂY.
+https://husteduvn-my.sharepoint.com/:w:/g/personal/khai_tranquang_hust_edu_vn1/EZOoNe2pCgVJnWykRLAFwywB7qwqfyA285SRYIJU3yVVKA?e=rHr43u
+6. Hướng dẫn sử dụng hệ thống email do Trường cấp
+6.1 Đăng ký tạo mới, đổi mật khẩu online: 
+Xem tại đây
+https://bknic.hust.edu.vn/
+6.2 Sử dụng hệ thống email: 
+Xem tại đây
+https://bknic.hust.edu.vn/
+Trong quá trình thực hiện nếu có khó khăn vướng mắc xin liên hệ với:
+Trung tâm Mạng Thông tin
+Văn phòng: Phòng 922 – Tòa nhà Thư viện Tạ Quang Bửu - Trường ĐHBK Hà Nội
+Số điện thoại hotline Office 365: 0243 868 2203
+Số điện thoại hotline LMS/ MS Teams: 0243 868 3188
+Số điện thoại hotline Wifi HUST: 0243 668 1426
+Trang web: 
+https://bknic.hust.edu.vn
+Email: office-bknic@hust.edu.vn
+
+
+Title: Hướng dẫn nhận và sử dụng tài khoản Email sinh viên Bách khoa
+Nhà trường đã thực hiện cấp email mới có dạng 
+...@sis.hust.edu.vn (trên nền dịch vụ của Microsoft) cho toàn bộ sinh viên có giấy báo trúng tuyển đại học.
+Lưu ý: Email của tổ chức và cán bộ của Đại học BKHN có dạng ...@hust.edu.vn (ví dụ: mailadmin@hust.edu.vn, ctsv@hust.edu.vn)
+Thông tin từ các mail này là đáng tin cậy.
+Tài khoản Email cho sinh viên Nhà trường cấp sẽ được sử dụng bộ phần mềm Office 365 bản quyền Microsoft
+Tài khoản của bạn bao gồm tên truy cập và mật khẩu đã được gửi vào tài khoản gmail cá nhân cho Tân sinh viên
+Tên tài khoản email mới có dạng: “tên sinh viên”.“viết tắt họ đệm”“mã sinh viên bỏ số 20 ở đầu” @sis.hust.edu.vn.
+Ví dụ: Sinh viên tên là Trần Bách Khoa, mã sinh viên 20231234 có tên tài khoản hay địa chỉ email là: khoa.tb231234@sis.hust.edu.vn
+Sau khi đã nhận được thông tin tài khoản, truy cập địa chỉ 
+https://outlook.office.com/
+Địa chỉ email sẽ được sử dụng trong toàn bộ thời gian sinh viên học tập tại trường và được sử dụng để gửi các thông tin trao đổi cần thiết tới thầy, cô và các đơn vị chức năng trong trường.
+Bên cạnh việc dùng để sử dụng dịch vụ email, tài khoản email có thể được dùng cho các dịch vụ khác:
+- Sử dụng bộ Office 365 với nhiều phần mềm bản quyền Microsoft; Được cấp lưu trữ Onedrive 1TB; Truy cập  Wifi toàn trường; Đăng nhập và sử dụng Cổng thông tin sinh viên (https://ctt.hust.edu.vn), ứng dụng eHUST, Đăng nhập và kê khai thông tin nhập học tại trang https://nhaphoc.hust.edu.vn; Đăng nhập và sử dụng Sổ tay công tác sinh viên (website https://ctsv.hust.edu.vn hoặc ứng dụng di động iCTSV trên Android/iOS);
+- Sử dụng MS Teams để học tập trực tuyến, họp nhóm lớp... (bạn sử dụng google để tìm các tài liệu tham khảo cách cài đặt và sử dụng MS Teams).;
+- Đăng ký thi tiếng Anh nội bộ trường.
+Do vậy, các bạn cần phải bảo mật tài khoản Email được cấp, không dùng cho để đăng nhập cho các ứng dụng hay website không được liệt kê ở trên.
+Nếu bạn quên mật khẩu bạn có thể đăng ký cấp lại tại đây:
+https://ctt.hust.edu.vn/account/resetpassword
+Mọi thông tin thắc mắc về email HUST vui lòng liên hệ:
+Trung tâm Chuyển đổi số
+Phòng 905A – Tòa nhà Thư viện Tạ Quang Bửu
+SĐT: 024.3868.1643,
+Email: office-bknic@hust.edu.vn
+
+
+Title: Giới thiệu app iCTSV
+Giới thiệu
+iCTSV là tên của ứng dụng di động được phát hành và quản lý bởi Phòng Công tác Sinh viên Trường Đại học Bách khoa Hà Nội.
+Ứng dụng này hỗ trợ sinh viên tương tác thuận tiện với các cá nhân, đơn vị tổ chức các hoạt động/dịch vụ được cấp phép và xác nhận bởi Trường Đại học Bách khoa Hà Nội. Các tác vụ chính được hỗ trợ trên Ứng dụng iCTSV gồm:
+Xem và Đăng ký tham gia các hoạt động ngoại khóa
+Xem và Đăng ký ứng tuyển các "Job" (thực tập, việc làm sau tốt nghiệp, việc làm thêm)
+Xem quy trình và Đăng ký cấp giấy tờ, tư vấn chính sách và giải đáp thắc mắc, và đăng ký các tiện ích cho sinh viên.
+Xem thời khóa biểu học tập
+Theo dõi tích lũy và tự đánh giá điểm rèn luyện.
+Khai báo thông tin tạm vắng tạm trú theo yêu cầu của nhà trường,...
+Hình ảnh thẻ sinh viên (dùng để đăng ký vào thư viên).
+Và một số tiện ích khác
+Để sử dụng Ứng dụng iCTSV bạn cần có:
+Tài khoản và mật khẩu: tài khoản là email của bạn còn mật khẩu sử dụng Ứng dụng bạn lấy tại email trường cấp khi click vào dòng Bạn cần Tài khoản/Mật khẩu iCTSV
+https://sv-ctt.hust.edu.vn/#/login
+thông qua 1 bước xác thực mã OTP.
+Tải ứng dụng iCTSV, hiện nay chúng tôi hỗ trợ 2 phiên bản của Ứng dụng chạy trên các thiết bị sử dụng hệ điều hành iOS và Android.
+Ứng dụng cho iOS
+https://apps.apple.com/us/app/ictsv/id1360609709
+Ứng dụng trên Android
+https://play.google.com/store/apps/details?id=com.bk.ctsv
+Phòng CTSV hy vọng ứng dụng iCTSV sẽ giúp các bạn sinh viên thuận tiện khi tương tác với các hoạt động của Nhà trường.
+Các bạn lưu ý!
+Hiện nay, trên chợ Ứng dụng có một số ứng dụng có tính năng liên quan đến dữ liệu học tập của SV BKHN, chúng tôi không khuyến khích các bạn sử dụng vì nó có nguy cơ mất thông tin cá nhân.
+Phòng CTSV trường Đại học Bách khoa Hà Nội

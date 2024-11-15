@@ -1,4 +1,3 @@
-
 Title: Học bổng
 Hiện tại có các nguồn học bổng như sau dành cho sinh viên:
 1. Học bổng khuyến khích học tập (KKHT)
@@ -270,8 +269,7 @@ https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=43411
 3. Qui định ngoại ngữ áp dụng từ khóa K65: 
 xem tại đây
 https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=38018
-+ 
-Chú ý:
++ Chú ý:
  Cập nhật Danh mục quy đổi tương đương các chứng chỉ Tiếng Anh (2022): 
 xem tại đây
 https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=40291
@@ -328,7 +326,6 @@ https://ctt.hust.edu.vn/Upload/Nguyen%20Quoc%20Dat/files/DTDH_QDQC/Hoctap/01_1%2
 19. Quy định Hướng dẫn triển khai các chính sách hỗ trợ sinh viên khuyết tật đang học tập tại Đại học Bách khoa Hà Nội: 
 Xem tại đây
 https://husteduvn-my.sharepoint.com/:b:/g/personal/khai_tranquang_hust_edu_vn1/EQqI98V8izpJp6dbburn-hoB4VMhGi0TCzbqeA2KPVraXA?e=sB7rou
-.
 II. Các biểu mẫu thường dùng
 1. Biểu mẫu thủ tục hành chính xin xác nhận của Trường (giấy chứng nhận SV, giấy giới thiệu, giấy vay vốn ngân hàng, giấy làm thẻ xe buýt ....): 
 Xem tại đây. 
@@ -666,8 +663,7 @@ Thúc đẩy sinh tích cực rèn luyện để tăng khả năng thành công 
 Phù hợp với mục tiêu và chính sách của Nhà trường hướng tới, đó là người học làm chủ thể của hoạt động đào tạo.
 Tăng tính minh bạch, khách quan của kết quả đánh giá rèn luyện, đảm bảo sự công bằng giữa các sinh viên.
 Cung cấp thông tin cho quá trình tổ chức các hoạt động hỗ trợ sinh viên.
-Chi tiết Quy định của Đại học BKHN các bạn xem 
-tại đây.
+Chi tiết Quy định của Đại học BKHN các bạn xem tại đây.
 https://drive.google.com/file/d/1AoQ2FDiVLyOT_EW1vUiu7B1rFh2x35A1/view?usp=sharing
 II. Để không bị xếp loại rèn luyện trong học kỳ là Yếu, Kém
 Để đạt được 50 (hay 65) điểm rèn luyện là không khó đối các bạn sinh viên, cụ thể là:
@@ -679,7 +675,7 @@ Với mục kết quả Học tập, bạn dễ dàng đạt được 24 đến 
 Với mục ý thức Kỷ luật, bạn có thể dễ dàng đạt được 25 điểm nữa thông qua việc tham gia các hoạt động:
 + 7 điểm từ tham gia SHCD. Trong học kỳ có rất nhiều hoạt động thế này cả hình thức Online và Offline;
 + 7 điểm từ tham gia họp lớp. Để được ghi nhận minh chứng này bạn liên hệ với GV QLL SV để được xác nhận.
-+6 điểm từ tiêu chí tuân thủ kỷ luật học tập. Để được điểm này chỉ cần bạn không bị cấm thi các học phần trong học kỳ.
++ 6 điểm từ tiêu chí tuân thủ kỷ luật học tập. Để được điểm này chỉ cần bạn không bị cấm thi các học phần trong học kỳ.
 + 6 điểm từ làm bài kiểm tra quy chế. Các bạn xem chi tiết tại đây  
 https://ctsv.hust.edu.vn/#/hoat-dong/9577/kiem-tra-quy-che-ky-2023-2
 Với mục trách nhiệm Cộng đồng, bạn có thể dễ dàng đạt được 
@@ -695,9 +691,9 @@ https://ctsv.hust.edu.vn/#/hoat-dong/10643/tham-gia-thuc-tap-tang-cuong-nang-luc
 bạn cũng chỉ cần tham gia 1, 2 hoạt động không quá khó, như:
 (1) Tham gia khảo sát về góp ý quy định quy chế đào tạo và công tác sinh viên 
 https://ctsv.hust.edu.vn/#/hoat-dong/9454/2023-2-khao-sat-nhu-cau-huong-nghiep-dao-tao-tieng-anh-knm-cho-sinh-vien
-(2) Tham gia hoạt động xây dựng kế hoạch bản thân: https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2
+(2) Tham gia hoạt động xây dựng kế hoạch bản thân: 
+https://ctsv.hust.edu.vn/#/hoat-dong/9452/xay-dung-ke-hoach-hoc-tap-va-chi-tieu-cho-hoc-ky-2023-2
 (3) Tham gia hoạt động rèn luyện ý thức tự học 
-https://ctsv.hust.edu.vn/#/hoat-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2
 https://ctsv.hust.edu.vn/#/hoat-dong/9578/ren-luyen-ky-nang-tu-hoc-ky-2023-2
 Một học kỳ các đơn vị trong Nhà trường tổ chức trung bình 
 300 hoạt động khác nhau. 
@@ -708,21 +704,17 @@ Khi bạn tham gia hoạt động, nộp đủ các minh chứng (trả lời fo
 Hoạt động đang diễn ra (chưa kết thúc) nên minh chứng tham gia hoạt động của Bạn chưa được xác nhận.
 Hoạt động đã kết thúc, nhưng Ban tổ chức hoạt động đang trong quá trình xét duyệt nên chưa cấp hết minh chứng cho Bạn.
 Minh chứng của bạn không đạt yêu cầu của BTC nên không được xác nhận.
-Với tình huống 2, 3 bạn viết mail cho thành viên BTC để hỏi hoặc khiếu nại về việc cấp minh chứng. Bạn tham khảo cách khiếu nại
- tại đây!
+Với tình huống 2, 3 bạn viết mail cho thành viên BTC để hỏi hoặc khiếu nại về việc cấp minh chứng. Bạn tham khảo cách khiếu nại tại đây!
 https://www.facebook.com/ictsv.hust/photos/a.353908892774864/382030623296024/
 Với các Minh chứng liên quan đến kết quả học tập, Ban CTSV sẽ cập nhật theo kết quả điểm do Ban Đào tạo cung cấp, theo nguyên tắc cập nhật ngay khi có kết quả học tập để đảm bảo quyền lợi xét học bổng của các bạn.
 Để được tư vấn kỹ hơn Bạn có thể liên hệ với TỔ HỖ TRỢ TRIỂN KHAI HỆ THỐNG iCTSV tại:
 - Địa chỉ: Phòng 106-D4, ĐHBK Hà Nội
 - Fanpage: 
 https://fb.com/ictsv.hust/
-https://l.facebook.com/l.php?u=https%3A%2F%2Ffb.com%2Fictsv.hust%2F&h=AT2qvvwLugS707pDitCRmBYx-5aAE3A6vCaJTBx9h4K-KohHz0VhmvBjd1soYxwuRlpBZJq5RxxeFBiNEWGbySxZR_GWlyIa1Nae07TDZDHd_PTSiz6ZTcvwYS6aD2PwBQ&__tn__=-UK-R&c[0]=AT0Ix9pSjjDHwiT8MIcnu5ZFQWzehN_9VeoIk5Lp4gWrZqRXfZY2d0TID3r3olyIO2QhYxQD4_R-XDusiHkpC0vkYp7nLSa-Tpu5KpsL8akTzEfoMTuZ-a6V8lAZMDXNDupEfCka37rXjeUYxc0kxETIf3eTo6rQ9clu_rqT-o-cpy1vkscrnRQWZGccYSnl4g517EzJU4_O
 - Group Facebook: 
-https://fb.com/groups/DiemRenLuyenHUST/
 https://fb.com/groups/DiemRenLuyenHUST/
 - Group Yammer: 
 https://bit.ly/Yammer_DrlHust
-https://bit.ly/Yammer_DrlHust?fbclid=IwAR3245bwxu_OCbkqBSqIrwhZaC6NHO-1AqEXc7tFGNfRGe07Ui4Rx1JRL70
 
 
 Title: Đề án: Tăng cường hiệu quả hoạt động hỗ trợ, tư vấn tâm lý sinh viên giai đoạn 2021-2025
@@ -845,9 +837,7 @@ https://hust.edu.vn/vi/sinh-vien/hoat-dong-cua-sinh-vien/cau-lac-bo-sinh-vien-65
 Triển khai kênh tiếp nhận các yêu cầu của CLB như:
 Mượn phòng sinh hoạt CLB tại đây: 
 https://ctsv.hust.edu.vn/#/viet-giay/22_don_dang_ky_muon_phong
-https://ctsv.hust.edu.vn/#/viet-giay/22_don_dang_ky_muon_phong
 Đăng ký đặt bàn truyền thông hoạt động của CLB: 
-https://ctsv.hust.edu.vn/#/viet-giay/23_don_dang_ky_dat_ban
 https://ctsv.hust.edu.vn/#/viet-giay/23_don_dang_ky_dat_ban
 Nếu cần tư vấn thêm các bạn có thể đến phòng 102 - C1, Ban Công tác sinh viên gặp Phó trưởng Ban phụ trách để được hỗ trợ.
 
@@ -861,8 +851,7 @@ Quy định này áp dụng đối với người nước ngoài đến học t�
 a) Lưu học sinh Hiệp định: Là sinh viên nước ngoài được tiếp nhận học tập dài hạn tại ĐHBK Hà Nội theo các Hiệp định, thoả thuận của Chính phủ Việt Nam với các đối tác nước ngoài;
 b) Lưu học sinh ngoài Hiệp định: Là sinh viên nước ngoài được tiếp nhận học tập dài hạn hoặc học tích lũy tín chỉ (từ 1 học kỳ trở lên) tại ĐHBK Hà Nội theo thỏa thuận, hợp đồng đào tạo ký kết giữa ĐHBK Hà Nội với cá nhân sinh viên hoặc các tổ chức, cá nhân gửi đào tạo, tài trợ học bổng cho sinh viên;
 c) Lưu học sinh trao đổi: Là người học nước ngoài đến thực tập, nghiên cứu, trao đổi theo các thỏa thuận, dự án, chương trình hợp tác của ĐHBK Hà Nội hoặc các đơn vị thuộc/trực thuộc ĐHBK Hà Nộ
-Xem chi tiết 
-tại đây
+Xem chi tiết tại đây
 https://drive.google.com/file/d/1UNfTaZDYb_2mD9MjuhMn2R6qMC_aENG4/view?usp=drive_link
 
 
@@ -871,20 +860,14 @@ Các bạn sinh viên thân mến,
 Chúc mừng các bạn đã đủ điều kiện tốt nghiệp ra trường, bạn cần thực hiện thêm một số thủ tục hành chỉnh để chuẩn bị nhận hồ sơ tốt nghiệp và dự lễ tốt nghiệp trang trọng như mong muốn, cụ thể như sau:
 Kiểm tra việc thực hiện thanh toán công nợ còn lại của bạn (nếu có), tại đây: 
 http://ctsv.hust.edu.vn/#/cong-no
-http://ctsv.hust.edu.vn/#/cong-no
- . Các bạn cần hoàn thành công nợ trước 5 ngày làm việc so với ngày bạn định đến nhận bằng và hồ sơ từ ngày 28/9/2024.
+Các bạn cần hoàn thành công nợ trước 5 ngày làm việc so với ngày bạn định đến nhận bằng và hồ sơ từ ngày 28/9/2024.
 Cung cấp Ảnh và lưu bút để làm hình ảnh (kỷ yếu) chiếu lên màn hình trong lễ tốt nghiệp các bạn thực hiện tại đây: 
-https://ctsv.hust.edu.vn/#/le-tot-nghiep
 https://ctsv.hust.edu.vn/#/le-tot-nghiep
  Các bạn cần hoàn thành công nợ trước 7 ngày làm việc so lịch tổ chức Lễ trao bằng tốt nghiệp.
 Nên đọc kỹ hướng dẫn về việc tham gia dự lễ tốt nghiệp tại đây: 
 https://ctsv.hust.edu.vn/#/so-tay-sv/123/huong-dan-du-le-tot-nghiep-va-ho-so-tot-nghiep-dot-thang-9-2024
-https://ctsv.hust.edu.vn/#/so-tay-sv/123/huong-dan-du-le-tot-nghiep-va-ho-so-tot-nghiep-dot-thang-9-2024
-.
 ĐỂ THAM DỰ LỄ TỐT NGHIỆP VÀ NHẬN HỒ SƠ TỐT NGHIỆP
-Nhà trường sẽ tổ chức Lễ tốt nghiệp cho sinh viên tốt nghiệp các đợt tháng 6/2024 và 9/2024 (đợt 2023.2A và 2023.2B) 
-tại Hội trường C2 – Đại học Bách khoa Hà Nội
- theo lịch sau:
+Nhà trường sẽ tổ chức Lễ tốt nghiệp cho sinh viên tốt nghiệp các đợt tháng 6/2024 và 9/2024 (đợt 2023.2A và 2023.2B) tại Hội trường C2 – Đại học Bách khoa Hà Nội theo lịch sau:
 Thứ 7 ngày 28/9/2024:
 Buổi sáng (từ 7h00 đến 11h30): Trường CNTT&TT, Trường Kinh tế
 Buổi chiều (từ 13h00 đến 17h30): Trường Cơ khí, Khoa KH&CN Giáo dục, Khoa Ngoại ngữ.
@@ -895,13 +878,10 @@ Nhà trường trân trọng thông báo và mời các em bố trí thời gian
 Lưu ý
 Đăng ký dự Lễ tốt nghiệp tại đây: 
 https://ctsv.hust.edu.vn/#/le-tot-nghiep
-https://ctsv.hust.edu.vn/#/le-tot-nghiep
 đến hết ngày 24/9/2024
-.
 Làm thủ tục thanh toán công nợ (nếu có) và khảo sát việc làm sau tốt nghiệp tại đây: 
 http://ctsv.hust.edu.vn/#/cong-no
-http://ctsv.hust.edu.vn/#/cong-no
- cần hoàn thành trước 5 ngày đến nhận hồ sơ tốt nghiệp
+cần hoàn thành trước 5 ngày đến nhận hồ sơ tốt nghiệp
 Có mặt đúng giờ (buổi sáng: 7h00; buổi chiều: 13h00) để mượn lễ phục tốt nghiệp do Hội Sinh viên Đại học tổ chức (
 phí mượn lễ phục trả trực tiếp cho Hội Sinh viên khi mượn) 
 sau đó vào Hội trường C2 ngồi đúng vị trí do Ban tổ chức sắp xếp.
@@ -909,9 +889,7 @@ Sinh viên cần mang theo thẻ CC/CCCD hoặc giấy tờ cá nhân khác đ�
 Chụp ảnh lại ảnh Căn cước hoặc cài ứng dụng VNeID để viện nhận hồ sơ tốt nghiệp được thuận lợi.
 Mọi hỏi đáp, thắc mắc về Lễ tốt nghiệp xin vui lòng liên hệ với Ban CTSV theo địa chỉ email: 
 ctsv@hust.edu.vn
-mailto:ctsv@hust.edu.vn
- hoặc số ĐT: (024) 38692896 (gặp cô Linh).
-Ban Công tác Sinh viên
+hoặc số ĐT: (024) 38692896 (gặp cô Linh).
 
 
 Title: Hướng dẫn trả hồ sơ SV ra trường

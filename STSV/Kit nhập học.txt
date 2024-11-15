@@ -359,8 +359,7 @@ https://bom.to/W8x0VQ
 
 Title: Hướng dẫn nhận và sử dụng tài khoản Email sinh viên Bách khoa
 Nhà trường đã thực hiện cấp email mới có dạng 
-...@sis.hust.edu.vn
- (trên nền dịch vụ của Microsoft) cho toàn bộ sinh viên có giấy báo trúng tuyển đại học.
+...@sis.hust.edu.vn (trên nền dịch vụ của Microsoft) cho toàn bộ sinh viên có giấy báo trúng tuyển đại học.
 Lưu ý: Email của tổ chức và cán bộ của Đại học BKHN có dạng ...@hust.edu.vn (ví dụ: mailadmin@hust.edu.vn, ctsv@hust.edu.vn)
 Thông tin từ các mail này là đáng tin cậy.
 Tài khoản Email cho sinh viên Nhà trường cấp sẽ được sử dụng bộ phần mềm Office 365 bản quyền Microsoft
@@ -382,9 +381,7 @@ Mọi thông tin thắc mắc về email HUST vui lòng liên hệ:
 Trung tâm Chuyển đổi số
 Phòng 905A – Tòa nhà Thư viện Tạ Quang Bửu
 SĐT: 024.3868.1643,
-024.3868.2203
-Email: 
-office-bknic@hust.edu.vn
+Email: office-bknic@hust.edu.vn
 
 
 Title: Hướng dẫn sử dụng Cổng thông tin sinh viên (gồm cả phần dành cho phụ huynh)
@@ -862,8 +859,7 @@ https://clc.hust.edu.vn/thong-bao-hau-kiem-chung-chi-ngoai-ngu-cho-sinh-vien-k69
 
 
 Title: Các App hữu dụng đối với sinh viên
-Mới đây thôi, điểm chuẩn đã được công bố trên khắp các trang thông tin của Đại học Bách khoa Hà Nội. Chắc hẳn giờ đây các bạn đang rất hạnh phúc và tất bật chuẩn bị để cùng bố mẹ đến với Hà Nội. Nhưng bên cạnh việc chuẩn bị những đồ dùng cần thiết thì bạn cũng đừng quên chuẩn bị cho mình những app sau đây để phục vụ cho quá trình học tập tại trường thật hiệu quả nha.
- eHUST – App quản trị đại học trực tuyến, thời khóa biểu, hành chính công,.. 
+Mới đây thôi, điểm chuẩn đã được công bố trên khắp các trang thông tin của Đại học Bách khoa Hà Nội. Chắc hẳn giờ đây các bạn đang rất hạnh phúc và tất bật chuẩn bị để cùng bố mẹ đến với Hà Nội. Nhưng bên cạnh việc chuẩn bị những đồ dùng cần thiết thì bạn cũng đừng quên chuẩn bị cho mình những app sau đây để phục vụ cho quá trình học tập tại trường thật hiệu quả nha. eHUST – App quản trị đại học trực tuyến, thời khóa biểu, hành chính công,.. 
 xem chi tiết
 https://www.facebook.com/photo?fbid=899254558899205&set=pcb.899255368899124
  iCTSV – App quản lý hoạt động ngoại khóa, nhà trọ, quà tặng, gia sư, tập luyện thể thao,.. 
@@ -881,7 +877,6 @@ https://www.facebook.com/photo/?fbid=899254525565875&set=pcb.899255368899124
 Để sử dụng các app này các bạn sử dụng tk email do nhà trường cấp.
 Lưu ý các tài khoản email của bạn là rất quan trọng do đó không dùng tài khoản đó cho các ứng dụng khác các ứng dụng liệt kê ở trên. 
 Xem thêm 
-https://ctsv.hust.edu.vn/#/nhap-hoc/thong-tin/57/huong-dan-nhan-va-su-dung-tai-khoan-email-sinh-vien-bach-khoa
 https://ctsv.hust.edu.vn/#/nhap-hoc/thong-tin/57/huong-dan-nhan-va-su-dung-tai-khoan-email-sinh-vien-bach-khoa
 )
 
@@ -901,7 +896,7 @@ Từ ngày 16 - 25/9  địa điểm Phòng 103- C1.
 Thời hạn nộp là 16h30 ngày 25/9/24.
 Lưu ý: Ghi các thông tin của sinh viên ở mặt sau tờ “Giấy giới thiệu di chuyển nghĩa vụ quân sự” hoặc “Giấy xác nhận đăng ký vắng mặt” bao gồm thông tin:
 (1) Họ tên, (2) Mã số sinh viên, (3)  Lớp, (4)  Trường/Khoa.
-
+    
 
 Title: Lịch các buổi sinh hoạt công dân bổ sung cho K69
 Các bạn sinh viên chưa đạt hoặc chưa tham gia các buổi sinh hoạt công dân theo yêu cầu hoặc cần xem lại nội dung quan trọng của Tuần định hướng đầu khóa K69 có thể tham gia sinh hoat online theo các lịch dưới đây:
