@@ -1,13 +1,10 @@
-CÁC THÔNG TIN CẦN BIẾT DÀNH CHO SINH VIÊN CNTT&TT
-Trong quá trình học tập Đại học Bách Khoa Hà Nội (ĐHBKHN), sinh viên có nhiều câu hỏi liên quan đến các vấn đề khác nhau như đăng ký học tập, học phí, chương trình đào tạo, thực tập doanh nghiệp… Sinh viên cần đọc kỹ Sổ tay sinh viên (https://ctsv.hust.edu.vn) để nắm được các thông tin cần thiết trong quá trình học tập. Ngoài ra, Trường Công nghệ Thông tin và Truyền thông (CNTT&TT) có các bộ phận hỗ trợ sinh viên như Văn phòng trường (P505 nhà B1), Tư vấn học tập, Bộ phận phụ trách Thực tập Doanh nghiệp (Trung tâm Innovation – P407B
-nhà B1). Sinh viên đọc kỹ hướng dẫn sau để liên hệ tới đúng bộ phận hỗ trợ các vấn đề đang thắc mắc.
-
 1. Văn phòng Trường CNTT&TT
 1.1. Thông tin liên hệ
 • Địa chỉ: Phòng 505 nhà B1
 • Điện thoại: 02438692463
 • Email: vp@soict.hust.edu.vn
 • Website: https://soict.hust.edu.vn/van-phong-truong
+
 
 1.2. Các thủ tục giải quyết tại Văn phòng Trường CNTT&TT
 Giải quyết hỗ trợ các vấn đề về học tập, tiếp nhận/trả đơn của sinh viên, quản lý hồ sơ sinh viên; Cung cấp các loại giấy tờ bao gồm: Giấy chứng nhận SV, Giấy giới thiệu, in sao bảng điểm, giấy chứng nhận tốt nghiệp tạm thời, mượn hồ sơ….
@@ -21,6 +18,12 @@ Các giáo vụ hỗ trợ các công việc trên bao gồm:
 • Cô Nguyễn Thị Hiền (hiennt@soict.hust.edu.vn), giáo vụ phụ trách các công việc và chương trình đào tạo sau:
 - Global ICT, DS&Al, Cyber Security, Việt - Nhật, Việt - Pháp, Tài năng, Chất lượng cao;
 - Cung cấp: trích sao kết quả học tập, chứng nhận tốt nghiệp tạm thời các hệ đào tạo Đại học.
+
+
+1.2. Các thủ tục giải quyết tại Văn phòng Trường CNTT&TT
+Giải quyết hỗ trợ các vấn đề về học tập, tiếp nhận/trả đơn của sinh viên, quản lý hồ sơ sinh viên; Cung cấp các loại giấy tờ bao gồm: Giấy chứng nhận SV, Giấy giới thiệu, in sao bảng điểm, giấy chứng nhận tốt nghiệp tạm thời, mượn hồ sơ….
+Giải quyết các yêu cầu liên quan đến đăng ký học tập của sinh viên như đăng ký lớp đầy, đăng ký mở lớp, huỷ lớp, đăng ký đồ án tốt nghiệp hè....
+Các giáo vụ hỗ trợ các công việc trên bao gồm:
 • Cô Đinh Thị Thu Hương (huongdtt@soict.hust.edu.vn), văn thư đơn vị (công văn hành chính, đóng dấu), giáo vụ phụ trách các công việc và các chương trình đào tạo sau:
 - Chương trình đào tạo quốc tế SIE;
 - CTĐT Văn bằng 2, đào tạo liên tục;
@@ -29,8 +32,7 @@ Các giáo vụ hỗ trợ các công việc trên bao gồm:
 + Việt Nhật, ICT: từ K50 đến K63.
 + KSCLC, KSTN: từ K57 đến K63.
 + SIE từ K09 đến K17.
-- Cung cấp: Chứng nhận sinh viên, giấy giới thiệu, vé xe bus, giấy đăng ký
-thuê nhà ở, ....
+- Cung cấp: Chứng nhận sinh viên, giấy giới thiệu, vé xe bus, giấy đăng ký thuê nhà ở, ....
 • Cô Trương Thị Vân Thu (thuttv@soict.hust.edu.vn), giáo vụ phụ trách các công
 việc hỗ trợ đào tạo sau:
 - Xử lý mở lớp bổ sung/lớp dạng Project;
@@ -39,20 +41,17 @@ việc hỗ trợ đào tạo sau:
 • Cô Lê Thu Giang (gianglt@soict.hust.edu.vn), kế toán: Hỗ trợ các thủ tục thanh toán liên quan đến sinh viên tham gia trợ giảng (TA) và trợ lý nghiên cứu (RA).
 Chú ý: Sinh viên lưu ý liên hệ theo các kênh trên (đúng quy trình) để được giải quyết nhanh nhất; sinh viên KHÔNG liên hệ trực tiếp với các thầy cô trong Ban Giám hiệu (sai quy trình).
 
+
 2. Ban Cố vấn học tập Trường CNTT&TT
 2.1. Thông tin liên hệ
 Email: tuvanhoctap@soict.hust.edu.vn
-
 2.2. Chức năng của Ban Cố vấn học tập
-• Tư vấn về chương trình đào tạo, môn học, kế hoạch học tập, định hướng nghề
-nghiệp cho sinh viên;
+• Tư vấn về chương trình đào tạo, môn học, kế hoạch học tập, định hướng nghề nghiệp cho sinh viên;
 • Trả lời giải đáp thắc mắc của sinh viên liên quan đến học tập;
 2• Lịch trực tư vấn trực tiếp của tổ tư vấn học tập: cập nhật trên website của Trường
 CNTT&TT tại đây: https://soict.hust.edu.vn/lich-truc-co-van-hoc-tap-vien-cntttt.html
-Chú ý: Ban cố vấn học tập không có chức năng xử lý các vấn đề về thủ tục hành
-chính (như đăng ký học tập,..) và thực tập doanh nghiệp. Trong các trường hợp
-trên sinh viên cần liên hệ Văn phòng Trường và Bộ phận phụ trách thực tập doanh
-nghiệp thuộc trung tâm Innovation.
+Chú ý: Ban cố vấn học tập không có chức năng xử lý các vấn đề về thủ tục hành chính (như đăng ký học tập,..) và thực tập doanh nghiệp. Trong các trường hợp trên sinh viên cần liên hệ Văn phòng Trường và Bộ phận phụ trách thực tập doanh nghiệp thuộc trung tâm Innovation.
+
 
 3. Bộ phận phụ trách thực tập doanh nghiệp
 3.1. Thông tin liên hệ
@@ -61,119 +60,60 @@ nghiệp thuộc trung tâm Innovation.
 • Email: ttdn@soict.hust.edu.vn
 • Fanpage: https://www.facebook.com/groups/ttdn.soict
 3.2. Chức năng của Bộ phận phụ trách thực tập doanh nghiệp
-• Bộ phận phụ trách thực tập doanh nghiệp (TTDN) tổ chức thực hiện hoạt động
-như: Xây dựng mạng lưới các doanh nghiệp đủ tiêu chuẩn tham gia nhận sinh
-viên thực tập doanh nghiệp, lên kế hoạch và tổ chức cho sinh viên đăng ký, thực
-tập và tổng hợp kết quả thực tập của sinh viên và gửi về Trường CNTT&TT.
+• Bộ phận phụ trách thực tập doanh nghiệp (TTDN) tổ chức thực hiện hoạt động như: Xây dựng mạng lưới các doanh nghiệp đủ tiêu chuẩn tham gia nhận sinh viên thực tập doanh nghiệp, lên kế hoạch và tổ chức cho sinh viên đăng ký, thực tập và tổng hợp kết quả thực tập của sinh viên và gửi về Trường CNTT&TT.
 • Hỗ trợ giải đáp mọi vấn đề/câu hỏi của sinh viên về thực tập doanh nghiệp.
-• Quy trình thực tập doanh nghiệp dành cho sinh viên SOICT xem tại:
-https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html
+• Quy trình thực tập doanh nghiệp dành cho sinh viên SOICT xem tại: https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html
 
-4. Các lưu ý đối với sinh viên
+
 4.1. Các trang web cần thiết với sinh viên
-• Cổng thông tin sinh viên (https://ctt.hust.edu.vn/): cung cấp các thông tin về đào
-tạo và dịch vụ của Trường BKHN như kế hoạch học tập, thời gian đăng kí học
-phần, đăng kí tín chỉ, lịch thi của từng kì học, lịch nghỉ lễ, thời khóa biểu,...
-• Cổng thông tin đào tạo (https://ctt-sis.hust.edu.vn): cung cấp thông tin cá nhân
-của sinh viên bao gồm: quản lý hồ sơ sinh viên, các thông tin về đào tạo (chương
-trình đào tạo, kế hoạch học tập, kết quả học tập, đồ án - tốt nghiệp và thời khóa
-biểu tạm thời), các mục tư vấn về đào tạo thanh toán học phí. Sinh viên nên cập
-nhật trang web thường xuyên để nắm được kết quả học tập, tiến độ học và thông
-tin công nợ học phí. Tên đăng nhập là mssv và mật khẩu theo mail của nhà
-trường cấp.
-3• Trang đăng ký học tập sinh viên (https://dk-sis.hust.edu.vn): phục vụ việc đăng kí
-tín chỉ cho mỗi học kỳ. Trang sẽ được mở vào trước mỗi học kỳ để sinh viên
-đăng kí lớp học theo học phần đã đăng kí trước đó theo thời gian quy định. Sinh
-viên sử dụng tên đăng nhập là mssv và mật khẩu theo mail trường cấp. Sinh
-viên đọc kỹ lưu ý khi đăng ký học tập tại phần 4.2 mục c) của hướng dẫn này.
-• Tra cứu các thông tin về các học phần trong chương trình đào tạo: Trang
-http://sis.hust.edu.vn/ModuleProgram/CourseLists.aspx (hoặc chức năng tương
-đương trong portal ctt-sis của sinh viên) cho phép sinh viên tra cứu thông tin về
-các học phần trong CTĐT của mình, đặc biệt hữu ích khi sinh viên cần kiểm tra
-các học phần điều kiện trong quá trình đăng ký học tập.
-• Hệ thống quản trị đại học trực tuyến (https://qldt.hust.edu.vn): cung cấp thông tin
-về lịch học, giảng viên hướng dẫn, thông tin liên hệ với giảng viên, mã lớp, thời
-gian, địa điểm…, thông tin được cập nhật theo các kỳ học.
-• Công tác sinh viên (http://ctsv.hust.edu.vn): cung cấp thông tin về các hoạt động
-ngoại khóa, việc làm, học bổng của doanh nghiệp và các biểu mẫu giấy tờ. Sinh
-viên có thể nộp minh chứng cho các hoạt động và tự chấm điểm rèn luyện của
-mình trên trang web để phục vụ công tác đánh giá điểm rèn luyện.
-• Thư viện Tạ Quang Bửu (https://library.hust.edu.vn): là cổng thông tin của thư
-viện Tạ Quang Bửu, cung cấp thông tin để tra cứu các đầu sách, quy định mượn
-và trả sách, tra cứu tài liệu số hóa,...
-• Cổng đào tạo trực tuyến (https://lms.hust.edu.vn): cung cấp tài liệu học tập, video
-bài giảng cho các môn học theo hình thức Blearning.
-• Website của Trường CNTT&TT (https://soict.hust.edu.vn): cung cấp thông tin
-liên quan đến các hoạt động của Trường CNTT&TT, thông báo, tin tức, sự kiện,
-giảng viên, biểu mẫu một số đơn đăng ký, thực tập doanh nghiệp… hỗ trợ sinh
-viên Trường CNTT&TT.
+• Cổng thông tin sinh viên (https://ctt.hust.edu.vn/): cung cấp các thông tin về đào tạo và dịch vụ của Trường BKHN như kế hoạch học tập, thời gian đăng kí họcphần, đăng kí tín chỉ, lịch thi của từng kì học, lịch nghỉ lễ, thời khóa biểu,...
+• Cổng thông tin đào tạo (https://ctt-sis.hust.edu.vn): cung cấp thông tin cá nhân của sinh viên bao gồm: quản lý hồ sơ sinh viên, các thông tin về đào tạo (chương trình đào tạo, kế hoạch học tập, kết quả học tập, đồ án - tốt nghiệp và thời khóa biểu tạm thời), các mục tư vấn về đào tạo thanh toán học phí. Sinh viên nên cập nhật trang web thường xuyên để nắm được kết quả học tập, tiến độ học và thông tin công nợ học phí. Tên đăng nhập là mssv và mật khẩu theo mail của nhà trường cấp.
+• Trang đăng ký học tập sinh viên (https://dk-sis.hust.edu.vn): phục vụ việc đăng kí tín chỉ cho mỗi học kỳ. Trang sẽ được mở vào trước mỗi học kỳ để sinh viên đăng kí lớp học theo học phần đã đăng kí trước đó theo thời gian quy định. Sinh viên sử dụng tên đăng nhập là mssv và mật khẩu theo mail trường cấp. Sinh viên đọc kỹ lưu ý khi đăng ký học tập tại phần 4.2 mục c) của hướng dẫn này.
+• Tra cứu các thông tin về các học phần trong chương trình đào tạo: Trang http://sis.hust.edu.vn/ModuleProgram/CourseLists.aspx (hoặc chức năng tương đương trong portal ctt-sis của sinh viên) cho phép sinh viên tra cứu thông tin về các học phần trong CTĐT của mình, đặc biệt hữu ích khi sinh viên cần kiểm tra các học phần điều kiện trong quá trình đăng ký học tập.
+• Hệ thống quản trị đại học trực tuyến (https://qldt.hust.edu.vn): cung cấp thông tin về lịch học, giảng viên hướng dẫn, thông tin liên hệ với giảng viên, mã lớp, thời gian, địa điểm…, thông tin được cập nhật theo các kỳ học.
+• Công tác sinh viên (http://ctsv.hust.edu.vn): cung cấp thông tin về các hoạt động ngoại khóa, việc làm, học bổng của doanh nghiệp và các biểu mẫu giấy tờ. Sinh viên có thể nộp minh chứng cho các hoạt động và tự chấm điểm rèn luyện của mình trên trang web để phục vụ công tác đánh giá điểm rèn luyện.
+• Cổng đào tạo trực tuyến (https://lms.hust.edu.vn): cung cấp tài liệu học tập, video bài giảng cho các môn học theo hình thức Blearning.
+• Website của Trường CNTT&TT (https://soict.hust.edu.vn): cung cấp thông tin liên quan đến các hoạt động của Trường CNTT&TT, thông báo, tin tức, sự kiện, giảng viên, biểu mẫu một số đơn đăng ký, thực tập doanh nghiệp… hỗ trợ sinh viên Trường CNTT&TT.
+
+
 4.2. Quy trình, biểu mẫu, các thủ tục hành chính
-Sinh viên cần thường xuyên truy cập website (https://soict.hust.edu.vn) của Trường
-CNTT&TT, đặc biệt các mục về Đào tạo, Sinh viên, Tin tức, Sự kiện..là nơi cung
-cấp:
+Sinh viên cần thường xuyên truy cập website (https://soict.hust.edu.vn) của Trường CNTT&TT, đặc biệt các mục về Đào tạo, Sinh viên, Tin tức, Sự kiện..là nơi cung cấp:
 • Thông tin về Chương trình đào tạo (https://soict.hust.edu.vn/dao-tao/he-dai-hoc),
-Ban cố vấn học tập (https://soict.hust.edu.vn/lich-truc-co-van-hoc-tap-vien-
-cntttt.html), Thực tập doanh nghiệp (https://soict.hust.edu.vn/thuc-tap-doanh-
-nghiep.html)
-• Các biểu mẫu, hướng dẫn, quy trình dành cho sinh viên
-(https://soict.hust.edu.vn/bieu-mau-va-quy-dinh-danh-cho-sinh-vien.html)
+Ban cố vấn học tập (https://soict.hust.edu.vn/lich-truc-co-van-hoc-tap-vien-cntttt.html), Thực tập doanh nghiệp (https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html)
+• Các biểu mẫu, hướng dẫn, quy trình dành cho sinh viên (https://soict.hust.edu.vn/bieu-mau-va-quy-dinh-danh-cho-sinh-vien.html)
+
 
 5a. Đăng ký giấy tờ trực tuyến
-Các giấy tờ sinh viên có thể đăng ký: Giấy chứng nhận SV, Giấy giới thiệu, trích
-sao kết quả học tập, giấy chứng nhận tốt nghiệp tạm thời…
+Các giấy tờ sinh viên có thể đăng ký: Giấy chứng nhận SV, Giấy giới thiệu, trích sao kết quả học tập, giấy chứng nhận tốt nghiệp tạm thời…
 Để nhận các giấy tờ hành chính, sinh viên cần đăng ký trực tuyến trên hệ thống
-Quản trị đại học trực tuyến (https://qldt.hust.edu.vn), theo dõi kết quả trước khi đến
-nhận tại văn phòng, cụ thể như sau:
-• Bước 1: Sinh viên đăng nhập hệ thống (https://qldt.hust.edu.vn) bằng mã số sinh
-viên (mssv) hoặc email sis (mục office 365)
+Quản trị đại học trực tuyến (https://qldt.hust.edu.vn), theo dõi kết quả trước khi đến nhận tại văn phòng, cụ thể như sau:
+• Bước 1: Sinh viên đăng nhập hệ thống (https://qldt.hust.edu.vn) bằng mã số sinh viên (mssv) hoặc email sis (mục office 365)
 • Bước 2: Chọn phần Biểu mẫu
 • Bước 3: Chọn giấy tờ cần đăng ký và điền thông tin
 • Bước 4: Save
 Chú ý: Đối với các giấy tờ không có trên hệ thống (vé xe buýt, đơn thuê nhà...)
 sinh viên tự làm và nộp tại Văn phòng Trường.
 
+
 b. Liên hệ nhận giấy tờ
-Sinh viên đến Văn phòng Trường (Phòng 505 nhà B1) nhận giấy tờ đã đăng ký
-trên hệ thống Quản trị Đại học với các cán bộ phụ trách như sau:
-• Cô Nguyễn Thanh Nguyệt: trích sao kết quả học tập, chứng nhận tốt nghiệp tạm
-thời hệ đào tạo sau đại học.
-• Cô Nguyễn Thị Hiền: trích sao kết quả học tập, chứng nhận tốt nghiệp tạm thời
-các hệ đào tạo Đại học.
-• Cô Đinh Thị Thu Hương: Chứng nhận sinh viên, giấy giới thiệu, vé xe bus, giấy
-đăng ký thuê nhà ở, ...vv.
-• Lịch trả giấy tờ: Thứ 3, thứ 5 hàng tuần: Sáng từ 8h30 - 11h30, chiều từ 13h30
-- 16h30
+Sinh viên đến Văn phòng Trường (Phòng 505 nhà B1) nhận giấy tờ đã đăng ký trên hệ thống Quản trị Đại học với các cán bộ phụ trách như sau:
+• Cô Nguyễn Thanh Nguyệt: trích sao kết quả học tập, chứng nhận tốt nghiệp tạm thời hệ đào tạo sau đại học.
+• Cô Nguyễn Thị Hiền: trích sao kết quả học tập, chứng nhận tốt nghiệp tạm thời các hệ đào tạo Đại học.
+• Cô Đinh Thị Thu Hương: Chứng nhận sinh viên, giấy giới thiệu, vé xe bus, giấy đăng ký thuê nhà ở, ...vv.
+• Lịch trả giấy tờ: Thứ 3, thứ 5 hàng tuần: Sáng từ 8h30 - 11h30, chiều từ 13h30- 16h30
 • Lịch mượn/Trả hồ sơ SV, trả bằng lẻ: Chiều thứ 5 hàng tuần từ 14h đến 16h30.
-Chú ý: Sinh viên chỉ lên lấy giấy tờ sau khi trên hệ thống Quản trị đại học trực
-tuyến có thông báo đã xử lý xong. Sinh viên cần gặp đúng Giáo vụ phụ trách để
-nhận giấy tờ đã đăng ký.
+Chú ý: Sinh viên chỉ lên lấy giấy tờ sau khi trên hệ thống Quản trị đại học trực tuyến có thông báo đã xử lý xong. Sinh viên cần gặp đúng Giáo vụ phụ trách để nhận giấy tờ đã đăng ký.
+
 
 c. Đăng ký học tập
-Sinh viên tham khảo và nắm vững quy chế đào tạo chính quy năm 2021 tại đây:
-https://ctt.hust.edu.vn/Upload/Nguyen%20Quoc%20Dat/files/DTDH_QDQC/Hoctap/Q
-CDT-2021-upload.pdf
-Sinh viên cần nắm rõ những điều sinh viên cần biết trong sổ tay sinh viên tại đây:
-https://sv-ctt.hust.edu.vn/#/so-tay-sv
-6Sinh viên xem hướng dẫn gửi câu hỏi tới Phòng Đào tạo tại đây: https://sv-
-ctt.hust.edu.vn/#/so-tay-sv/69/huong-dan-gui-cau-hoi-toi-phong-dao-tao-cac-van-de-ve-
-hoc-tap-hoc-phi
 Sinh viên khi đăng ký học tập lưu ý:
-• Để việc đăng ký học tập được thuận lợi và đảm bảo đủ chỗ cho tất cả sinh viên,
-đề nghị sinh viên cần lưu ý đăng ký học phần cho học kỳ tiếp theo khi phòng
+• Để việc đăng ký học tập được thuận lợi và đảm bảo đủ chỗ cho tất cả sinh viên, đề nghị sinh viên cần lưu ý đăng ký học phần cho học kỳ tiếp theo khi phòng
 Đào tạo mở đăng ký trên sis từ đầu học kỳ trước.
-• Sinh viên cần đọc kỹ Thông báo (Kế hoạch mở đăng ký lớp) và làm đúng theo
-hướng dẫn của Trường về việc đăng ký học tập trong kỳ.
-• Sinh viên trước khi đăng ký Học phần, phải đọc kỹ nội dung Ghi chú cho từng
-lớp – Class note để đăng ký cho đúng, tránh đăng ký nhầm hệ (phần ghi chú đã
-nêu rõ lớp mở cho hệ nào, khóa nào, học chậm, học lại….), ví dụ: mở cho KSTN
-thì sv các hệ khác không được đăng ký; hoặc mở cho hệ KSCQ thì sinh viên
-Việt Nhật, Việt Pháp, ICT... không được đăng ký vào.
-• Trước ngày kết thúc đăng ký học tập, sinh viên cần kiểm tra lại các học phần có
-lớp thí nghiệm/thực hành để đảm bảo đủ cả lớp lý thuyết (LT+BT) và lớp thí
-nghiệm/thực hành.
-Lưu ý: Sinh viên thắc mắc học phần thuộc mã nào thì cần tìm Trường/Viện/Khoa
-quản mã ngành đấy để xử lý (ví dụ Trường CNTT&TT chỉ xử lý các vấn đề của
-các môn có mã ITxxxx).
+• Sinh viên cần đọc kỹ Thông báo (Kế hoạch mở đăng ký lớp) và làm đúng theo hướng dẫn của Trường về việc đăng ký học tập trong kỳ.
+• Sinh viên trước khi đăng ký Học phần, phải đọc kỹ nội dung Ghi chú cho từng lớp – Class note để đăng ký cho đúng, tránh đăng ký nhầm hệ (phần ghi chú đã nêu rõ lớp mở cho hệ nào, khóa nào, học chậm, học lại….), ví dụ: mở cho KSTN thì sv các hệ khác không được đăng ký; hoặc mở cho hệ KSCQ thì sinh viên Việt Nhật, Việt Pháp, ICT... không được đăng ký vào.
+• Trước ngày kết thúc đăng ký học tập, sinh viên cần kiểm tra lại các học phần có lớp thí nghiệm/thực hành để đảm bảo đủ cả lớp lý thuyết (LT+BT) và lớp thí nghiệm/thực hành.
+Lưu ý: Sinh viên thắc mắc học phần thuộc mã nào thì cần tìm Trường/Viện/Khoa quản mã ngành đấy để xử lý (ví dụ Trường CNTT&TT chỉ xử lý các vấn đề của các môn có mã ITxxxx).
+
 
 d. Thực tập Doanh nghiệp
 • Sinh viên cần đọc kỹ hướng dẫn trong quy trình thực tập tại doanh nghiệp cho sinh viên SOICT tại đây: https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html.
@@ -182,5 +122,4 @@ Sinh viên lưu ý đọc trước khi gửi câu hỏi.
 • Các câu hỏi/thắc mắc khác liên quan đến thực tập doanh nghiệp, sinh viên cần liên hệ với bộ phận phụ trách thực tập doanh nghiệp theo thông tin ở trên.
 Sinh viên đăng ký các học phần Thực tập doanh nghiệp lưu ý:
 • Phải đăng ký trên hệ thống https://dk-sis.hust.edu.vn để được tính học phần, nộp học phí và bắt buộc phải đăng ký trên cả hệ thống https://qldt.hust.edu.vn/ để được nhận thực tập và đánh giá điểm.
-• Sinh viên phải tuân thủ theo Quy trình Thực tập Doanh nghiệp
-https://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html
+• Sinh viên phải tuân thủ theo Quy trình Thực tập Doanh nghiệphttps://soict.hust.edu.vn/thuc-tap-doanh-nghiep.html

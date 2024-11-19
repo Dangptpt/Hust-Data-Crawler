@@ -1,8 +1,6 @@
-GIỚI THIỆU CHUNG:
-Tên đầy đủ bằng tiếng Việt: TRUNG TÂM CÔNG NGHỆ VÀ GIẢI PHÁP CHUYỂN ĐỔI SỐ TRONG GIÁO DỤC
+TRUNG TÂM CÔNG NGHỆ VÀ GIẢI PHÁP CHUYỂN ĐỔI SỐ TRONG GIÁO DỤC
 Tên tiếng Anh: Centre for Technology and Solution for Education (Edtech)
-Giám đốc trung tâm:
-TS. Phạm Huy Hoàng
+Giám đốc trung tâm:TS. Phạm Huy Hoàng
 https://soict.hust.edu.vn/ts-pham-huy-hoang.html
 Phó giám đốc trung tâm:TS. Đặng Tuấn Linh
 https://soict.hust.edu.vn/ts-dang-tuan-linh.html
@@ -11,7 +9,8 @@ Website:https://daotao.ai
 Trung tâm Công nghệ và Giải pháp Chuyển đổi số trong Giáo dục (gọi tắt là Trung tâm EdTech) là đơn vị thuộc trường Công Nghệ Thông tin và Truyền Thông, do Hiệu trưởng ĐHBK Hà Nội ra quyết định thành lập, được đặt tại Trường CNTT&TT và chịu sự quản lý trực tiếp của Trường CNTT&TT.
 Trung tâm EdTech được xây dựng với mô hình hoạt động mở, khuyến khích các nhà khoa học, các chuyên gia nghiên cứu trong và ngoài nước triển khai các nghiên cứu, ứng dụng trong lĩnh vực chuyển đổi số giáo dục, nhằm nâng cao hiệu quả đào tạo, đưa giáo dục chất lượng cao đến với mọi người. Trong mục tiêu dài hạn, Trung tâm EdTech là nơi kết nối các nhóm nghiên cứu, phát triển, triển khai ứng dụng về chuyển đổi số trong giáo dục trong ĐHBKHN cùng với các cơ sở ngoài trường, nhằm phát huy sức mạnh, cùng nhau thực hiện các mục tiêu nghiên cứu, đào tạo, chuyển giao công nghệ trong lĩnh vực chuyển đổi số giáo dục. Trung tâm được thành lập theo mô hình trung tâm nghiên cứu quốc tế hỗn hợp, theo đó, ĐHBKHN và đơn vị đối tác, Sun* Inc. (Nhật Bản) sẽ cùng đầu tư xây dựng và vận hành trung tâm.
 
-CHỨC NĂNG CỦA TRUNG TÂM
+
+TRUNG TÂM CÔNG NGHỆ VÀ GIẢI PHÁP CHUYỂN ĐỔI SỐ TRONG GIÁO DỤC
 Trung tâm có các chức năng chính sau đây:
 1. Tổ chức thực hiện các hoạt động nghiên cứu khoa học, chuyển giao công nghệ và đổi mới sáng tạo trong lĩnh vực chuyển đổi số trong giáo dục;
 2. Tổ chức thực hiện các hoạt động dịch vụ khoa học – kỹ thuật;
@@ -19,7 +18,8 @@ Trung tâm có các chức năng chính sau đây:
 4. Tham gia hỗ trợ các hoạt động đào tạo chính quy, đặc biệt là đào tạo sau đại học;
 5. Làm cầu nối hợp tác giữa các nhóm nghiên cứu trong trường ĐHBK với các nhóm nghiên cứu trong và ngoài nước.
 
-NHIỆM VỤ CỦA TRUNG TÂM
+
+NHIỆM VỤ CỦA TRUNG TÂM CÔNG NGHỆ VÀ GIẢI PHÁP CHUYỂN ĐỔI SỐ TRONG GIÁO DỤC
 1. NGHIÊN CỨU KHOA HỌC, ỨNG DỤNG
 Tổ chức nghiên cứu và phát triển các lĩnh vực liên quan đến chuyển đổi số trong giáo dục, tập trung vào 2 lĩnh vực chính là đào tạo trên mạng qui mô lớn (MOOC) và các hệ thống quản trị đại học (Education ERP…). Các hướng nghiên cứu hỗ trợ cũng được triển khai, bao gồm phân tích dữ liệu (học tập) lớn, hỗ trợ tư vấn học tập tự động, hỗ trợ học tập và đào tạo sử dụng các công nghệ tiên tiến như AI, VR, v.v..
 Tổ chức các hoạt động trao đổi, hợp tác nghiên cứu với các chuyên gia, các nhóm nghiên cứu uy tín trong và ngoài nước nhằm cập nhật các hướng nghiên cứu mới trên thế giới. Tổ chức các xê-mi-na nghiên cứu trong phạm vi trung tâm nhằm nâng cao mối liên kết giữa các nhóm nghiên cứu, tạo động lực cho các nhóm nghiên cứu.

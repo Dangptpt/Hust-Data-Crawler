@@ -1,16 +1,14 @@
-Giới thiệu chung
+Trung tâm máy tính & Thực hành
 Tên Tiếng Anh: Engineering Practice and Computer Centre
 Địa chỉ: P401-B1, Đại học Bách khoa Hà Nội
 Giám đốc: ThS. Phạm Thanh Liêm
 https://soict.hust.edu.vn/can-bo/ths-pham-thanh-liem.html
-Phó Giám đốc:
-TS. Hoàng Văn Hiệp
-https://soict.hust.edu.vn/can-bo/ts-hoang-van-hiep.htmlTel: (+84)38692205
-Email:
-cc@soict.hust.edu.vn
-mailto:cc@soict.hust.edu.vn
-Web:
-http://ttmt.hust.edu.vn
+Phó Giám đốc:TS. Hoàng Văn Hiệp
+https://soict.hust.edu.vn/can-bo/ts-hoang-van-hiep.html
+Tel: (+84)38692205
+Email:cc@soict.hust.edu.vn
+Web:http://ttmt.hust.edu.vn
+
 
 Trung Tâm Máy Tính được thành lập theo quyết định số 76/QĐ – CB ngày 09-02-1980  của Bộ trưởng Bộ đại học và Trung học chuyên nghiệp;
 Tiền thân là phòng máy tính của Khoa Toán Lý, được trang bị các máy tính Minsk 22 và EC 1022 của Liên Xô, vào thời điểm đó đây là máy tính mạnh nhất Miền Bắc;
@@ -18,16 +16,11 @@ Năm 1980-1987 Trung tâm khai thác máy tính EC 1022 phục vụ cho kỹ sư
 Năm 1987 – 1991 Trung tâm máy tính  thực hành được trang bị thêm các máy tính thế hệ mới, Trung tâm đã từng bước ứng dụng tin học vào các khâu quản lý của Bộ và Trường như: Tuyển sinh đại học, tính lương cho CBCNVC, tính học bổng cho sinh viên, xử lý kết quả học tập, quản lý hồ sơ cán bộ…
 Năm 1992 Trung tâm đổi tên “Trung tâm máy tính và Tin học ứng dụng”
 Được đào tạo Kỹ sư tin học ứng dụng (bằng 2), Cao đẳng, Trung cấp  Kỹ thuật tin học, hướng dẫn thực hành cho sinh viên toàn Trường, hướng dẫn thực tập các đề tài, luận án có ứng dụng tin học;
-Năm 1995 Trung tâm máy tính cùng với một số đơn vị trong Trường để lập thành Khoa Công nghệ thông tin, nay là Viện Công nghệ thông tin và Truyền thông;
-Ngày 15/10/2021 đã đánh dấu mốc son kỷ niệm 65 năm thành lập Trường, đồng thời cũng cũng đánh dấu một cột mốc quan trọng trong việc chuyển mình từ Viện Công nghệ Thông tin và Truyền thông thành Trường Công nghệ Thông tin và Truyền thông. Cùng với đó là việc thành lập, tổ chức lại các đơn vị trong toàn trường. Trung tâm máy tính được thành lập lại với tên mới là Trung tâm Máy tính và Thực hành, là một đơn vị nằm trong khối Phục vụ – Hỗ trợ của Trường, theo Quyết định số 2599/QĐ-ĐHBK-TCCB ngày 18/11/2021 của Hiệu trưởng trường Đại học Bách khoa Hà Nội.
+Chuyên môn đào tạo: Hướng dẫn thực hành tin học đại cương và một số môn cơ sở ngành công nghệ thông tin cho sinh viên Trường Đại học Bách khoa Hà Nội. Phối hợp với các bộ môn và các đơn vị khác để tổ chức đào tạo các lớp ngắn hạn; Tổ chức thi các cuộc thi Olympic cho Trường Đại học Bách khoa Hà Nội;
+Định hướng phát triển: Nâng cao kỹ năng thực hành môn tin đại cương, môn cơ sở ngành cho toàn bộ sinh viên Trường Đại học Bách khoa Hà Nội và Trường Công nghệ Thông tin và Truyền thông.
 
-Chuyên môn đào tạo
-:  Hướng dẫn thực hành tin học đại cương và một số môn cơ sở ngành công nghệ thông tin cho sinh viên Trường Đại học Bách khoa Hà Nội. Phối hợp với các bộ môn và các đơn vị khác để tổ chức đào tạo các lớp ngắn hạn; Tổ chức thi các cuộc thi Olympic cho Trường Đại học Bách khoa Hà Nội;
 
-Định hướng phát triển
-: Nâng cao kỹ năng thực hành môn tin đại cương, môn cơ sở ngành cho toàn bộ sinh viên Trường Đại học Bách khoa Hà Nội và Trường Công nghệ Thông tin và Truyền thông.
-
-Nhiệm vụ:
+Nhiệm vụ Trung tâm máy tính & Thực hành:
 Trung tâm Máy tính và Thực hành có nhiệm vụ tham mưu và giúp Hiệu trưởng trong quản lý, tổ chức thực hiện công tác thực hành, thí nghiệm phục vụ đào tạo toàn trường:
 – Quản lý và phát triển đội ngũ cán bộ kỹ thuật: phối hợp xây dựng quy hoạch vị trí việc làm; đào tạo, bồi dưỡng; phối hợp phân công nhiệm vụ và đánh giá cán bộ kỹ thuật;
 – Quản lý cơ sở vật chất, trang thiết bị phục vụ các bài thí nghiệm, thực hành;
@@ -35,11 +28,11 @@ Trung tâm Máy tính và Thực hành có nhiệm vụ tham mưu và giúp Hi�
 – Phối hợp giám sát về nội dung, chất lượng, tiến độ thực hiện các bài thí nghiệm, thực hành theo kế hoạch giảng dạy của ĐHBKHN và của Trường;
 – Phối hợp, tham gia thực hiện công tác đánh giá, kiểm định các chương trình đào tạo liên quan.
 
-Chức năng:
+
+Chức năng Trung tâm máy tính & Thực hành:
 – Tổ chức thực hành các môn Tin học đại cương cho sinh viên chính quy;
 – Tổ chức thực hành các môn cơ sở và một số môn chuyên ngành;
 – Tổ chức thi trên hệ thống máy tính của Trường Công nghệ Thông tin và Truyền thông.
-
 Các nhóm thực hành:
 Tin học đại cương IT1110, IT110Q, IT1140
 Tin học đại cương IT1016, IT1014
