@@ -54,11 +54,11 @@
 
 Điều 5. Điểm học phần
 6. Điểm học phần được tính từ tổng điểm thành phần với trọng số tương ứng, làm tròn tới một chữ số thập phân và quy đổi thành điểm chữ theo quy tắc dưới đây, trừ trường hợp có một điểm thành phần là điểm liệt thì điểm học phần là điểm F. Điểm đạt là điểm học phần từ D trở lên, riêng đối với các học phần tốt nghiệp phải từ C trở lên. Để tính các điểm trung bình, điểm học phần được quy đổi thành điểm số theo thang 4.
-| Điểm học phần theo   | 0,0÷   | 4,0÷   | 5,0÷   | 5,5÷   | 6,5÷   | 7,0÷   | 8,0÷   | 8,5÷  9,5÷   |
-|:---------------------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-------------|
-| thang 10             | 3,9    | 4,9    | 5,4    | 6,4    | 6,9    | 7,9    | 8,4    | 9,4 10       |
-| Điểm chữ quy đổi     | F      | D      | D+     | C      | C+     | B      | B+     | A A+         |
-| Điểm số quy đổi      | 0      | 1      | 1,5    | 2,0    | 2,5    | 3,0    | 3,5    | 4,0 4,0      |
+| Điểm học phần theo   | 0,0÷   | 4,0÷   | 5,0÷   | 5,5÷   | 6,5÷   | 7,0÷   | 8,0÷   | 8,5÷  9,5÷ |
+|:---------------------|:-------|:-------|:-------|:-------|:-------|:-------|:-------|:-----------|
+| thang 10             | 3,9    | 4,9    | 5,4    | 6,4    | 6,9    | 7,9    | 8,4    | 9,4 10     |
+| Điểm chữ quy đổi     | F      | D      | D+     | C      | C+     | B      | B+     | A A+       |
+| Điểm số quy đổi      | 0      | 1      | 1,5    | 2,0    | 2,5    | 3,0    | 3,5    | 4,0 4,0    |
 7. Người học có thể đăng ký học lại học phần đã có điểm đạt để cải thiện điểm trung bình tích lũy. Điểm lần cao nhất được công nhận là điểm chính thức của học phần.
 8. Một số điểm chữ đặc biệt được sử dụng trong các trường hợp sau và không quy đổi được thành điểm số để tính điểm trung bình học tập:
     a) Điểm I: điểm học phần chưa hoàn thiện do được hoãn thi đúng quy định.
@@ -131,16 +131,16 @@
 |:----------|:-------------|:------------|:-----------|:-----------|:------------|
 | Trình độ  | Năm thứ nhất | Năm thứ hai | Năm thứ ba | Năm thứ tư | Năm thứ năm |
 6. Sinh viên được xếp loại học lực theo học kỳ căn cứ điểm trung bình học kỳ và xếp loại học lực từ đầu khóa căn cứ điểm trung bình tích lũy như sau: 
-| GPA hoặc CPA   | < 1,0   | 1,0-1,99   | 2,0-2,49   | 2,5-3,19   | 3,2-3,59   | 3,6-4,0   |
-|:---------------|:--------|:-----------|:-----------|:-----------|:-----------|:----------|
-| Xếp loại       | Kém     | Yếu        | Trung bình | Khá        | Giỏi       | Xuất sắc  |
+| GPA hoặc CPA   | < 1,0   | 1,0-1,99   | 2,0-2,49   | 2,5-3,19   | 3,2-3,59   | 3,6-4,0  |
+|:---------------|:--------|:-----------|:-----------|:-----------|:-----------|:---------|
+| Xếp loại       | Kém     | Yếu        | Trung bình | Khá        | Giỏi       | Xuất sắc |
 7. Trong trường hợp cần thiết, điểm trung bình học kỳ và điểm trung bình tích lũy đạt từ loại trung bình trở lên có thể được quy đổi tương đương sang thang điểm 10 theo quy tắc như sau:
 | Dải điểm thang 4 | Dải điểm thang 10 | Công thức quy đổi: Điểm thang 10 = Điểm thang 4 × a + b |
-|:-----------------|:------------------|:-------------------------------------|
-| 2,0 đến cận 2,5  | 5,5 đến cận 7,0   | a = 3,00;  b = −0,5                  |
-| 2,5 đến cận 3,2  | 7,0 đến cận 8,0   | a = 1,42;  b = 3,45                  |
-| 3,2 đến cận 3,6  | 8,0 đến cận 9,0   | a = 2,50;  b = 0.00                  |
-| 3,6 đến tròn 4,0 | 9,0 đến tròn 10   | a = 2,50;  b = 0.00                  |
+|:-----------------|:------------------|:--------------------|
+| 2,0 đến cận 2,5  | 5,5 đến cận 7,0   | a = 3,00;  b = −0,5 |
+| 2,5 đến cận 3,2  | 7,0 đến cận 8,0   | a = 1,42;  b = 3,45 |
+| 3,2 đến cận 3,6  | 8,0 đến cận 9,0   | a = 2,50;  b = 0.00 |
+| 3,6 đến tròn 4,0 | 9,0 đến tròn 10   | a = 2,50;  b = 0.00 |
 
 Điều 13. Đồ án/khóa luận tốt nghiệp đại học Các học phần tốt nghiệp (sau đây gọi tắt là ĐATN) bao gồm đồ án tốt nghiệp cử nhân, khóa luận tốt nghiệp cử nhân.
 1. Sinh viên được giao đề tài ĐATN nếu có tổng số TC chưa đạt không vượt quá 8 TC so với yêu cầu của CTĐT, không tính số TC của các học phần thực tập tốt nghiệp hoặc thực tập kỹ thuật và ĐATN, đồng thời đạt chuẩn ngoại ngữ theo quy định.

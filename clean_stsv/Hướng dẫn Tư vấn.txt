@@ -253,14 +253,14 @@ Title: Hướng dẫn làm Thẻ gửi xe trong trường và làm vé xe buýt 
 II. Làm vé xe buýt tháng
 1. Các tuyến xe buýt
 Sinh viên có thể đến trường bằng cách sử dụng xe buýt, tùy theo khu vực sinh viên cần đến để lựa chọn các tuyến và điểm dừng xe buýt như sau:
-a) Cổng Parabol gồm các tuyến: 03, 03B, 21A, 21B, 25, 26, 28, 32, 41
-b) Cổng Đại Cồ Việt gồm các tuyến: 35, 44 và 51
-c) Cổng Trần Đại Nghĩa gồm các tuyến: 26, 31
-d) Khu Ký túc xá gồm các tuyến: 23, 31
-e) Nhà T, Nhà TC và Sân vận động Bách khoa gồm các tuyến: 08, 18, 23, 26, 31
+    a) Cổng Parabol gồm các tuyến: 03, 03B, 21A, 21B, 25, 26, 28, 32, 41
+    b) Cổng Đại Cồ Việt gồm các tuyến: 35, 44 và 51
+    c) Cổng Trần Đại Nghĩa gồm các tuyến: 26, 31
+    d) Khu Ký túc xá gồm các tuyến: 23, 31
+    e) Nhà T, Nhà TC và Sân vận động Bách khoa gồm các tuyến: 08, 18, 23, 26, 31
 2. Cách thức làm vé xe buýt tháng
-a) Cách 1: Sinh viên tự điền thông tin và dán ảnh vào Đơn đề nghị làm vé xe buýt tháng (theo mẫu lấy TẠI ĐÂY https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=38014 ) và mang lên Ban Công tác Sinh viên hoặc Văn phòng Viện đào tạo để xin xác nhận sau đó mang đến điểm làm vé xe buýt tháng để làm thẻ.
-b) Cách 2: Sinh viên truy cập vào hệ thống cổng thông tin sinh viên qldt.hust.edu.vn hoặc App iCTSV để đăng ký cấp giấy làm vé xe buýt tháng và mang theo 02 ảnh 2x3cm khi đến Ban Công tác Sinh viên nhận kết quả (ảnh để dán vào Đơn đề nghị là vé xe buýt tháng) và mang Đơn đề nghị làm vé xe buyết tháng (đã có xác nhận của Ban Công tác Sinh viên) đến điểm làm vé xe buýt tháng để làm vé tháng xe buýt.
+    a) Cách 1: Sinh viên tự điền thông tin và dán ảnh vào Đơn đề nghị làm vé xe buýt tháng (theo mẫu lấy TẠI ĐÂY https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=38014 ) và mang lên Ban Công tác Sinh viên hoặc Văn phòng Viện đào tạo để xin xác nhận sau đó mang đến điểm làm vé xe buýt tháng để làm thẻ.
+    b) Cách 2: Sinh viên truy cập vào hệ thống cổng thông tin sinh viên qldt.hust.edu.vn hoặc App iCTSV để đăng ký cấp giấy làm vé xe buýt tháng và mang theo 02 ảnh 2x3cm khi đến Ban Công tác Sinh viên nhận kết quả (ảnh để dán vào Đơn đề nghị là vé xe buýt tháng) và mang Đơn đề nghị làm vé xe buyết tháng (đã có xác nhận của Ban Công tác Sinh viên) đến điểm làm vé xe buýt tháng để làm vé tháng xe buýt.
 3. Địa điểm làm vé xe buýt tháng
 Tại điểm làm vé xe buýt tháng trên Phố Trần Đại Nghĩa (ra khỏi cổng Trần Đại Nghĩa rẽ trái khoảng 300 m) hoặc các điểm làm vé xe buýt khác của Thành phố. Hoặc bạn có thể làm thẻ xe bus ảo bằng cách tải App "Thẻ vé xe bus Hà Nội" theo hướng dẫn dưới đây.
 4. App "Thẻ vé xe bus Hà Nội"
@@ -278,3 +278,173 @@ Sinh viên đến đăng ký làm lại thẻ vào giờ hành chính các ngày
 - Đợt 1: Đăng ký từ 05/9 đến 15/9/2017; Nhận lại từ 02/10/2017
 - Đợt 2: Đăng ký từ 04/12 đến 15/12/2017; Nhận lại từ 02/01/2018.
 Chú ý: SV đăng ký làm lại thẻ sẽ được cấp Giấy chứng nhận sinh viên tạm thời có dán ảnh trong thời gian đợi nhận thẻ mới.
+
+
+CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU ĐẶC THÙ (180 TC) 
+1.  Phạm vi áp dụng 
++ Áp dụng với sinh viên các khóa từ K62 đang học tập và có mong muốn tiếp tục học tập theo chương trình đạo tạo kỹ sư chuyên sâu đặc thù. 
++ Áp dụng với các chương trình đào tạo (viết tắt là: CTĐT) có đào tạo bậc kỹ sư chuyên sâu đặc thù (viết tắt là: KS). 
+2.  Điều kiện học chuyển tiếp Cử nhân – Kỹ sư chuyên sâu đặc thù 
+A.  Với các sinh viên chưa tốt nghiệp bậc cử nhân 
++ Sinh viên đã tích lũy từ 118 tín chỉ trở lên của chương trình đào tạo cử nhân sẽ được phép học tích lũy trước tối đa 15 tín chỉ của CTĐT KS. Trường hợp sinh viên tích lũy trước nhiều hơn 15 tín chỉ thì cũng chỉ được công nhận tối đa 15 tín chỉ học trước. 
++ Các học phần đã học tích lũy trước sẽ không được tính vào CTĐT cho tới khi sinh viên được công nhận tốt nghiệp bậc cử nhân và đồng thời đã đăng ký học tiếp CTĐT KS. 
+B.  Với các sinh viên đã tốt nghiệp bậc cử nhân 
+Sinh viên đã tốt nghiệp cử nhân được đăng ký xét tuyển để học CTĐT KS. Việc xét tuyển với các trường hợp này sẽ thực hiện theo quy định và hướng dẫn riêng. 
+C.  Với sinh viên đã tốt nghiệp/đang học chương trình Elitech 
+Sinh viên các chương trình Elitech có thể học chuyển tiếp lên CTĐT KS chuẩn. 
+D.  Yêu cầu về hướng chuyên sâu của CTĐT KS 
+Sinh viên được phép học theo hướng chuyên ngành KS phù hợp với định hướng ở bậc cử nhân. Trong trường hợp sinh viên chọn hướng chuyên ngành KS khác với định hướng ở bậc cử nhân sẽ cần phải học bổ sung các học phần theo quy định. 
+3.  Về việc đăng ký tốt nghiệp bậc cử nhân 
++ Khi đủ điều kiện tốt nghiệp CTĐT cử nhân (sinh viên cần hoàn thành cả học phần Thực tập kỹ thuật 2 tín chỉ và Đồ án tốt nghiệp cử nhân 6 tín chỉ), sinh viên cần đăng ký tốt nghiệp và đồng thời đăng ký học chuyển tiếp lên CTĐT KS. 
++ Sinh viên đã được công nhận tốt nghiệp bậc cử nhân nhưng chưa đăng ký học chuyển tiếp lên CTĐT KS sẽ không được phép đăng ký học tập ở kỳ kế tiếp.  
++ Các sinh viên được công nhận tốt nghiệp CTĐT cử nhân sẽ được cấp bằng tốt nghiệp cử 
+nhân theo quy định và đồng thời được chính thức chuyển sang học CTĐT KS 180 TC. Khi đó 
+các học phần đã tích lũy trước sẽ được xét công nhận thuộc CTĐT KS của sinh viên. 
+
+
+CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ CHUYÊN SÂU ĐẶC THÙ (180 TC) 
+4.  Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư 
++ Điểm của các học phần bậc kỹ sư chuyên sâu đặc thù sẽ không được sử dụng để xét cấp học bổng khuyến khích học tập ở bậc cử nhân. 
++ Điểm trung bình toàn khóa và hạng tốt nghiệp kỹ sư được thực hiện theo Quy chế đào tạo hiện hành. Trích dẫn quy định về điểm trung bình toàn khóa: “là điểm trung bình tích lũy của cả giai đoạn đào tạo cử nhân đã tốt nghiệp và giai đoạn đào tạo kỹ sư, với trọng số là tỷ lệ phần trăm của số tín chỉ tích lũy của mỗi giai đoạn đào tạo trong tổng số tín chỉ tích lũy của cả hai giai đoạn”. 
++ Xếp bậc năng lực với người học được cấp bằng kỹ sư chuyên sâu đặc thù: người học hoàn 
+thành đủ các học phần theo yêu cầu của CTĐT và đạt chứng chỉ ngoại ngữ tối thiểu trình độ B2(hoặc tương đương) theo Khung năng lực ngoại ngữ 6 bậc của Việt Nam: được cấp bằng Kỹ sư 
+chuyên sâu đặc thù trình độ Bậc 7 theo Khung trình độ quốc gia Việt Nam.
+5.  Về thông tin trên hệ thống quản lý học tập 
++ Khi sinh viên đã được công nhận tốt nghiệp cử nhân: 
+-  Nếu đã đăng ký học tiếp CTĐT KS: Sinh viên được cấp mã số người học mới dựa trên mã 
+số sinh viên bậc cử nhân. 
+-  Nếu chưa đăng ký học tiếp CTĐT KS: Trạng thái sinh viên sẽ là “Tốt nghiệp ra trường”. 
++ Thời gian học CTĐT KS của người học sẽ được tính từ khi có quyết định cho phép học CTĐT KS. 
+6.  Bảo hiểm y tế, thẻ học viên và học bổng khuyến khích học tập 
+Các mục sau đây áp dụng với người học đã có quyết định cho phép học CTĐT KS: 
++ Người học theo học CTĐT KS sẽ phải có bảo hiểm y tế bắt buộc theo quy định. 
++ Người học CTĐT KS sẽ được cấp thẻ học viên. 
++ Học bổng khuyến khích học tập không áp dụng với người học (là học viên) theo CTĐT KS. 
+7.  Học phí: Mức thu tương đương học phí bậc đại học (Cử nhân). 
+
+
+Title: Hướng dẫn làm thủ tục thanh toán ra Trường
+Sinh viên sau khi hoàn thành việc học tập hoặc thôi học giữa chừng cần hoàn thành công nợ (học phí, sách mượn Thư viện, hồ sơ miễn giảm học phí do Covid19 – nếu có) để được nhận Hồ sơ ra Trường. Quy trình thanh toán ra Trường như sau:
+1. Đối với sinh viên tốt nghiệp và nhận bằng theo các đợt tốt nghiệp (1 năm có 5 đợt tốt nghiệp - thời gian cụ thể xem trên biểu đồ kế hoạch năm học):
+a) Sinh viên đã hoàn thành công nợ (học phí, sách mượn thư viện, hồ sơ giảm học phí do Covid19 - nếu có) trước thời gian Nhà trường tổ chức Lễ tốt nghiệp 01 tuần: Sinh viên không cần phải làm thủ tục thanh toán ra Trường và nhận hồ sơ tốt nghiệp (bằng và hồ sơ liên quan khác) sau Lễ tốt nghiệp (theo lịch trả của Trường/ Viện đào tạo).
+b) Sinh viên chưa hoàn thành công nợ (một trong các công nợ sau: học phí, sách mượn thư viện, hồ sơ giảm học phí do Covid19 - nếu có):
+Bước 1: Tải Giấy thanh toán ra Trường tại đây https://ctt.hust.edu.vn/Upload/Nguyen%20Viet%20Tien/files/M%E1%BA%ABu-Gi%E1%BA%A5y-thanh-to%C3%A1n-ra-tr%C6%B0%E1%BB%9Dng.doc và in ra 01 bản.
+Bước 2: Mang Giấy thanh toán ra Trường đến các đơn vị còn công nợ để thanh toán (Học phí đến Phòng Đào tạo - 202 Nhà C1; sách đến Thư viện – Tầng 1 Tòa nhà Thư viện Tạ Quang Bửu; Hồ sơ giảm HP do dịch bệnh Covid-19: Bàn số 3 Phòng 103-C1) và ký giấy thanh toán ra Trường vào các ô liên quan.
+Bước 3: Mang Giấy thanh toán ra Trường đến Phòng Công tác Sinh viên (Phòng 102 Nhà C1) để ký xác nhận đã hoàn thành công nợ.
+Bước 4: Nhận hồ sơ tốt nghiệp tại Trường/ Viện đào tạo (theo lịch trả của Trường/ Viện đào tạo).
+2. Đối với sinh viên tốt nghiệp nhận bằng không theo đợt như trên, sinh viên thôi học giữa chừng:
+Bước 1: Tải Giấy thanh toán ra Trường tại đây https://ctt.hust.edu.vn/Upload/Nguyen%20Viet%20Tien/files/M%E1%BA%ABu-Gi%E1%BA%A5y-thanh-to%C3%A1n-ra-tr%C6%B0%E1%BB%9Dng.doc và in ra 01 bản.
+Bước 2: Mang Giấy thanh toán ra Trường đến Phòng Đào tạo và Thư Viện Tạ Quang Bửu để làm thủ tục ký thanh toán công nợ.
+Bước 3: Mang Giấy thanh toán ra Trường đến Phòng Công tác Sinh viên để ký xác nhận đã hoàn thành công nợ.
+Bước 4: Nhận Hồ sơ:
+Nếu là sinh viên tốt nghiệp: Theo lịch trả của Phòng Đào tạo và Trường/ Viện đào tạo.
+Nếu là sinh viên thôi học giữa chừng: K63 trở về trước nhận tại Trường/ Viện đào tạo theo lịch trả hồ sơ của Trường/ Viện Đào tạo; K64 trở đi nhận tại Phòng CTSV, P102 nhà C1 theo lịch của Phòng CTSV.
+
+
+Title: Hướng dẫn đăng ký học tập
+1. Hướng dẫn đăng ký học tập: Xem tại đây.
+https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=6129
+2. Hướng dẫn đăng ký lớp cho sinh viên hệ đào tạo quốc tế SIE: Xem tại đây.
+https://ctt.hust.edu.vn/DisplayWeb/DisplayBaiViet?baiviet=35630
+
+
+Hướng dẫn tra cứu điểm kỳ mới nhất 
+Triển khai chức năng "Tra cứ điểm kỳ mới nhất" để phục vụ công tác phúc tra
+PHÒNG ĐÀO TẠO THÔNG BÁO VỀ VIỆC TRIỂN KHAI CHỨC NĂNG “TRA CỨU ĐIỂM KỲ MỚI NHẤT”
+Chức năng: Tra cứu điểm môn học để phục vụ phúc tra điểm kỳ hiện tại
+Sinh viên đăng nhập trang https://ctt-daotao.hust.edu.vn/ --> Kết quả học tập --> Kiểm tra nhập điểm kỳ mới nhất
+Nếu có thắc mắc về điểm số trong thời gian Phúc tra (do Viện giảng dạy quy định) sinh viên thực hiện quy trình thắc mắc phúc tra điểm theo yêu cầu của Viện.
+
+
+Hướng dẫn thủ tục chuyển trường dành cho du học sinh và sinh viên quốc tế
+1. Phạm vi áp dụng:
+Áp dụng với các du học sinh Việt Nam và sinh viên quốc tế (gọi chung là sinh viên) có nguyện vọng chuyển từ các trường đại học ở nước ngoài về học tại Trường ĐH Bách khoa Hà Nội.
+2. Các yêu cầu khi tiếp nhận
+- Trường đại học tại nước ngoài (viết tắt: ĐHNN) phải có thứ hạng tương đương hoặc cao hơn thứ hạng của Trường ĐH Bách khoa Hà Nội trong bảng xếp hạng đại học của một trong các tổ chức xếp hạng quốc tế uy tín
+- Sinh viên không thuộc diện bị buộc thôi học của các trường nước ngoài
+- Chương trình đào tạo xin chuyển tới học phải thuộc một trong các chương trình đào tạo hợp tác đào tạo với nước ngoài hoặc các chương trình có ngôn ngữ giảng dạy bằng tiếng nước ngoài tại Trường ĐH Bách khoa Hà Nội.
+3. Các giấy tờ cần chuẩn bị
+- Minh chứng xếp hạng của cơ sở giáo dục đại học tại nước ngoài (bản in của trang web xếp hạng hoặc trang web của trường có công bố xếp hạng, có kèm đường link);
+- Minh chứng về việc sinh viên không thuộc diện bị buộc thôi học: bản in tài khoản học tập cá nhân, trong đó có thể hiện trạng thái học tập của sinh viên hoặc minh chứng khác phù hợp;
+- Đơn xin chuyển trường;
+- Bản photo của các bảng kết quả học tập tại ĐHNN; nếu ngôn ngữ đào tạo khác tiếng Anh thì cần có bản dịch công chứng. Bản chính sẽ nộp khi hồ sơ được xét duyệt chính thức;
+- Để phục vụ việc công nhận tín chỉ tích lũy tương đương, cần cung cấp thêm các giấy tờ sau:
++ Bản mô tả về cách xếp loại kết quả học phần, cách qui đổi tín chỉ tại ĐHNN;
++ Bản mô tả tóm tắt các học phần (kèm theo đường link nếu có)
+4. Cách thức nộp hồ sơ
+Hồ sơ có thể nộp theo một trong các hình thức sau:
+- Nộp trực tiếp tại Phòng Đào tạo 202A-C1, Trường đại học Bách khoa Hà Nội theo giờ hành chính các ngày trong tuần.
+- Hoặc gửi chuyển phát đảm bảo tới: Phòng Đào tạo, Trường đại học Bách khoa Hà Nội, số 1 Đại Cồ Việt, Hà Nội, Việt Nam.
+- Hoặc chụp ảnh hồ sơ và gửi tới địa chỉ email của Phòng Đào tạo: dt@hust.edu.vn
+Tiêu đề email ghi theo cú pháp: Hồ sơ chuyển trường_Họ và tên sinh viên
+
+
+Hướng dẫn kiểm tra điều kiện tốt nghiệp
+ Để tạo điều kiện thuận lợi giúp các bạn sinh viên có thể kiểm tra điều kiện xét tốt nghiệp của sinh viên trước khi xét tốt nghiệp hoặc xét tốt nghiệp không thành công, các bạn sử dụng chức năng Kiểm tra điều kiện tốt nghiệp trên trang http://ctt-daotao.hust.edu.vn
+Bước 1:
+Các bạn đăng nhập vào hệ thống trên trang http://ctt-daotao.hust.edu.vn
+Bước 2: Chọn phần “Chương trình đào tạo” trong mục Thông tin đào tạo
+Bước 3: Click chọn “Chương trình đào tạo sinh viên”
+Trong mục này các bạn có 3 sự lựa chọn:
+Chọn “Các môn trong chương trình đào tạo” để xem các học phần nằm trong chương trình đào tạo của mình
+Phần điều kiện tốt nghiệp: Giúp các bạn xem được các định hướng tốt nghiệp của mình để lựa chọn định hướng xét tốt nghiệp theo đúng chương trình của mình đang học cho phù hợp.
+Kiểm tra điều kiện tốt nghiệp: đây là chức năng giúp các bạn tự kiểm tra xem mình có đủ điều kiện xét tốt nghiệp theo các định hướng lựa chọn hay không.
+Khi chọn mục này các bạn sẽ được đưa ra các định hướng kiểm tra điều kiện tốt nghiệp để kiểm tra chương trình học của mình phù hợp với điều kiện xét tốt nghiệp nào.
+Khi các bạn xác định rõ định hướng học của mình thì các bạn có thể kiểm tra chính xác cụ thể điều kiện xét tốt nghiệp.
+Phần kết quả việc xét tốt nghiệp sẽ được thông báo Kết quả bên dưới. Các bạn dựa vào đó để xem mình còn thiếu điều kiện gì khi thực hiện việc xét tốt nghiệp.
+
+
+Hướng dẫn thủ tục xin nhận bằng hoặc xin giấy chứng nhận tốt nghiệp thay bằng bị mất
+1. Đối với sinh viên khoá cũ khi về trường xin nhận Bằng tốt nghiệp Đại học yêu cầu phải có các loại giấy tờ sau:
+- Giấy giới thiệu của cơ quan về trường xin nhận bằng ( Nếu không đi làm phải xin giấy giới thiệu của địa phương nơi đang cư trú).
+- Trình chứng minh nhân dân (hoặc thẻ căn cước công dân)
+- Giấy thanh toán ra trường ( lấy ở phòng CTSV - C1-103-104, sau khi hoàn thành các dấu thanh toán, photo 1 bản đi kèm)
+- Đối với sinh viên từ khoá 45 trở về trước phải trình chứng chỉ quân sự, thể dục.
+Lịch phát bằng cho sinh viên  khoá cũ: Thứ 3, thứ 5 hàng tuần.
+2. Điều kiện để cấp giấy chứng nhận ( thay Bằng đại học bị mất)
+- Phải có giấy tường trình về việc mất trộm có xác nhận của công an.
+- Trình chứng minh nhân dân (hoặc thẻ căn cước công dân).
+Thời gian nhân giấy chứng nhận: sau khi nộp giấy tờ 3 ngày.
+
+
+Quy định về đề nghị cấp bản sao bằng tốt nghiệp
+Hướng dẫn thủ tục đề nghị cấp bản sao bằng tốt nghiệp Đại học
+Xin cấp bản sao bằng cần phải có :
+- Phải có giấy tường trình việc mất bằng Đại học (có xác nhận của công an).
+- Xuất trình Chứng minh nhân dân
+Chú ý: trong giấy tường trình phải ghi rõ đầy đủ thông tin trong văn bằng bị thất lạc.
+Thời gian nhận lại bản sao: Sau khi nộp giấy tờ 3 ngày, tại: nhà C1 phòng 202A – Bàn số 7
+
+
+Title: Chi bộ sinh viên và quy trình chuyển sinh hoạt Đảng.
+Chi bộ Sinh viên là một tổ chức chính trị trực thuộc Đảng bộ Đại học Bách Khoa Hà Nội hoặc Đảng bộ Bộ phận của các Trường/Khoa đào tạo, là nơi sinh hoạt của những Đảng viên là sinh viên, học viên đang học tập tại Đại học BKHN.
+Mỗi Chi bộ sẽ chịu sự quản lý của đội ngũ Chi ủy. Cơ cấu tổ chức của Chi ủy Chi bộ sinh viên gồm 1 Bí thư (là cán bộ), 1 Phó bí thư và có 1 đến 3 Chi uỷ viên. Chi bộ Sinh viên có hai mảng hoạt động chính đó là 
+Hoạt động chính trị và hoạt động ngoại khoá chuyên đề. Trong đó:
+Hoạt động chính trị: Chi bộ sinh viên họp định kỳ mỗi tháng một lần và phụ trách trực tiếp những công tác liên quan đến Phát triển Đảng, phổ biến và thảo luận về các chủ chương, chính sách, nghị quyết của Chi bộ, Đảng bộ và tổ chức Đảng cấp trên.
+Hoạt động ngoại khoá chuyên đề: Bên cạnh các hoạt động chính trị kể trên, Chi bộ sinh viên còn có các hoạt động ngoại khóa chuyên đề mang đậm màu sắc của đảng viên là sinh viên.
+Hiện nay, Đảng bộ Đại học Bách Khoa có 7 chi bộ sinh viên trong đó Sinh viên thuộc các đơn vị đào tạo gồm:
+Sinh viên thuộc Trường Kinh tế, Khoa Vật lý Kỹ thuật, Khoa Ngoại ngữ, Khoa Khoa học và Công nghệ giáo dục, Trung tâm Đào tạo liên tục, Trường Cao đẳng Nghề Bách khoa Hà Nội được bố trí về sinh hoạt tại Chi bộ Sinh viên trực thuộc Đảng ủy Đại học;
+Sinh viên thuộc Khoa Toán – Tin được bố trí về sinh hoạt tại Chi bộ Sinh viên Toán – Tin;
+Sinh viên thuộc Trường Hóa và Khoa học sự sống được bố trí về sinh hoạt tại Chi bộ Sinh viên Hóa và Khoa học sự sống;
+Sinh viên thuộc Trường Vật liệu được bố trí về sinh hoạt tại Chi bộ Sinh viên Vật liệu;
+Sinh viên thuộc Trường Điện – Điện tử được bố trí về sinh hoạt tại Chi bộ Sinh viên Điện – Điện tử;
+Sinh viên thuộc Trường Công nghệ thông tin và Truyền thông được bố trí về sinh hoạt tại Chi bộ Sinh viên Công nghệ thông tin và Truyền thông;
+Sinh viên thuộc Trường Cơ khí được bố trí về sinh hoạt tại Chi bộ Sinh viên Cơ khí.
+Để trở thành đảng viên tại Đại học Bách Khoa Hà Nội, bạn cần phải phấn đấu để có thành tích học tập, rèn luyện tốt và được tín nhiệm giới thiệu của các tổ chức Đoàn – Hội, CLB/Tổ/Đội/Nhóm sinh viên.
+Quy trình chuyển sinh hoạt từ địa phương đến Đảng bộ Đại học Bách khoa Hà Nội đối với sinh viên là đảng viên (chính thức hoặc dự bị), gồm các bước sau:
+Đảng viên làm bản tự kiểm điểm có xác nhận của Bí thư chi bộ, photo giấy báo nhập học nộp về Đảng ủy phường/xã/trường THPT nơi đang sinh hoạt Đảng;
+Đảng ủy phường/xã/trường THPT viết giấy giới thiệu chuyển sinh hoạt Đảng đối với đảng viên;
+Đảng viên nhận hồ sơ đảng viên từ Đảng ủy phường/xã/trường THPT và gửi lên Huyện ủy/Quận ủy/Thành ủy/Thị ủy trực thuộc tỉnh (gọi tắt là Huyện ủy);
+Đảng viên nhận hồ sơ đảng viên từ Huyện ủy và chuyển lên Đảng ủy Khối các trường ĐH – CĐ Hà Nội và làm theo hướng dẫn của cán bộ Ban Tổ chức Đảng ủy Khối (*);
+Đảng viên nhận lại hồ sơ đảng viên từ Đảng ủy Khối và gửi về Văn phòng Đảng ủy Đại học Bách Khoa Hà Nội sau đó làm theo hướng dẫn của cán bộ Văn phòng Đảng ủy (**);
+Sau khi Văn phòng Đảng ủy kiểm tra, đảng viên được viết giấy giới thiệu về sinh hoạt tại các chi bộ sinh viên tương ứng.
+Gặp bí thư (hoặc cấp ủy) chi bộ sinh viên để xin xác nhận vào phiếu chuyển sinh hoạt đảng.
+Nộp lại phiếu xác nhận sau khi có chữ ký của Bí thứ (cấp ủy) về Văn phòng Đảng ủy Đại học.
+Sau đó, Đảng viên tham gia sinh hoạt tại chi bộ tại chi bộ sinh viên được tiếp nhận. Để không bỏ lỡ lịch sinh hoạt Chi bộ (tối thiểu mỗi tháng/lần), giai đoạn đầu: (1) Cần giữ liên hệ thường xuyên với cấp ủy chi bộ; (2) Tham gia các nhóm liên hệ Online (MSTeam/Zalo/Facebook) của Chi bộ. Địa chỉ làm việc và thông tin liên hệ: (*). Phòng chuyển sinh hoạt đảng tại Đảng ủy Khối các trường ĐH, CĐ Hà Nội
+Lịch chuyển sinh hoạt Đảng: 8h30 – 11h00 ngày thứ Ba, Tư, Năm hàng tuần.
+Địa chỉ: Phòng 106 nhà 2C – Trụ sở Thành ủy Hà Nội, số 219 Trần Phú, quận Hà Đông, thành Phố Hà Nội
+Điện thoại: 02433.546.354 | Email: vanthudukctdhcd@hanoi.gov.vn
+Văn phòng Đảng Ủy Đại học Bách khoa Hà Nội
+Lịch làm việc: Giờ hành chính
+Địa chỉ: Phòng 203 – C2, Đại học Bách khoa Hà Nội
+Số điện thoại: 024.3869 2743

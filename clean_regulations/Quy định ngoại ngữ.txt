@@ -22,30 +22,30 @@
 2. Điều kiện gỡ bỏ hạn chế khối lượng tín chỉ học tập được quy định cụ thể tại các phụ lục tương ứng kèm theo Quy định này.
 
 Danh mục các chương trình đào tạo và ngoại ngữ chính yêu cầu
-| LOẠI/TÊN CHƯƠNG TRÌNH ĐÀO TẠO trung học phổ thông        | NGOẠI NGỮ CHÍNH |
-|:---------------------------------------------------------|:------------|
-| Các chương trình đào tạo chuẩn                           | Tiếng Anh   |
-| Các chương trình đào tạo tài năng                        | Tiếng Anh   |
-| Các chương trình PFIEV                                   | Tiếng Pháp  |
-| 1. Công nghệ thông tin Global ICT                        | Tiếng Anh   |
-| 2. Khoa học dữ liệu và Trí tuệ nhân tạo                  | Tiếng Anh   |
-| 3. An toàn không gian số                                 | Tiếng Anh   |
-| 3. Kỹ thuật điều khiển - Tự động hóa                     | Tiếng Anh   |
-| 5. Hệ thống điện và năng lượng tái tạo                   | Tiếng Anh   |
-| 6. Kỹ thuật Điện tử - Viễn thông                         | Tiếng Anh   |
-| 7. Kỹ thuật Y sinh                                       | Tiếng Anh   |
-| 8. Truyền thông số và kỹ thuật đa phương tiện            | Tiếng Anh   |
-| 9. Kỹ thuật Cơ điện tử                                   | Tiếng Anh   |
-| 10. Kỹ thuật Ô tô                                        | Tiếng Anh   |
-| 11. Khoa học và Kỹ thuật Vật liệu                        | Tiếng Anh   |
-| 12. Kỹ thuật hóa dược                                    | Tiếng Anh   |
-| 13. Kỹ thuật thực phẩm                                   | Tiếng Anh   |
-| 14. Kỹ thuật sinh học                                    | Tiếng Anh   |
-| 15. Phân tích kinh doanh                                 | Tiếng Anh   |
-| 16. Logistic và Quản lý chuỗi cung ứng                   | Tiếng Anh   |
-| 17. Hệ thống nhúng thông minh và IoT                     | Tiếng Nhật  |
-| 18. Công nghệ thông tin Việt-Nhật                        | Tiếng Nhật  |
-| 3. Điện tử - Viễn thông (ĐH Leibniz Hannover, Đức)       | Tiếng Đức   |
-| 4. Cơ điện tử (ĐH Leibniz Hannover, Đức)                 | Tiếng Đức   |
-| 5. Quản trị kinh doanh (ĐH TROY, Mỹ)                     | Tiếng Anh   |
-| 6. Khoa học Máy tính (ĐH TROY, Mỹ)                       | Tiếng Anh   |
+| LOẠI/TÊN CHƯƠNG TRÌNH ĐÀO TẠO trung học phổ thông      | NGOẠI NGỮ CHÍNH |
+|:-------------------------------------------------------|:------------|
+| Các chương trình đào tạo chuẩn                         | Tiếng Anh   |
+| Các chương trình đào tạo tài năng                      | Tiếng Anh   |
+| Các chương trình PFIEV                                 | Tiếng Pháp  |
+| 1. Công nghệ thông tin Global ICT                      | Tiếng Anh   |
+| 2. Khoa học dữ liệu và Trí tuệ nhân tạo                | Tiếng Anh   |
+| 3. An toàn không gian số                               | Tiếng Anh   |
+| 3. Kỹ thuật điều khiển - Tự động hóa                   | Tiếng Anh   |
+| 5. Hệ thống điện và năng lượng tái tạo                 | Tiếng Anh   |
+| 6. Kỹ thuật Điện tử - Viễn thông                       | Tiếng Anh   |
+| 7. Kỹ thuật Y sinh                                     | Tiếng Anh   |
+| 8. Truyền thông số và kỹ thuật đa phương tiện          | Tiếng Anh   |
+| 9. Kỹ thuật Cơ điện tử                                 | Tiếng Anh   |
+| 10. Kỹ thuật Ô tô                                      | Tiếng Anh   |
+| 11. Khoa học và Kỹ thuật Vật liệu                      | Tiếng Anh   |
+| 12. Kỹ thuật hóa dược                                  | Tiếng Anh   |
+| 13. Kỹ thuật thực phẩm                                 | Tiếng Anh   |
+| 14. Kỹ thuật sinh học                                  | Tiếng Anh   |
+| 15. Phân tích kinh doanh                               | Tiếng Anh   |
+| 16. Logistic và Quản lý chuỗi cung ứng                 | Tiếng Anh   |
+| 17. Hệ thống nhúng thông minh và IoT                   | Tiếng Nhật  |
+| 18. Công nghệ thông tin Việt-Nhật                      | Tiếng Nhật  |
+| 3. Điện tử - Viễn thông (ĐH Leibniz Hannover, Đức)     | Tiếng Đức   |
+| 4. Cơ điện tử (ĐH Leibniz Hannover, Đức)               | Tiếng Đức   |
+| 5. Quản trị kinh doanh (ĐH TROY, Mỹ)                   | Tiếng Anh   |
+| 6. Khoa học Máy tính (ĐH TROY, Mỹ)                     | Tiếng Anh   |

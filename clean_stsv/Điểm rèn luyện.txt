@@ -91,3 +91,5 @@ Sử dụng kết quả đánh giá điểm rèn luyện
 2. Kết quả đánh giá rèn luyện toàn khóa học được ghi chung vào bảng điểm kết quả học tập và lưu trong hồ sơ của người học khi tốt nghiệp ra Trường.
 3. Sinh viên có kết quả rèn luyện xuất sắc được Nhà trường xem xét biểu dương, khen thưởng.
 4. Sinh viên bị xếp loại rèn luyện yếu, kém trong hai học kỳ liên tiếp thì phải tạm ngừng học ít nhất một học kỳ ở học kỳ tiếp theo và nếu bị xếp loại rèn luyện yếu, kém hai học kỳ liên tiếp lần thứ hai thì sẽ bị buộc thôi học.
+Khung điểm rèn luyện đánh giá tham khảo năm 2021-2022: 
+Xem tại đây https://ctt.hust.edu.vn/Upload/Nguyen%20Viet%20Tien/files/Khung-DGRL-2020-2021.pdf
